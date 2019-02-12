@@ -11,17 +11,18 @@ def get_geo_articles(city, limit=100):
     return neighbors
 
 
-def find_in_articles(word, articles):
-    needle = '\\b' + word + '\\b'
+def get_list_cities(page):
+    wpage = wikipedia.page(page)
+    soup = BeautifulSoup(wpage.html(), 'html.parser')
+    table = soup.find("table", {"class": "wikitable"})
+    rows = table.find_all("tr")
+    city_links = []
 
-    for article_link in articles:
-        page = wikipedia.page(article_link, auto_suggest=False)
-        found = re.search(needle, page.content.lower())
-        if found:
-            print('found in ' + article_link)
-        else:
-            print('not in ' + article_link)
+    for row in rows:
+        first_element = row.find("td")
+        if first_element != None:
+            anchor = first_element.find("a")
+            link = anchor["href"].split("/")[-1].replace(',', '')
+            city_links.append(link)
 
-
-articles = get_geo_articles("London")
-find_in_articles("beer", articles)
+    return city_links

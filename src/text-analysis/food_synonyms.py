@@ -2,14 +2,18 @@ import wikipedia
 from bs4 import BeautifulSoup
 
 
-def get_food_synonyms(page_name, savepath):
+def get_food_synonyms(page_name, savepath, lang = 'en'):
 
     f = open(savepath, 'w')
 
     foods = wikipedia.page(page_name)
+    foods_links = foods.links
     food_synonyms = []  # each row of the form ([list of synonyms], img)
 
-    for link in foods.links[44:]:
+    if lang != 'en':
+        wikipedia.set_lang(lang)
+
+    for link in foods_links:
         try:
             print('PAGE: ' + link)
             page = wikipedia.page(link, auto_suggest=False)
@@ -67,5 +71,26 @@ def get_spanish_page(article):
         # print('we found it')
 
 
-food_synonyms_en = get_food_synonyms("List of foods", "./data/synonyms.txt")
-# food_synonyms_es = get_food_synonyms("Lista de comidas")
+def list_from_file(filepath):
+    to_return = []
+
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        elems = line.split('\t')
+        foods = elems[0].strip()
+        img = 'None'
+
+        if len(elems) == 2:
+            img = elems[1]
+
+        synonyms = foods.split(', ')
+        to_return.append((synonyms, img))
+
+    return to_return
+
+
+if __name__ == '__main__':
+    food_synonyms_en = get_food_synonyms("List of culinary fruits", "./data/frutas_sinonimos.txt", "es")
+    # food_synonyms_es = get_food_synonyms("Lista de comidas")
