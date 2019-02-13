@@ -28,7 +28,13 @@ def get_food_synonyms(page_name, savepath):
                 food_html_es = page_es.html()
                 es_synonyms = get_synonyms(food_html_es)
             except:
-                pass
+                try:
+                    link = link.replace('(','').replace(')','')
+                    page_es = wikipedia.page(link, auto_suggest=True)
+                    food_html_es = page_es.html()
+                    es_synonyms = get_synonyms(food_html_es)
+                except:
+                    pass
 
             food_synonyms[link] = (en_synonyms, es_synonyms, img_link)
             print(food_synonyms[link])
@@ -117,5 +123,6 @@ def list_from_file(filepath):
 
 
 if __name__ == '__main__':
-    food_synonyms_en = get_food_synonyms("List of vegetables", "./data/all_vegetables_synonyms.txt")
+    #food_synonyms_en = get_food_synonyms("List of vegetables", "./data/all_vegetables_synonyms.txt")
+    food_synonyms_en = get_food_synonyms("List of culinary fruits", "./data/all_fruit_synonyms.txt")
     # food_synonyms_es = get_food_synonyms("Lista de comidas")

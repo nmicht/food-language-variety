@@ -33,31 +33,38 @@ def remove_single_synonyms_from_file(filename):
 	with open(filename, 'r+') as f:
 		lines = f.readlines()
 
-	lines_to_keep = lines
-	i = 0
-    while i < len(lines):
-        key = lines[i].strip()
-        synonyms_en = lines[i+1].strip().split(', ')
-        synonyms_es = lines[i+2].strip().split(', ')
-        img_link = lines[i+3]
-        i += 5
-        if len(synonyms_en) < 2 and len(synonyms_es) < 2:
-        	pass
-        else:
-        	
-
-        entries[key] = (synonyms_en, synonyms_es, img_link)
-
-    return entries
+		lines_to_keep = lines
+		i = 0
+		while i < len(lines_to_keep):
+			synonyms_en = lines_to_keep[i+1].strip().split(', ')
+			synonyms_es = lines_to_keep[i+2].strip().split(', ')
+			# print(synonyms_en)
+			# print(synonyms_es)
+			if len(synonyms_en) < 2 and len(synonyms_es) < 2:
+				# print('about to remove ' + "".join(lines_to_keep[i:i+5]))
+				lines_to_keep = lines_to_keep[:i] + lines_to_keep[i+5:]
+			else:
+				# print('about to keep ' + "".join(lines_to_keep[i:i+5]))
+				i += 5
+			
+		
+		f.seek(0)
+		f.write("".join(lines_to_keep))
+		f.truncate()
 
 
 clean_file_list([
-	'./data/fruits_in_es_counties.txt',
-	'./data/fruits_in_mx_counties.txt',
-	'./data/fruits_in_uk_counties.txt',
+	'./data/fruits_in_us_counties.txt',
+	'./data/veggies_in_us_counties.txt',
+	'./data/veggies_in_es_counties.txt',
+	'./data/veggies_in_uk_counties.txt',
+	'./data/veggies_in_mx_counties.txt'
 	], 
 	[
 	'asia',
+	'United States',
+	'Santa Barbara County',
+	'Genus',
 	'africa',
 	'cuisine', 
 	'americas', 
@@ -65,8 +72,22 @@ clean_file_list([
 	'Mediterranean',
 	'Neolithic',
 	'Vegetable',
+	'Botanical',
 	'List of',
 	'West Indies',
 	'Colombia',
-
+	'International Standard Book Number',
+	'Plant',
+	'Central America',
+	'Temperate',
+	'Mesoamerica',
+	'Tropics',
+	'Habitat',
+	'Latin America',
+	'India',
+	'Eating',
+	'Subarctic'
 	])
+
+
+# remove_single_synonyms_from_file('./data/all_vegetables_synonyms.txt')
