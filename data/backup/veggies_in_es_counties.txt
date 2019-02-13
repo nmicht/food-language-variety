@@ -1,3 +1,5 @@
+
+
 PROVINCE_OF_A_CORUÑA
 43.36999999999999744204615126363933086395263671875, -8.4000000000000003552713678800500929355621337890625
 
@@ -18,10 +20,12 @@ Olive	['Olive']
 
 PROVINCE_OF_ALMERÍA
 37.1666666699999979073254507966339588165283203125, -2.333333329999999872228499953052960336208343505859375
+Vegetable	['Vegetables']
 
 
 ASTURIAS
 43.3333333300000020926745492033660411834716796875, -6
+United States	['America']
 
 
 PROVINCE_OF_ÁVILA
@@ -64,11 +68,13 @@ CANTABRIA
 43.3333333300000020926745492033660411834716796875, -4
 Collard greens	['Collard greens']
 Fruit	['fruit']
+Vegetable	['Vegetables']
 Fruit	['Fruit']
 
 
 PROVINCE_OF_CASTELLÓN
 40.1666666699999979073254507966339588165283203125, -0.1666666699999999889936219688024721108376979827880859375
+Vegetable	['Vegetables']
 
 
 PROVINCE_OF_CIUDAD_REAL
@@ -124,6 +130,7 @@ Cereal	['cereal']
 Cooking	['Cooking']
 Grape	['grape']
 Olive	['olive']
+United States	['United States']
 Capsicum	['Capsicum']
 Olive	['Olive']
 
@@ -137,6 +144,7 @@ PROVINCE_OF_LEÓN
 Bell pepper	['pepper']
 Capsicum	['pepper']
 Garlic	['Garlic']
+United States	['US']
 
 
 PROVINCE_OF_LLEIDA
@@ -153,6 +161,7 @@ LUGO_(PROVINCE)
 
 PROVINCE_OF_MADRID
 40.5, -3.666666670000000127771500046947039663791656494140625
+United States	['America']
 
 
 PROVINCE_OF_MÁLAGA
@@ -162,12 +171,14 @@ PROVINCE_OF_MÁLAGA
 REGION_OF_MURCIA
 None
 Olive	['olive']
+Vegetable	['Vegetables']
 Olive	['Olive']
 
 
 NAVARRE
 42.81666666999999648623997927643358707427978515625, -1.649999999999999911182158029987476766109466552734375
 Olive	['olive']
+Vegetable	['Vegetables']
 Olive	['Olive']
 
 
@@ -236,11 +247,14 @@ Cooking	['Cooking']
 Garlic	['Garlic']
 Grape	['grape']
 Nut (fruit)	['nut']
+United States	['United States', 'America']
+Vegetable	['Vegetables']
 
 
 PROVINCE_OF_ZAMORA
 41.75, -6
 Fruit	['fruit']
+United States	['America']
 Fruit	['Fruit']
 
 

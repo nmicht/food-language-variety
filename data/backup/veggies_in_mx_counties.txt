@@ -1,10 +1,16 @@
+
+
 AGUASCALIENTES
 22.01666666999999932841092231683433055877685546875, -102.349999999999994315658113919198513031005859375
 Grape	['grape']
+United States	['US']
 
 
 BAJA_CALIFORNIA
 30, -115.1666666699999979073254507966339588165283203125
+Genus	['genus']
+Santa Barbara County	['California']
+United States	['United States', 'US', 'America']
 
 
 BAJA_CALIFORNIA_SUR
@@ -12,6 +18,8 @@ BAJA_CALIFORNIA_SUR
 Cassava	['yuca', 'yuca']
 Chickpea	['garbanzo']
 Nopal	['Nopal']
+Santa Barbara County	['California']
+United States	['United States', 'America']
 Cassava	['yuca']
 Nopal	['nopal', 'tuna']
 
@@ -23,6 +31,8 @@ Capsicum	['pepper']
 Fruit	['fruit']
 Squash (plant)	['squash']
 Staple food	['staple']
+United States	['United States', 'America']
+Vegetable	['Vegetables']
 Fruit	['Fruit']
 
 
@@ -38,10 +48,13 @@ Fruit	['fruit']
 Onion	['onion']
 Pumpkin	['pumpkin']
 Purple Salsify	['purple']
+Santa Barbara County	['California']
 Squash (plant)	['squash']
 Staple food	['staple']
 Tomato	['tomato']
+United States	['United States', 'America']
 Vanilla	['Vanilla']
+Vegetable	['Vegetables']
 Chayote	['chayote']
 Fruit	['Fruit']
 Nopal	['tuna']
@@ -54,21 +67,29 @@ MEXICO_CITY
 Cooking	['Cooking']
 Purple Salsify	['purple']
 Rapeseed	['rape']
+Santa Barbara County	['California']
 Staple food	['staple']
+United States	['United States', 'US', 'America']
 
 
 CHIHUAHUA_(STATE)
 28.816666670000000038953658076934516429901123046875, -106.4333333299999964083326631225645542144775390625
+Genus	['genus']
+Santa Barbara County	['California']
 Squash (plant)	['squash']
+United States	['United States', 'US', 'America']
 
 
 COAHUILA
 27.300000000000000710542735760100185871124267578125, -102.0499999999999971578290569595992565155029296875
+United States	['United States', 'US']
 
 
 COLIMA
 19.166666670000001460039129597134888172149658203125, -103.883333329999999250503606162965297698974609375
 Fruit	['fruit']
+Santa Barbara County	['California']
+United States	['United States', 'America']
 Vanilla	['Vanilla']
 Avocado	['aguacate', 'aguacate']
 Fruit	['Fruit']
@@ -82,6 +103,8 @@ Cooking	['Cooking']
 Fruit	['fruit']
 Nopal	['Nopal']
 Nut (fruit)	['nut']
+Santa Barbara County	['California']
+United States	['United States', 'US', 'America']
 Fruit	['Fruit']
 Nopal	['nopal']
 
@@ -92,7 +115,10 @@ Avocado	['avocado']
 Broccoli	['Broccoli']
 Fruit	['fruit']
 Nopal	['Nopal']
+Santa Barbara County	['California']
+United States	['United States', 'US', 'America']
 Vanilla	['Vanilla']
+Vegetable	['Vegetables']
 Broccoli	['broccoli']
 Fruit	['Fruit']
 Momordica charantia	['melon']
@@ -108,6 +134,8 @@ Capsicum	['pepper']
 Cooking	['Cooking']
 Okra	['Okra']
 Staple food	['staple']
+United States	['United States', 'US', 'America']
+Vegetable	['Vegetables']
 Okra	['okra']
 
 
@@ -117,6 +145,7 @@ Cooking	['Cooking']
 Fruit	['fruit']
 Nopal	['Nopal']
 Squash (plant)	['squash']
+United States	['United States']
 Fruit	['Fruit']
 Luffa	['pastes']
 Nopal	['nopal']
@@ -127,9 +156,12 @@ JALISCO
 Bell pepper	['pepper']
 Capsicum	['pepper']
 Fruit	['fruit']
+Santa Barbara County	['California']
 Squash (plant)	['squash']
 Staple food	['staple']
 Tomato	['tomato']
+United States	['United States', 'US', 'America']
+Vegetable	['Vegetables']
 Fruit	['Fruit']
 
 
@@ -138,6 +170,7 @@ STATE_OF_MEXICO
 Cooking	['Cooking']
 Nut (fruit)	['nut']
 Squash (plant)	['squash']
+United States	['United States', 'America']
 
 
 MORELOS
@@ -145,12 +178,15 @@ MORELOS
 Fruit	['fruit']
 Jícama	['jicama']
 Squash (plant)	['squash']
+United States	['United States', 'US', 'America']
+Vegetable	['Vegetables']
 Fruit	['Fruit']
 Peanut	['Peanut']
 
 
 NAYARIT
 21.75, -105.23333332999999356616172008216381072998046875
+United States	['America']
 
 
 OAXACA
@@ -159,13 +195,17 @@ Bell pepper	['pepper']
 Capsicum	['pepper']
 Cooking	['Cooking']
 Fruit	['fruit']
+Genus	['genus']
 Herb	['herbs']
 Herbs	['herbs']
 Lupinus mutabilis	['chocho']
+Santa Barbara County	['California']
 Spice	['spice']
 Squash (plant)	['squash']
 Staple food	['staple food', 'staple']
+United States	['United States', 'US', 'America']
 Vanilla	['Vanilla']
+Vegetable	['Vegetables']
 Fruit	['Fruit']
 Lupinus mutabilis	['chocho']
 Nopal	['tuna']
@@ -186,6 +226,8 @@ Nopal	['Nopal']
 Onion	['onion']
 Squash (plant)	['squash']
 Staple food	['staple']
+United States	['United States', 'U.S.', 'America']
+Vegetable	['Vegetables']
 Avocado	['aguacate', 'aguacate']
 Cassava	['yuca']
 Fruit	['Fruit']
@@ -194,11 +236,16 @@ Nopal	['nopal']
 
 QUINTANA_ROO
 19.60000000000000142108547152020037174224853515625, -87.9200000000000017053025658242404460906982421875
+Santa Barbara County	['California']
+United States	['America']
 
 
 SINALOA
 25, -107.5
+Santa Barbara County	['California']
 Squash (plant)	['squash']
+United States	['United States']
+Vegetable	['Vegetables']
 
 
 SONORA
@@ -210,8 +257,11 @@ Common purslane	['Portulaca oleracea']
 Herb	['herbs']
 Herbs	['herbs']
 Portulaca oleracea	['Portulaca oleracea']
+Santa Barbara County	['California']
 Squash (plant)	['squash']
 Staple food	['staple']
+United States	['USA', 'United States', 'U.S.', 'America']
+Vegetable	['Vegetables']
 Capsicum	['Capsicum']
 Ipomoea aquatica	['Seri']
 Peanut	['Peanut']
@@ -222,10 +272,12 @@ TABASCO
 17.966666669999998617868186556734144687652587890625, -92.5833333300000020926745492033660411834716796875
 Bean	['bean']
 Cooking	['Cooking']
+United States	['United States', 'America']
 
 
 TAMAULIPAS
 24.283333330000001382131813443265855312347412109375, -98.5666666700000035916673368774354457855224609375
+United States	['United States', 'US']
 
 
 TLAXCALA
@@ -233,6 +285,7 @@ TLAXCALA
 Fruit	['fruit']
 Nopal	['Nopal']
 Squash (plant)	['squash']
+United States	['United States']
 Fruit	['Fruit']
 Nopal	['nopal']
 
@@ -250,7 +303,9 @@ Parsley	['Parsley']
 Squash (plant)	['squash']
 Staple food	['staple']
 Tomato	['tomato']
+United States	['United States', 'America']
 Vanilla	['Vanilla']
+Vegetable	['Vegetables']
 Fruit	['Fruit']
 Olive	['Olive']
 Peanut	['Peanut']
@@ -263,5 +318,7 @@ Fruit	['fruit']
 Grape	['grape']
 Nopal	['Nopal']
 Squash (plant)	['squash']
+United States	['United States']
+Vegetable	['Vegetables']
 Fruit	['Fruit']
 Nopal	['nopal']

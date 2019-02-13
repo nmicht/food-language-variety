@@ -1,3 +1,5 @@
+
+
 AVON_(COUNTY)
 None
 
@@ -18,6 +20,7 @@ BERKSHIRE
 Black mulberry	['blackberry']
 Blackberry	['blackberry']
 Crowberry	['blackberry']
+Family (biology)	['Family']
 Manoao	['pine']
 Orange (fruit)	['orange']
 Sweet orange	['orange']
@@ -27,13 +30,16 @@ Blackberry	['BlackBerry']
 
 BRISTOL
 51.4500000000000028421709430404007434844970703125, -2.583333329999999872228499953052960336208343505859375
+Americas	['Americas', 'America']
 Apple	['apple', 'apple tree']
 Apple (fruit)	['apple', 'apple tree']
 Dacryodes edulis	['African']
 Date (fruit)	['date']
 Elderberry	['elder']
+Family (biology)	['Family']
 Food	['Food']
 Honeydew melon	['winter']
+International Standard Book Number	['ISBN']
 Malus	['Apple']
 Mangifera caesia	['jack']
 Phoenix dactylifera	['date']
@@ -41,12 +47,14 @@ Safou	['African']
 Sambucus	['elder']
 Tree	['tree']
 Vitis rupestris	['July', 'sugar', 'beach', 'rock']
+International Standard Book Number	['ISBN']
 Jackfruit	['jack']
 
 
 BUCKINGHAMSHIRE
 51.8333333300000020926745492033660411834716796875, -0.83333332999999998325080241556861437857151031494140625
 Date (fruit)	['date']
+Family (biology)	['Family']
 Phoenix dactylifera	['date']
 Tree	['tree']
 Vitis rupestris	['sand']
@@ -56,10 +64,13 @@ CAMBRIDGESHIRE
 52.3333333300000020926745492033660411834716796875, 0
 Cherry	['cherry']
 Honeydew melon	['winter']
+Neolithic	['Neolithic']
+Temperate	['temperate']
 
 
 CAMBRIDGESHIRE_AND_ISLE_OF_ELY
 52.21666667000000217058186535723507404327392578125, 0.1000000000000000055511151231257827021181583404541015625
+Habitat (ecology)	['habitat']
 
 
 CHESHIRE
@@ -67,7 +78,9 @@ CHESHIRE
 Elderberry	['elder']
 Food	['Food']
 Lime (fruit)	['lime']
+Neolithic	['Neolithic']
 Orange (fruit)	['orange']
+Plant	['Plants']
 Sambucus	['elder']
 Sweet orange	['orange']
 Vitis rupestris	['July']
@@ -80,26 +93,40 @@ Apple (fruit)	['apple']
 Black mulberry	['blackberry']
 Blackberry	['blackberry']
 Crowberry	['blackberry']
+Cuisine	['cuisine']
 Date (fruit)	['date']
 Ericaceae	['heath']
+Family (biology)	['Family']
 Food	['Food']
+International Standard Book Number	['ISBN']
 Malus	['Apple']
 Mangifera caesia	['jack']
+Neolithic	['Neolithic']
 Phoenix dactylifera	['date']
+Plant	['Plants']
 Sweet pepper	['pepper']
+Temperate	['temperate']
+Vegetable	['Vegetables']
 Vitis rupestris	['July', 'sand', 'beach', 'rock']
 Blackberry	['BlackBerry']
+International Standard Book Number	['ISBN']
 Jackfruit	['jack']
 
 
 CUMBERLAND
 54.75, -3
+Americas	['America']
+International Standard Book Number	['ISBN']
+International Standard Book Number	['ISBN']
 
 
 CUMBRIA
 54.5, -3.25
+Americas	['America']
 Davidsonia	['Davidson']
 Food	['Food']
+Neolithic	['Neolithic']
+Plant	['Plants']
 Rose	['rose']
 Passiflora ligularis	['granada']
 Punica granatum	['granada']
@@ -111,21 +138,27 @@ Crowberry	['Empetrum nigrum', 'crowberry']
 Date (fruit)	['date']
 Empetrum	['Empetrum']
 Ericaceae	['heather']
+International Standard Book Number	['ISBN']
 Lime (fruit)	['lime']
+Neolithic	['Neolithic']
 Phoenix dactylifera	['date']
+Plant	['Plants']
 Rose	['rose']
 Rubus	['Rubus']
 Vaccinium	['Vaccinium']
 Vitis rupestris	['rock']
 Empetrum	['Empetrum']
+International Standard Book Number	['ISBN']
 Passiflora ligularis	['granada']
 Punica granatum	['granada']
 
 
 DEVON
 50.71666667000000217058186535723507404327392578125, -3.716666669999999950135816106921993196010589599609375
+Americas	['America']
 Berry	['berry']
 Berry (botany)	['berry']
+Cuisine	['cuisine']
 Food	['Food']
 Honeydew melon	['winter']
 Mangifera caesia	['jack']
@@ -140,15 +173,20 @@ DORSET
 Elderberry	['elder']
 Ericaceae	['heath']
 Food	['Food']
+Habitat (ecology)	['habitat']
 Honeydew melon	['winter']
+International Standard Book Number	['ISBN']
+Neolithic	['Neolithic']
 Sambucus	['elder']
 Tree	['tree']
 Vitis rupestris	['sand', 'beach', 'rock']
+International Standard Book Number	['ISBN']
 
 
 COUNTY_DURHAM
 54.6666666699999979073254507966339588165283203125, -1.8333333300000000942731048780842684209346771240234375
 Date (fruit)	['date']
+Family (biology)	['Family']
 Phoenix dactylifera	['date']
 Vitis rupestris	['July', 'rock']
 
@@ -167,13 +205,17 @@ Vitis rupestris	['beach']
 ESSEX
 51.75, 0.58333332999999998325080241556861437857151031494140625
 Date (fruit)	['date']
+Family (biology)	['Family']
 Phoenix dactylifera	['date']
 Rose	['rose']
 
 
 GLOUCESTERSHIRE
 51.8333333300000020926745492033660411834716796875, -2.166666670000000127771500046947039663791656494140625
+Family (biology)	['Family']
+International Standard Book Number	['ISBN']
 Vitis rupestris	['July']
+International Standard Book Number	['ISBN']
 
 
 GREATER_LONDON
@@ -189,9 +231,13 @@ GREATER_MANCHESTER
 53.5, -2.316666670000000038953658076934516429901123046875
 Coconut	['coconut']
 Cucurbita	['squash']
+Cuisine	['cuisine']
+Eating	['Eating']
 Ericaceae	['heather']
+Family (biology)	['Family']
 Food	['Food']
 Raspberry	['raspberry']
+Temperate	['temperate']
 Vitis rupestris	['July', 'sugar', 'rock']
 Passiflora ligularis	['granada']
 Punica granatum	['granada']
@@ -199,8 +245,14 @@ Punica granatum	['granada']
 
 HAMPSHIRE
 51.0576999999999969759301166050136089324951171875, -1.308100000000000040500935938325710594654083251953125
+Americas	['America']
+Family (biology)	['Family']
+Habitat (ecology)	['habitat']
+International Standard Book Number	['ISBN']
+Neolithic	['Neolithic']
 Rose	['rose']
 Vitis rupestris	['July', 'sand', 'sugar', 'rock']
+International Standard Book Number	['ISBN']
 
 
 HEREFORD_AND_WORCESTER
@@ -209,9 +261,11 @@ None
 
 HEREFORDSHIRE
 52.0833333300000020926745492033660411834716796875, -2.75
+Americas	['America']
 Apple	['apple']
 Apple (fruit)	['apple']
 Date (fruit)	['date']
+Family (biology)	['Family']
 Fruit	['fruit']
 Malus	['Apple']
 Pear	['pear']
@@ -225,8 +279,11 @@ HERTFORDSHIRE
 51.81666666999999648623997927643358707427978515625, -0.216666670000000005646967338179820217192173004150390625
 Elderberry	['elder']
 Ericaceae	['heath']
+Habitat (ecology)	['habitat']
 Lime (fruit)	['lime']
 Mangifera caesia	['jack']
+Neolithic	['Neolithic']
+Plant	['Plants']
 Rose	['rose']
 Sambucus	['elder']
 Vitis rupestris	['sand', 'rock']
@@ -252,57 +309,76 @@ Vitis rupestris	['July']
 ISLE_OF_ELY
 52.39999999999999857891452847979962825775146484375, 0.25833333000000002765972340057487599551677703857421875
 Food	['Food']
+International Standard Book Number	['ISBN']
 Vitis rupestris	['July']
+International Standard Book Number	['ISBN']
 
 
 ISLE_OF_WIGHT
 50.6666666699999979073254507966339588165283203125, -1.2666666699999999945447370919282548129558563232421875
+Americas	['America']
 Date (fruit)	['date']
+Eating	['Eating']
+Family (biology)	['Family']
 Honeydew melon	['winter']
+India	['India']
 Manoao	['Westland']
+Neolithic	['Neolithic']
 Phoenix dactylifera	['date']
 Rose	['rose']
 Tree	['tree']
 Vitis rupestris	['July', 'beach', 'rock']
+India	['India']
 Vitis labrusca	['Isabella']
 
 
 KENT
 51.2000000000000028421709430404007434844970703125, 0.6999999999999999555910790149937383830547332763671875
 Ericaceae	['heath']
+Family (biology)	['Family']
 Fruit	['fruit']
 Mangifera caesia	['jack']
+Neolithic	['Neolithic']
 Fruit	['Fruit']
 Jackfruit	['jack']
 
 
 LANCASHIRE
 53.7999999999999971578290569595992565155029296875, -2.600000000000000088817841970012523233890533447265625
+Cuisine	['cuisine']
 Ficus	['figs']
 Food	['Food']
+International Standard Book Number	['ISBN']
 Lemon	['lemon']
 Rose	['rose']
 Vitis rupestris	['sugar', 'rock']
+International Standard Book Number	['ISBN']
 
 
 LEICESTERSHIRE
 52.71666667000000217058186535723507404327392578125, -1.183333329999999961046341923065483570098876953125
+Cuisine	['cuisine']
 Food	['Food']
 Fruit	['fruit']
+India	['India']
 Prunus spinosa	['sloe']
+Vegetable	['Vegetables']
 Vitis rupestris	['sand', 'rock']
 Fruit	['Fruit']
+India	['India']
 
 
 LINCOLNSHIRE
 53.06666666999999648623997927643358707427978515625, -0.1833333299999999888019175386943970806896686553955078125
 Dacryodes edulis	['plum']
 Ericaceae	['heath']
+Family (biology)	['Family']
 Food	['Food']
 Fruit	['fruit']
 Plum	['plum']
 Safou	['plum']
 Sweet pepper	['pepper']
+Vegetable	['Vegetables']
 Vitis rupestris	['July', 'sugar']
 Fruit	['Fruit']
 Passiflora ligularis	['granada']
@@ -316,6 +392,8 @@ Tree	['tree']
 
 PARTS_OF_LINDSEY
 53.433300000000002683009370230138301849365234375, -0.25
+International Standard Book Number	['ISBN']
+International Standard Book Number	['ISBN']
 
 
 COUNTY_OF_LONDON
@@ -346,25 +424,37 @@ Vitis rupestris	['July']
 
 NORFOLK
 52.6666666699999979073254507966339588165283203125, 1
+Americas	['America']
 Davidsonia	['Davidson']
+Family (biology)	['Family']
 Food	['Food']
 Vitis rupestris	['sugar', 'beach', 'rock']
 
 
 NORTHAMPTONSHIRE
 52.28333332999999782941813464276492595672607421875, -0.83333332999999998325080241556861437857151031494140625
+Americas	['America']
 Elderberry	['elder']
+Family (biology)	['Family']
+India	['India']
+International Standard Book Number	['ISBN']
 Mangifera caesia	['jack']
+Neolithic	['Neolithic']
 Rose	['rose']
 Sambucus	['elder']
 Vitis rupestris	['July', 'rock']
+India	['India']
+International Standard Book Number	['ISBN']
 Jackfruit	['jack']
 
 
 NORTHUMBERLAND
 55.1666666699999979073254507966339588165283203125, -2
+Family (biology)	['Family']
+International Standard Book Number	['ISBN']
 Mangifera caesia	['jack']
 Vitis rupestris	['rock']
+International Standard Book Number	['ISBN']
 Jackfruit	['jack']
 
 
@@ -376,6 +466,8 @@ Vitis rupestris	['July']
 NORTH_YORKSHIRE
 54.1666666699999979073254507966339588165283203125, -1.3333333300000000942731048780842684209346771240234375
 Honeydew melon	['winter']
+Subarctic	['subarctic']
+Temperate	['temperate']
 Vitis rupestris	['July', 'rock']
 Passiflora ligularis	['granada']
 Punica granatum	['granada']
@@ -383,18 +475,24 @@ Punica granatum	['granada']
 
 NOTTINGHAMSHIRE
 53.1666666699999979073254507966339588165283203125, -1
+Americas	['America']
 
 
 OXFORDSHIRE
 51.75, -1.2800000000000000266453525910037569701671600341796875
+Family (biology)	['Family']
+International Standard Book Number	['ISBN']
+International Standard Book Number	['ISBN']
 
 
 SOKE_OF_PETERBOROUGH
 52.58330000000000126192389870993793010711669921875, -0.25
+Family (biology)	['Family']
 
 
 RUTLAND
 52.64999999999999857891452847979962825775146484375, -0.63333333000000002765972340057487599551677703857421875
+Family (biology)	['Family']
 Vitis rupestris	['July', 'sand', 'rock']
 Vitis labrusca	['Isabella']
 
@@ -402,13 +500,17 @@ Vitis labrusca	['Isabella']
 SHROPSHIRE
 52.616666670000000749496393837034702301025390625, -2.716666669999999950135816106921993196010589599609375
 Date (fruit)	['date']
+Family (biology)	['Family']
+Habitat (ecology)	['habitat']
 Honeydew melon	['winter']
+India	['India']
 Mangifera caesia	['jack']
 Manoao	['pine']
 Orange (fruit)	['orange']
 Phoenix dactylifera	['date']
 Sweet orange	['orange']
 Vitis rupestris	['July', 'sand']
+India	['India']
 Jackfruit	['jack']
 
 
@@ -418,11 +520,14 @@ Apple	['apple']
 Apple (fruit)	['apple']
 Food	['Food']
 Fruit	['fruit']
+Habitat (ecology)	['habitat']
 Honeydew melon	['winter']
 Lime (fruit)	['lime']
 Malus	['Apple']
 Manoao	['Westland']
+Neolithic	['Neolithic']
 Prunus spinosa	['blackthorn']
+Temperate	['temperate']
 Tree	['tree']
 Vitis rupestris	['July', 'sand', 'rock']
 Fruit	['Fruit']
@@ -436,6 +541,7 @@ Vitis rupestris	['July']
 SOUTH_YORKSHIRE
 53.5, -1.3333333300000000942731048780842684209346771240234375
 Honeydew melon	['winter']
+Plant	['Plants']
 Vitis rupestris	['rock']
 
 
@@ -450,6 +556,7 @@ SUFFOLK
 52.1666666699999979073254507966339588165283203125, 1
 Ericaceae	['heath']
 Honeydew melon	['winter']
+Vegetable	['Vegetables']
 Vitis rupestris	['sand', 'sugar']
 
 
@@ -459,19 +566,25 @@ Cherry	['cherry']
 Date (fruit)	['date']
 Elderberry	['elder']
 Ericaceae	['heath']
+Family (biology)	['Family']
+India	['India']
 Phoenix dactylifera	['date']
 Rose	['rose']
 Sambucus	['elder']
 Vitis rupestris	['July', 'rock']
+India	['India']
 
 
 SUSSEX
 51, 0
+Cuisine	['cuisine']
 Dacryodes edulis	['plum']
 Date (fruit)	['date']
 Ericaceae	['heath']
+Family (biology)	['Family']
 Honeydew melon	['winter']
 Mangifera caesia	['jack']
+Neolithic	['Neolithic']
 Phoenix dactylifera	['date']
 Plum	['plum']
 Rose	['rose']
@@ -500,6 +613,7 @@ WESTMORLAND
 54.5, -2.583333329999999872228499953052960336208343505859375
 Apple	['apple', 'apple tree']
 Apple (fruit)	['apple', 'apple tree']
+Family (biology)	['Family']
 Malus	['Apple']
 Tree	['tree']
 
@@ -520,6 +634,7 @@ WEST_YORKSHIRE
 53.75, -1.6666666699999999057268951219157315790653228759765625
 Cherry	['cherry']
 Date (fruit)	['date']
+Family (biology)	['Family']
 Food	['Food']
 Lime (fruit)	['lime']
 Phoenix dactylifera	['date']
@@ -532,6 +647,8 @@ WILTSHIRE
 51.3333333300000020926745492033660411834716796875, -1.9166666699999999057268951219157315790653228759765625
 Food	['Food']
 Honeydew melon	['winter']
+Neolithic	['Neolithic']
+Temperate	['temperate']
 Vitis rupestris	['July', 'rock']
 
 
@@ -555,23 +672,31 @@ Fruit	['Fruit']
 
 YORKSHIRE
 54, -2
+Americas	['America']
+Cuisine	['cuisine']
 Date (fruit)	['date']
 Ericaceae	['heather']
+Family (biology)	['Family']
 Food	['Food']
 Honeydew melon	['winter']
 Phoenix dactylifera	['date']
 Rhubarb	['Rhubarb']
 Rose	['rose']
+Vegetable	['Vegetables']
 Vitis rupestris	['July', 'sand', 'sugar', 'beach', 'rock']
 
 
 EAST_RIDING_OF_YORKSHIRE
 53.9166666699999979073254507966339588165283203125, -0.5
 Date (fruit)	['date']
+Family (biology)	['Family']
 Food	['Food']
 Honeydew melon	['winter']
+International Standard Book Number	['ISBN']
+Neolithic	['Neolithic']
 Phoenix dactylifera	['date']
 Rose	['rose']
+International Standard Book Number	['ISBN']
 
 
 NORTH_RIDING_OF_YORKSHIRE

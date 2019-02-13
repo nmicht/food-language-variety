@@ -1,3 +1,5 @@
+
+
 PROVINCE_OF_A_CORUÑA
 43.36999999999999744204615126363933086395263671875, -8.4000000000000003552713678800500929355621337890625
 Vitis rupestris	['beach']
@@ -5,6 +7,7 @@ Vitis rupestris	['beach']
 
 ÁLAVA
 42.8444999999999964757080306299030780792236328125, -2.7603333299999999184137777774594724178314208984375
+List of culinary herbs and spices	['not']
 
 
 PROVINCE_OF_ALBACETE
@@ -15,13 +18,20 @@ Punica granatum	['granada']
 
 PROVINCE_OF_ALICANTE
 38.5, -0.5
+Asia	['Asia']
+List of culinary herbs and spices	['not']
 Manoao	['pine']
+Mediterranean	['Mediterranean Sea']
 Olive	['olive']
+Asia	['Asia']
 Olive	['Olive']
 
 
 PROVINCE_OF_ALMERÍA
 37.1666666699999979073254507966339588165283203125, -2.333333329999999872228499953052960336208343505859375
+Mediterranean	['Mediterranean Sea']
+Neolithic	['Neolithic']
+Vegetable	['Vegetables']
 Vitis rupestris	['rock']
 Passiflora ligularis	['granada']
 Punica granatum	['granada']
@@ -33,10 +43,12 @@ Apple	['apple']
 Apple (fruit)	['apple']
 Food	['Food']
 Honeydew melon	['winter']
+List of culinary herbs and spices	['not']
 Malus	['Apple']
 Orange (fruit)	['orange']
 Sweet orange	['orange']
 Vitis rupestris	['July', 'beach', 'rock']
+West Indies	['West Indies']
 Brosimum alicastrum	['ramón']
 Citrus sinensis	['naranjo']
 
@@ -44,6 +56,7 @@ Citrus sinensis	['naranjo']
 PROVINCE_OF_ÁVILA
 40.5833333300000020926745492033660411834716796875, -5
 Honeydew melon	['winter']
+List of culinary herbs and spices	['not']
 
 
 PROVINCE_OF_BADAJOZ
@@ -53,7 +66,10 @@ Honeydew melon	['winter']
 
 BALEARIC_ISLANDS
 39.5, 3
+Africa	['Africa']
+List of culinary herbs and spices	['not']
 Manoao	['pine']
+Mediterranean	['Mediterranean Sea']
 Olive	['olive']
 Olive	['Olive']
 Phoenix dactylifera	['palma']
@@ -62,16 +78,22 @@ Vitis labrusca	['Isabella']
 
 PROVINCE_OF_BARCELONA
 41.4500000000000028421709430404007434844970703125, 2.083333329999999872228499953052960336208343505859375
+List of culinary herbs and spices	['not']
+Mediterranean	['Mediterranean Sea']
 
 
 BISCAY
 43.25, -2.98333332999999978341065798304043710231781005859375
 Honeydew melon	['winter']
+List of culinary herbs and spices	['not']
+Mediterranean	['Mediterranean Sea']
+Neolithic	['Neolithic']
 Tree	['tree']
 
 
 PROVINCE_OF_BURGOS
 42.383333329999999250503606162965297698974609375, -3.666666670000000127771500046947039663791656494140625
+Mediterranean	['Mediterranean Sea']
 
 
 PROVINCE_OF_CÁCERES
@@ -84,6 +106,7 @@ Ceratonia siliqua	['carob']
 Cherry	['cherry']
 Honeydew melon	['winter']
 Manoao	['pine']
+Mediterranean	['Mediterranean Sea']
 Olive	['olive']
 Rose	['rose']
 Tree	['tree']
@@ -97,24 +120,36 @@ CANTABRIA
 43.3333333300000020926745492033660411834716796875, -4
 Apple	['apple']
 Apple (fruit)	['apple']
+Colombia	['Colombia']
 Date (fruit)	['date']
 Elderberry	['elder']
 Food	['Food']
 Fruit	['fruit']
 Honeydew melon	['winter']
+International Standard Book Number	['ISBN']
+List of culinary herbs and spices	['not']
 Malus	['Apple']
 Manoao	['pine']
+Mediterranean	['Mediterranean Sea']
 Myrica rubra	['arbutus']
 Phoenix dactylifera	['date']
+Plant	['Plants']
 Sambucus	['elder']
+Temperate	['temperate']
+Vegetable	['Vegetables']
 Vitis rupestris	['July', 'rock']
+Colombia	['Colombia']
 Fruit	['Fruit']
+International Standard Book Number	['ISBN']
 Phoenix dactylifera	['palma']
 
 
 PROVINCE_OF_CASTELLÓN
 40.1666666699999979073254507966339588165283203125, -0.1666666699999999889936219688024721108376979827880859375
 Citrus	['Citrus']
+List of culinary herbs and spices	['not']
+Mediterranean	['Mediterranean Sea']
+Vegetable	['Vegetables']
 Vitis rupestris	['beach']
 Citrus	['Citrus']
 
@@ -138,17 +173,22 @@ PROVINCE_OF_CUENCA_(SPAIN)
 
 GIPUZKOA
 43.1666666699999979073254507966339588165283203125, -2.166666670000000127771500046947039663791656494140625
+List of culinary herbs and spices	['not']
 Vitis rupestris	['rock']
 
 
 PROVINCE_OF_GIRONA
 42.1666666699999979073254507966339588165283203125, 2.666666670000000127771500046947039663791656494140625
+List of culinary herbs and spices	['not']
+Mediterranean	['Mediterranean Sea']
 
 
 PROVINCE_OF_GRANADA
 37.25, -3.25
 Food	['Food']
 Honeydew melon	['winter']
+List of culinary herbs and spices	['not']
+Mediterranean	['Mediterranean Sea']
 Passiflora ligularis	['granada']
 Punica granatum	['granada']
 Vitis labrusca	['Isabella']
@@ -156,6 +196,7 @@ Vitis labrusca	['Isabella']
 
 PROVINCE_OF_GUADALAJARA
 40.8333333300000020926745492033660411834716796875, -2.5
+List of culinary herbs and spices	['not']
 Manoao	['pine']
 Vitis rupestris	['July', 'rock']
 Vitis labrusca	['Isabella']
@@ -163,6 +204,7 @@ Vitis labrusca	['Isabella']
 
 PROVINCE_OF_HUELVA
 37.5499999999999971578290569595992565155029296875, -6.9166666699999996836822901968844234943389892578125
+List of culinary herbs and spices	['not']
 Vitis rupestris	['beach']
 
 
@@ -207,6 +249,7 @@ PROVINCE_OF_LLEIDA
 42, 1.1666666699999999057268951219157315790653228759765625
 Fruit	['fruit']
 Honeydew melon	['winter']
+List of culinary herbs and spices	['not']
 Olive	['olive']
 Fruit	['Fruit']
 Olive	['Olive']
@@ -218,13 +261,19 @@ LUGO_(PROVINCE)
 
 PROVINCE_OF_MADRID
 40.5, -3.666666670000000127771500046947039663791656494140625
+Asia	['Asia']
 Food	['Food']
+International Standard Book Number	['ISBN']
+List of culinary herbs and spices	['not']
 Manoao	['pine']
 Vitis rupestris	['July']
+Asia	['Asia']
+International Standard Book Number	['ISBN']
 
 
 PROVINCE_OF_MÁLAGA
 36.71666667000000217058186535723507404327392578125, -4.4166666699999996836822901968844234943389892578125
+Mediterranean	['Mediterranean Sea']
 Passiflora ligularis	['granada']
 Punica granatum	['granada']
 
@@ -232,7 +281,11 @@ Punica granatum	['granada']
 REGION_OF_MURCIA
 None
 Honeydew melon	['winter']
+List of culinary herbs and spices	['not']
+Mediterranean	['Mediterranean Sea']
 Olive	['olive']
+Plant	['Plants']
+Vegetable	['Vegetables']
 Vitis rupestris	['July', 'sand']
 Olive	['Olive']
 Passiflora ligularis	['granada']
@@ -242,7 +295,10 @@ Punica granatum	['granada']
 NAVARRE
 42.81666666999999648623997927643358707427978515625, -1.649999999999999911182158029987476766109466552734375
 Honeydew melon	['winter']
+List of culinary herbs and spices	['not']
 Olive	['olive']
+Plant	['Plants']
+Vegetable	['Vegetables']
 Vitis rupestris	['July']
 Olive	['Olive']
 Vitis labrusca	['Isabella']
@@ -250,6 +306,7 @@ Vitis labrusca	['Isabella']
 
 PROVINCE_OF_OURENSE
 42.1666666699999979073254507966339588165283203125, -7.5
+List of culinary herbs and spices	['not']
 
 
 PROVINCE_OF_PALENCIA
@@ -260,6 +317,7 @@ Vitis rupestris	['sugar']
 
 PROVINCE_OF_PONTEVEDRA
 42.36999999999999744204615126363933086395263671875, -8.4000000000000003552713678800500929355621337890625
+List of culinary herbs and spices	['not']
 
 
 PROVINCE_OF_SALAMANCA
@@ -295,6 +353,7 @@ PROVINCE_OF_TARRAGONA
 Dacryodes edulis	['African']
 Food	['Food']
 Fruit	['fruit']
+Mediterranean	['Mediterranean Sea']
 Safou	['African']
 Vitis rupestris	['beach']
 Fruit	['Fruit']
@@ -302,6 +361,7 @@ Fruit	['Fruit']
 
 PROVINCE_OF_TERUEL
 40.6666666699999979073254507966339588165283203125, -0.66666667000000001674919758443138562142848968505859375
+List of culinary herbs and spices	['not']
 Rose	['rose']
 
 
@@ -315,6 +375,8 @@ Arecaceae	['palm trees']
 Ficus	['figs']
 Food	['Food']
 Fruit	['fruit']
+List of culinary herbs and spices	['not']
+Mediterranean	['Mediterranean Sea']
 Morus alba	['white mulberry']
 Olive	['olive']
 Orange (fruit)	['orange']
@@ -328,10 +390,14 @@ Olive	['Olive']
 PROVINCE_OF_VALLADOLID
 41.5833333300000020926745492033660411834716796875, -4.6666666699999996836822901968844234943389892578125
 Grape	['grape']
+Habitat (ecology)	['habitat']
 Honeydew melon	['winter']
+Latin America	['Latin America']
+List of culinary herbs and spices	['not']
 Manoao	['pine']
 Shrub	['bush']
 Tree	['tree']
+Vegetable	['Vegetables']
 Vitis rupestris	['sugar', 'bush']
 Phoenix dactylifera	['palma']
 
@@ -339,6 +405,7 @@ Phoenix dactylifera	['palma']
 PROVINCE_OF_ZAMORA
 41.75, -6
 Fruit	['fruit']
+List of culinary herbs and spices	['not']
 Vitis rupestris	['rock']
 Fruit	['Fruit']
 
