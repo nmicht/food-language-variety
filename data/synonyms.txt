@@ -60,7 +60,7 @@ Chorizo, chouriço	http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Chor
 Clover, trefoil, Trifolium	http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Trifolium_April_2010-2.jpg/220px-Trifolium_April_2010-2.jpg
 
 
-colloid, colloidal suspension
+  colloid, colloidal suspension
 Comfort food
 condiment, table sauce
 Confectionery, confections, bakers' confections, sugar confections.
@@ -90,7 +90,7 @@ Deer, Cervidae	http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Family_C
 delicacy
 Dessert	http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/20150319-OC-LSC-0013_%2816682473278%29.jpg/220px-20150319-OC-LSC-0013_%2816682473278%29.jpg
 
-Digital Object Identifier or, DOI	http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/DOI_logo.svg/130px-DOI_logo.svg.png
+  Digital Object Identifier or, DOI	http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/DOI_logo.svg/130px-DOI_logo.svg.png
 dip, dipping sauce	http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Meat_fondue.jpg/250px-Meat_fondue.jpg
 dip, dipping sauce	http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Meat_fondue.jpg/250px-Meat_fondue.jpg
 dish
@@ -109,7 +109,7 @@ Edible mushrooms
 Edible seaweed, sea vegetables
 egg
 
-Egg white, albumen, glair, glaire
+  Egg white, albumen, glair, glaire
 yolk, vitellus
 Eggs Benedict, Eggs Benny	http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eggs_Benedict-01-cropped.jpg/300px-Eggs_Benedict-01-cropped.jpg
 eggshell
@@ -192,51 +192,51 @@ legume, pulse
 lemon	http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/P1030323.JPG/220px-P1030323.JPG
 lentil	http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/220px-3_types_of_lentil.png
 
-Liechtensteiner cuisine
+  Liechtensteiner cuisine
 liquid
 list of notable dishes found in African cuisine
 list of American breads
 
-list of American desserts
+  list of American desserts
 list of American foods	http://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/16px-Flag_of_the_United_States.svg.png
 list of American sandwiches
 
-list of dishes found in Argentine Cuisine	http://upload.wikimedia.org/wikipedia/en/1/12/Argentine_cuisine_title.jpg
+  list of dishes found in Argentine Cuisine	http://upload.wikimedia.org/wikipedia/en/1/12/Argentine_cuisine_title.jpg
 list of sweets and desserts found in Argentine cuisine	http://upload.wikimedia.org/wikipedia/en/1/12/Argentine_cuisine_title.jpg
 
-list of Bangladeshi sweets and desserts
+  list of Bangladeshi sweets and desserts
 list of dishes found in Brazilian cuisine
 list of sweets and desserts found in Brazilian cuisine	http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Feijoada_01.jpg/200px-Feijoada_01.jpg
 
-list of cheeses from the United Kingdom
+  list of cheeses from the United Kingdom
 British desserts
 is a list of dishes found in Burmese cuisine
 	http://upload.wikimedia.org/wikipedia/commons/8/8d/ChineseDishLogo.png
 list of Chinese dishes	http://upload.wikimedia.org/wikipedia/commons/8/8d/ChineseDishLogo.png
 list of notable Chinese soups
 
-Colombian cuisine	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sombrero_vueltiao_stylized.svg/100px-Sombrero_vueltiao_stylized.svg.png
+  Colombian cuisine	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sombrero_vueltiao_stylized.svg/100px-Sombrero_vueltiao_stylized.svg.png
 list of cheeses from Cornwall
 
-list of Ecuadorian dishes and foods
+  list of Ecuadorian dishes and foods
 list of notable cheeses in English cuisine
 
-list of Ethiopian and Eritrean dishes and foods
+  list of Ethiopian and Eritrean dishes and foods
 list of French cheeses
 list of desserts from the French cuisine
 dishes considered part of French cuisine
 list of French soups and stews
 
-list of German desserts
+  list of German desserts
 list of dishes found in German cuisine
 list of German soups
 
-list of notable dishes found in Greek cuisine
+  list of notable dishes found in Greek cuisine
 list of dishes in Hawaiian cuisine
 list of dishes found in Hungarian cuisine
 list of Indian breads
 
-list of Indian dishes
+  list of Indian dishes
 list of Indian sweets and desserts
 list of selected dishes found in Indonesian cuisine
 list of Indonesian soups
@@ -259,17 +259,17 @@ Soups & stews	http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bapsang.j
 list of dishes found in Malaysian cuisine
 list of dishes in Maltese cuisine:
 
-list of dishes in the Cuisine of Morocco	http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Moroccan_Tangine.jpg/200px-Moroccan_Tangine.jpg
+  list of dishes in the Cuisine of Morocco	http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Moroccan_Tangine.jpg/200px-Moroccan_Tangine.jpg
 
-list of Pakistani breads
+  list of Pakistani breads
 
-Pakistani snacks
+  Pakistani snacks
 list of Pakistani soups and stews
 list of Pakistani sweets and desserts	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pakistani_Food_Karahi_Beef.jpg/150px-Pakistani_Food_Karahi_Beef.jpg
 list of Palestinian dishes
 dishes, Peruvian cuisine	http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sun_of_May_%28Peru%2C_1822-1825%29.svg/75px-Sun_of_May_%28Peru%2C_1822-1825%29.svg.png
 
-list of Filipino desserts
+  list of Filipino desserts
 list of selected dishes found in the Philippines
 cheeses from Poland
 list of Polish desserts
@@ -281,23 +281,23 @@ list of Sami dishes
 list of Sicilian dishes and foods
 
 
-list of Spanish desserts
+  list of Spanish desserts
 list of dishes found in Spanish cuisine
 list of Spanish soups and stews
 list of notable Sri Lankan sweets and desserts
 Switzerland, cheese
 
-list of Thai khanom
+  list of Thai khanom
 list of Tibetan dishes and foods
 list of desserts from Turkish cuisine
 list of notable Uzbekistani dishes and foods
 
-list of dishes found in Vietnamese cuisine
+  list of dishes found in Vietnamese cuisine
 Steak fries
 list of almond foods and dishes
 list of ancient dishes, foods and beverages
 
-list of apple dishes
+  list of apple dishes
 list of avocado dishes and foods
 list of bacon dishes
 list of bacon substitutes
@@ -308,13 +308,13 @@ list of companies which produce chocolate
 list of notable bean soups
 list of notable beef dishes and foods
 
-list of brand name breads
+  list of brand name breads
 list of brand name condiments
 list of brand name snack foods
 list of bread dishes and foods
 list of bread rolls
 
-list of breakfast drinks
+  list of breakfast drinks
 list of notable breakfast cereals
 list of notable breakfast foods
 list of brunch foods and dishes
@@ -338,7 +338,7 @@ list of chocolate bar brands
 choux pastry dishes.
 list of notable chutney varieties
 
-list of clam dishes and foods
+  list of clam dishes and foods
 list of coconut dishes and foods
 list of coffee dishes
 condiment
@@ -368,7 +368,7 @@ list of eggplant dishes
 list of fermented foods
 list of fermented soy products
 
-list of notable fish dishes
+  list of notable fish dishes
 Fish sauce
 Tibetan plateau
 list of notable food pastes
@@ -386,13 +386,13 @@ list of notable ham dishes
 list of hamburgers
 list of notable hams and ham products
 
-list of notable hot dog dishes
+  list of notable hot dog dishes
 
-list of instant foods
+  list of instant foods
 
-list of lamb and mutton dishes and foods
+  list of lamb and mutton dishes and foods
 
-list of legume dishes
+  list of legume dishes
 list of lemon dishes and drinks
 list of maize dishes
 list of notable meat dishes
@@ -406,7 +406,7 @@ list of notable onion dishes and foods
 list of organic food topics
 list of notable pancakes
 
-	http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Spaghetti_vongole_2.jpg/230px-Spaghetti_vongole_2.jpg
+	 http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Spaghetti_vongole_2.jpg/230px-Spaghetti_vongole_2.jpg
 list of pastries
 list of peanut dishes and foods
 list of pickled foods
@@ -422,7 +422,7 @@ list of quick breads
 list of notable ramen dishes
 
 
-list of rice dishes
+  list of rice dishes
 list of rolled foods
 Root vegetables
 Salad
@@ -460,12 +460,12 @@ list of tofu dishes
 list of tomato dishes
 list of tortilla-based dishes and foods
 
-list of twice-baked foods
+  list of twice-baked foods
 list of veal dishes
 list of vegetable dishes
 list of vegetable soups
 
-list of yogurt-based dishes and beverages
+  list of yogurt-based dishes and beverages
 list of prepared foods list articles
 Livestock
 Lobsters, Nephropidae, Homaridae	http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KreeftbijDenOsse.jpg/220px-KreeftbijDenOsse.jpg
@@ -509,7 +509,7 @@ Oryza glaberrima, African rice	http://upload.wikimedia.org/wikipedia/commons/thu
 Oryza sativa, Asian rice	http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rice_Plants_%28IRRI%29.jpg/220px-Rice_Plants_%28IRRI%29.jpg
 ostriches, Struthionidae, Struthioniformes	http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ostriches_cape_point_cropped.jpg/220px-Ostriches_cape_point_cropped.jpg
 
-Pakistani cuisine, پاکستانی پکوان	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pakistani_Food_Karahi_Beef.jpg/150px-Pakistani_Food_Karahi_Beef.jpg
+  Pakistani cuisine, پاکستانی پکوان	http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pakistani_Food_Karahi_Beef.jpg/150px-Pakistani_Food_Karahi_Beef.jpg
 cuisine of Paraguay
 Pasta	http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%28Pasta%29_by_David_Adam_Kess_%28pic.2%29.jpg/251px-%28Pasta%29_by_David_Adam_Kess_%28pic.2%29.jpg
 food paste
@@ -555,7 +555,7 @@ Rye	http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ear_of_rye.jpg/220p
 Sago
 salad	http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Salad_platter.jpg/220px-Salad_platter.jpg
 
-Salt
+  Salt
 sandwich	http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Toasted_tomato%2C_avocado%2C_cucumber_and_hummus_sandwich_%284815088397%29.jpg/220px-Toasted_tomato%2C_avocado%2C_cucumber_and_hummus_sandwich_%284815088397%29.jpg
 sauce
 Sauce poivrade, sauce au poivre
@@ -597,7 +597,7 @@ sweet potato	http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ipomoea_ba
 Sweetness
 Sweetness
 
-taco	http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/220px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg
+  taco	http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/220px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg
 Take-out, takeout, carry-out, to-go, take-away, take away food, takeaways, parcel
 Tamarind, Tamarindus	http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tamarindus_indica_pods.JPG/220px-Tamarindus_indica_pods.JPG
 Colocasia esculenta, taro	http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Songe-R%C3%A9union.JPG/220px-Songe-R%C3%A9union.JPG
