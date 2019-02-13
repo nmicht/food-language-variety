@@ -2,30 +2,38 @@ import wikipedia
 from bs4 import BeautifulSoup
 
 
-def get_food_synonyms(page_name, savepath, lang = 'en'):
+def get_food_synonyms(page_name, savepath):
 
     f = open(savepath, 'w')
 
     foods = wikipedia.page(page_name)
     foods_links = foods.links
-    food_synonyms = []  # each row of the form ([list of synonyms], img)
-
-    if lang != 'en':
-        wikipedia.set_lang(lang)
+    food_synonyms = {}  # each item of the form key: ([list of synonyms en], [list of synonyms es], img)
 
     for link in foods_links:
         try:
             print('PAGE: ' + link)
-            page = wikipedia.page(link, auto_suggest=False)
-            food_html = page.html()
-            # get_spanish_page(food_html)
-            # Add the result to the foods.links
-            img_link = get_image(food_html)
-            new_synonyms = get_synonyms(food_html)
-            entry = (new_synonyms, img_link)
-            food_synonyms.append(entry)
-            f.write(', '.join(new_synonyms) + '\t' + img_link + '\n')
-            print(entry)
+            en_synonyms = []
+            es_synonyms = []
+
+            wikipedia.set_lang("en")
+            page_en = wikipedia.page(link, auto_suggest=False)
+            food_html_en = page_en.html()
+            img_link = get_image(food_html_en)
+            en_synonyms = get_synonyms(food_html_en)
+
+            wikipedia.set_lang("es")
+            try:
+                page_es = wikipedia.page(link, auto_suggest=False)
+                food_html_es = page_es.html()
+                es_synonyms = get_synonyms(food_html_es)
+            except:
+                pass
+
+            food_synonyms[link] = (en_synonyms, es_synonyms, img_link)
+            print(food_synonyms[link])
+
+            f.write(link + '\n' + ', '.join(en_synonyms) + '\n' + ', '.join(es_synonyms) + '\n' + img_link + '\n\n')
         except:
             pass
 
@@ -71,7 +79,7 @@ def get_spanish_page(article):
         # print('we found it')
 
 
-def list_from_file(filepath):
+def list_from_file_old(filepath):
     to_return = []
 
     with open(filepath, 'r') as f:
@@ -91,6 +99,23 @@ def list_from_file(filepath):
     return to_return
 
 
+def list_from_file(filepath):
+    with open(filepath, 'r') as f:
+        lines = f.readlines()
+
+    entries = {}
+    i = 0
+    while i < len(lines):
+        key = lines[i].strip()
+        synonyms_en = lines[i+1].strip().split(', ')
+        synonyms_es = lines[i+2].strip().split(', ')
+        img_link = lines[i+3]
+        i += 5
+        entries[key] = (synonyms_en, synonyms_es, img_link)
+
+    return entries
+
+
 if __name__ == '__main__':
-    food_synonyms_en = get_food_synonyms("List of culinary fruits", "./data/frutas_sinonimos.txt", "es")
+    food_synonyms_en = get_food_synonyms("List of vegetables", "./data/all_vegetables_synonyms.txt")
     # food_synonyms_es = get_food_synonyms("Lista de comidas")
