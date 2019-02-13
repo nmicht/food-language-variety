@@ -17,8 +17,15 @@ Currently available for English and Spanish.
 ## To-Do
 
 - Clean up synonyms
-    - remove s, us, species, botany
-- Add key into the file of the found_words
+    - ~remove s, us, species, botany~
+    - regularize capitalization
+    - *remove single-synonym lists from synonyms*
+- ~Add key into the file of the found_words~
 - Run for counties/cities/farms in us, mx, es, and uk
+	- ~counties in uk~
+	- counties in us
+	- ~states in mx~
+	- ~provinces in es~
+- Fix accented letters in file writing
 - Map coordinates with words in a map
     - main_key --> [ (coord, names), (coord, names) ...]

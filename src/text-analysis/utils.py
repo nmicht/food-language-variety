@@ -62,23 +62,21 @@ def food_in_places(food_item_dict, places_list, savepath):
         try:
             article = wikipedia.page(place, auto_suggest=False)
         except:
-            continue
+            try:
+                place_with_comma = "_".join(place.split("_")[:-1]) + ",_" + place.split("_")[-1]
+                article = wikipedia.page(place_with_comma, auto_suggest=False)
+            except:
+                continue
 
         try:
-            coords = " ".join([str(x) for x in article.coordinates])
+            coords = ", ".join([str(x) for x in article.coordinates])
         except:
             pass
 
         found_item_dict = find_words_in_article(food_item_dict, article)
 
-        # for key in found_item_dict:
-        #     found_words_en = found_item_dict[key][0]
-        #     found_words_es = found_item_dict[key][1]
-        #
-        non_empties_en = [v[0] for k, v in found_item_dict.items() if len(v[0]) > 0]
-        non_empties_es = [v[1] for k, v in found_item_dict.items() if len(v[1]) > 0]
-
-        #non_empties_es = [x for x in found_words_es if len(x) > 0]
+        non_empties_en = [(k,v[0]) for k, v in found_item_dict.items() if len(v[0]) > 0]
+        non_empties_es = [(k,v[1]) for k, v in found_item_dict.items() if len(v[1]) > 0]
 
         print(non_empties_es, non_empties_en)
 
@@ -87,8 +85,8 @@ def food_in_places(food_item_dict, places_list, savepath):
 
         outfile.write('\n\n' + place.upper() + '\n' + coords + '\n')
         for x in non_empties_en:
-            outfile.write(str(x) + '\n')
+            outfile.write(str(x[0]) + '\t' + str(x[1]) + '\n')
         for x in non_empties_es:
-            outfile.write(str(x) + '\n')
+            outfile.write(str(x[0]) + '\t' + str(x[1]) + '\n')
 
     return found_words
