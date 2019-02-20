@@ -1,3 +1,5 @@
+import json
+
 def get_food_keys(filenames):
 	distribution = {}
 	for filename in filenames:
@@ -8,7 +10,7 @@ def get_food_keys(filenames):
 		i = 0
 		while i < len(lines):
 			key = lines[i].strip().lower()
-			distribution[key] = None
+			distribution[key] = lines[i+3].strip()
 			i += 5
 
 	return distribution
@@ -54,15 +56,18 @@ class Place(object):
 		return 'name: ' + self.name + '\n' + 'coords: ' + self.coords + '\n' + 'foods: ' + str(len(self.foods)) + '\n' + "\n\t".join([k for k,s in self.food])
 
 
-def build_distribution(food_keys, places_objs):
-	print(food_keys)
-	distribution = {k: [] for k in food_keys} # main_key --> [ (coord, names), (coord, names) ...]
+def build_distribution(foods, places_objs):
+	distribution = {k: {'key': k, 'image': img, 'places': []} for k,img in foods.items()} # main_key --> [ (coord, names), (coord, names) ...]
 	for place in places_objs:
 		for key, synonyms in place.foods:
-			print(key)
+			if len(synonyms) > 0:
+				synonyms = json.loads(synonyms)
 			key = key.lower()
 			if key in distribution:
-				distribution[key].append((place.name, place.coords, synonyms))
+				if len(place.coords.split(', ')) < 2:
+					place.coords = 'None, None'
+				distribution[key]['places'].append({'name': place.name, 'lat': place.coords.split(', ')[0],
+					'lng': place.coords.split(', ')[1], 'synonyms': synonyms})
 
 	return distribution
 
@@ -70,16 +75,22 @@ def build_distribution(food_keys, places_objs):
 def write_distribution_to_file(dist, savepath):
 	with open(savepath, 'w') as f:
 		for k, v in dist.items():
-			if len(v) >= 3 and len(v[2]) > 0:
+			if len(v['places']) >= 3 and len(v['places'][2]) > 0:
 				f.write(k.upper() + '\n')
-				for name, coords, synonyms in v:
+				f.write(v['image'] + '\n')
+				for name, coords, synonyms in v['places']:
 					f.write(name + '\n')
 					f.write(coords + '\n')
 					f.write(', '.join(synonyms.split(', ')) + '\n')
 				f.write('\n\n')
 
+def write_distribution_to_json_file(dist, savepath):
+	with open(savepath, 'w') as outfile:
+		s = json.dumps(dist, indent=4, sort_keys=True)
+		outfile.write(s)
+
 if __name__ == '__main__':
-	x = get_food_keys(['./data/all_fruit_synonyms.txt','./data/all_vegetables_synonyms.txt']).keys()
+	x = get_food_keys(['./data/all_fruit_synonyms.txt','./data/all_vegetables_synonyms.txt'])
 	# print(len(x))
 	
 	places_objs = get_places_with_food_from_file([
@@ -97,7 +108,7 @@ if __name__ == '__main__':
 
 	pobjs = build_distribution(x, places_objs)
 
-	write_distribution_to_file(pobjs, './data/distribution.txt')
+	write_distribution_to_json_file(pobjs, './data/distribution.json')
 	#print(len(pobjs))
 
 	#print(pobjs['apple'])

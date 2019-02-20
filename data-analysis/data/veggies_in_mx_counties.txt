@@ -1,6 +1,6 @@
 AGUASCALIENTES
 22.01666666999999932841092231683433055877685546875, -102.349999999999994315658113919198513031005859375
-Grape	['grape']
+Grape	["grape"]
 
 
 BAJA_CALIFORNIA
@@ -9,57 +9,57 @@ BAJA_CALIFORNIA
 
 BAJA_CALIFORNIA_SUR
 25.85000000000000142108547152020037174224853515625, -111.96666666999999506515450775623321533203125
-Cassava	['yuca', 'yuca']
-Chickpea	['garbanzo']
-Nopal	['Nopal']
-Cassava	['yuca']
-Nopal	['nopal', 'tuna']
+Cassava	["yuca", "yuca"]
+Chickpea	["garbanzo"]
+Nopal	["Nopal"]
+Cassava	["yuca"]
+Nopal	["nopal", "tuna"]
 
 
 CAMPECHE
 18.833333329999998539960870402865111827850341796875, -90.400000000000005684341886080801486968994140625
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Fruit	['fruit']
-Squash (plant)	['squash']
-Staple food	['staple']
-Fruit	['Fruit']
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Fruit	["fruit"]
+Squash (plant)	["squash"]
+Staple food	["staple"]
+Fruit	["Fruit"]
 
 
 CHIAPAS
 16.416666670000001460039129597134888172149658203125, -92.4166666699999979073254507966339588165283203125
-Bell pepper	['pepper']
-Cabbage	['Cabbage']
-Capsicum	['pepper']
-Cassava	['manioc']
-Chayote	['Chayote']
-Cooking	['Cooking']
-Fruit	['fruit']
-Onion	['onion']
-Pumpkin	['pumpkin']
-Purple Salsify	['purple']
-Squash (plant)	['squash']
-Staple food	['staple']
-Tomato	['tomato']
-Vanilla	['Vanilla']
-Chayote	['chayote']
-Fruit	['Fruit']
-Nopal	['tuna']
-Pumpkin	['Pumpkin']
-Vanilla	['Vanilla']
+Bell pepper	["pepper"]
+Cabbage	["Cabbage"]
+Capsicum	["pepper"]
+Cassava	["manioc"]
+Chayote	["Chayote"]
+Cooking	["Cooking"]
+Fruit	["fruit"]
+Onion	["onion"]
+Pumpkin	["pumpkin"]
+Purple Salsify	["purple"]
+Squash (plant)	["squash"]
+Staple food	["staple"]
+Tomato	["tomato"]
+Vanilla	["Vanilla"]
+Chayote	["chayote"]
+Fruit	["Fruit"]
+Nopal	["tuna"]
+Pumpkin	["Pumpkin"]
+Vanilla	["Vanilla"]
 
 
 MEXICO_CITY
 19.433333329999999961046341923065483570098876953125, -99.133333329999999250503606162965297698974609375
-Cooking	['Cooking']
-Purple Salsify	['purple']
-Rapeseed	['rape']
-Staple food	['staple']
+Cooking	["Cooking"]
+Purple Salsify	["purple"]
+Rapeseed	["rape"]
+Staple food	["staple"]
 
 
 CHIHUAHUA_(STATE)
 28.816666670000000038953658076934516429901123046875, -106.4333333299999964083326631225645542144775390625
-Squash (plant)	['squash']
+Squash (plant)	["squash"]
 
 
 COAHUILA
@@ -68,85 +68,85 @@ COAHUILA
 
 COLIMA
 19.166666670000001460039129597134888172149658203125, -103.883333329999999250503606162965297698974609375
-Fruit	['fruit']
-Vanilla	['Vanilla']
-Avocado	['aguacate', 'aguacate']
-Fruit	['Fruit']
-Nopal	['tuna']
-Vanilla	['Vanilla']
+Fruit	["fruit"]
+Vanilla	["Vanilla"]
+Avocado	["aguacate", "aguacate"]
+Fruit	["Fruit"]
+Nopal	["tuna"]
+Vanilla	["Vanilla"]
 
 
 DURANGO
 24.933333329999999961046341923065483570098876953125, -104.9166666699999979073254507966339588165283203125
-Cooking	['Cooking']
-Fruit	['fruit']
-Nopal	['Nopal']
-Nut (fruit)	['nut']
-Fruit	['Fruit']
-Nopal	['nopal']
+Cooking	["Cooking"]
+Fruit	["fruit"]
+Nopal	["Nopal"]
+Nut (fruit)	["nut"]
+Fruit	["Fruit"]
+Nopal	["nopal"]
 
 
 GUANAJUATO
 21.01666666999999932841092231683433055877685546875, -101.26666667000000643383827991783618927001953125
-Avocado	['avocado']
-Broccoli	['Broccoli']
-Fruit	['fruit']
-Nopal	['Nopal']
-Vanilla	['Vanilla']
-Broccoli	['broccoli']
-Fruit	['Fruit']
-Momordica charantia	['melon']
-Nopal	['nopal', 'tuna']
-Vanilla	['Vanilla']
+Avocado	["avocado"]
+Broccoli	["Broccoli"]
+Fruit	["fruit"]
+Nopal	["Nopal"]
+Vanilla	["Vanilla"]
+Broccoli	["broccoli"]
+Fruit	["Fruit"]
+Momordica charantia	["melon"]
+Nopal	["nopal", "tuna"]
+Vanilla	["Vanilla"]
 
 
 GUERRERO
 17.616666670000000749496393837034702301025390625, -99.9500000000000028421709430404007434844970703125
-Bean	['bean']
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Cooking	['Cooking']
-Okra	['Okra']
-Staple food	['staple']
-Okra	['okra']
+Bean	["bean"]
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Cooking	["Cooking"]
+Okra	["Okra"]
+Staple food	["staple"]
+Okra	["okra"]
 
 
 HIDALGO_(STATE)
 20.48333333000000067158907768316566944122314453125, -98.866666670000000749496393837034702301025390625
-Cooking	['Cooking']
-Fruit	['fruit']
-Nopal	['Nopal']
-Squash (plant)	['squash']
-Fruit	['Fruit']
-Luffa	['pastes']
-Nopal	['nopal']
+Cooking	["Cooking"]
+Fruit	["fruit"]
+Nopal	["Nopal"]
+Squash (plant)	["squash"]
+Fruit	["Fruit"]
+Luffa	["pastes"]
+Nopal	["nopal"]
 
 
 JALISCO
 20.566666670000000038953658076934516429901123046875, -103.6833333299999964083326631225645542144775390625
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Fruit	['fruit']
-Squash (plant)	['squash']
-Staple food	['staple']
-Tomato	['tomato']
-Fruit	['Fruit']
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Fruit	["fruit"]
+Squash (plant)	["squash"]
+Staple food	["staple"]
+Tomato	["tomato"]
+Fruit	["Fruit"]
 
 
 STATE_OF_MEXICO
 19.35000000000000142108547152020037174224853515625, -99.633333329999999250503606162965297698974609375
-Cooking	['Cooking']
-Nut (fruit)	['nut']
-Squash (plant)	['squash']
+Cooking	["Cooking"]
+Nut (fruit)	["nut"]
+Squash (plant)	["squash"]
 
 
 MORELOS
 18.75, -99.0666666700000035916673368774354457855224609375
-Fruit	['fruit']
-Jícama	['jicama']
-Squash (plant)	['squash']
-Fruit	['Fruit']
-Peanut	['Peanut']
+Fruit	["fruit"]
+Jícama	["jicama"]
+Squash (plant)	["squash"]
+Fruit	["Fruit"]
+Peanut	["Peanut"]
 
 
 NAYARIT
@@ -155,41 +155,41 @@ NAYARIT
 
 OAXACA
 16.89999999999999857891452847979962825775146484375, -96.4166666699999979073254507966339588165283203125
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Cooking	['Cooking']
-Fruit	['fruit']
-Herb	['herbs']
-Herbs	['herbs']
-Lupinus mutabilis	['chocho']
-Spice	['spice']
-Squash (plant)	['squash']
-Staple food	['staple food', 'staple']
-Vanilla	['Vanilla']
-Fruit	['Fruit']
-Lupinus mutabilis	['chocho']
-Nopal	['tuna']
-Vanilla	['Vanilla']
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Cooking	["Cooking"]
+Fruit	["fruit"]
+Herb	["herbs"]
+Herbs	["herbs"]
+Lupinus mutabilis	["chocho"]
+Spice	["spice"]
+Squash (plant)	["squash"]
+Staple food	["staple food", "staple"]
+Vanilla	["Vanilla"]
+Fruit	["Fruit"]
+Lupinus mutabilis	["chocho"]
+Nopal	["tuna"]
+Vanilla	["Vanilla"]
 
 
 PUEBLA
 19, -97.883333329999999250503606162965297698974609375
-Avocado	['avocado']
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Cassava	['yuca', 'yuca']
-Cooking	['Cooking']
-Fruit	['fruit']
-Herb	['herbs']
-Herbs	['herbs']
-Nopal	['Nopal']
-Onion	['onion']
-Squash (plant)	['squash']
-Staple food	['staple']
-Avocado	['aguacate', 'aguacate']
-Cassava	['yuca']
-Fruit	['Fruit']
-Nopal	['nopal']
+Avocado	["avocado"]
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Cassava	["yuca", "yuca"]
+Cooking	["Cooking"]
+Fruit	["fruit"]
+Herb	["herbs"]
+Herbs	["herbs"]
+Nopal	["Nopal"]
+Onion	["onion"]
+Squash (plant)	["squash"]
+Staple food	["staple"]
+Avocado	["aguacate", "aguacate"]
+Cassava	["yuca"]
+Fruit	["Fruit"]
+Nopal	["nopal"]
 
 
 QUINTANA_ROO
@@ -198,30 +198,30 @@ QUINTANA_ROO
 
 SINALOA
 25, -107.5
-Squash (plant)	['squash']
+Squash (plant)	["squash"]
 
 
 SONORA
 29.64611110999999965542883728630840778350830078125, -110.8688888899999938075779937207698822021484375
-Bean	['bean']
-Bell pepper	['pepper', 'capsicum']
-Capsicum	['Capsicum', 'pepper']
-Common purslane	['Portulaca oleracea']
-Herb	['herbs']
-Herbs	['herbs']
-Portulaca oleracea	['Portulaca oleracea']
-Squash (plant)	['squash']
-Staple food	['staple']
-Capsicum	['Capsicum']
-Ipomoea aquatica	['Seri']
-Peanut	['Peanut']
-Portulaca oleracea	['Portulaca oleracea']
+Bean	["bean"]
+Bell pepper	["pepper", "capsicum"]
+Capsicum	["Capsicum", "pepper"]
+Common purslane	["Portulaca oleracea"]
+Herb	["herbs"]
+Herbs	["herbs"]
+Portulaca oleracea	["Portulaca oleracea"]
+Squash (plant)	["squash"]
+Staple food	["staple"]
+Capsicum	["Capsicum"]
+Ipomoea aquatica	["Seri"]
+Peanut	["Peanut"]
+Portulaca oleracea	["Portulaca oleracea"]
 
 
 TABASCO
 17.966666669999998617868186556734144687652587890625, -92.5833333300000020926745492033660411834716796875
-Bean	['bean']
-Cooking	['Cooking']
+Bean	["bean"]
+Cooking	["Cooking"]
 
 
 TAMAULIPAS
@@ -230,38 +230,38 @@ TAMAULIPAS
 
 TLAXCALA
 19.433333329999999961046341923065483570098876953125, -98.1666666699999979073254507966339588165283203125
-Fruit	['fruit']
-Nopal	['Nopal']
-Squash (plant)	['squash']
-Fruit	['Fruit']
-Nopal	['nopal']
+Fruit	["fruit"]
+Nopal	["Nopal"]
+Squash (plant)	["squash"]
+Fruit	["Fruit"]
+Nopal	["nopal"]
 
 
 VERACRUZ
 19.433333329999999961046341923065483570098876953125, -96.383333329999999250503606162965297698974609375
-Bean	['bean']
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Cooking	['Cooking']
-Fruit	['fruit']
-Garlic	['Garlic']
-Olive	['olive']
-Parsley	['Parsley']
-Squash (plant)	['squash']
-Staple food	['staple']
-Tomato	['tomato']
-Vanilla	['Vanilla']
-Fruit	['Fruit']
-Olive	['Olive']
-Peanut	['Peanut']
-Vanilla	['Vanilla']
+Bean	["bean"]
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Cooking	["Cooking"]
+Fruit	["fruit"]
+Garlic	["Garlic"]
+Olive	["olive"]
+Parsley	["Parsley"]
+Squash (plant)	["squash"]
+Staple food	["staple"]
+Tomato	["tomato"]
+Vanilla	["Vanilla"]
+Fruit	["Fruit"]
+Olive	["Olive"]
+Peanut	["Peanut"]
+Vanilla	["Vanilla"]
 
 
 ZACATECAS
 23.300000000000000710542735760100185871124267578125, -102.7000000000000028421709430404007434844970703125
-Fruit	['fruit']
-Grape	['grape']
-Nopal	['Nopal']
-Squash (plant)	['squash']
-Fruit	['Fruit']
-Nopal	['nopal']
+Fruit	["fruit"]
+Grape	["grape"]
+Nopal	["Nopal"]
+Squash (plant)	["squash"]
+Fruit	["Fruit"]
+Nopal	["nopal"]

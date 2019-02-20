@@ -17,14 +17,14 @@ class App extends Component {
       places: [],
       loading: true,
     };
-    this.jsonPath = '../data.json';
+    this.jsonPath = '../distribution.json';
   };
 
   componentDidMount = () => {
     this.setState({loading: true});
     this.data.all = this.readJson(this.jsonPath)
       .then((data) => {
-        this.data.all = data;
+        this.data.all = data.filter((e) => e.places.length > 0)
         this.data.images = this.data.all.map((o) => {
           const n = {
             key: o.key,

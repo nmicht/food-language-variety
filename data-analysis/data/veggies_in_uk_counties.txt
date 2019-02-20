@@ -8,13 +8,13 @@ BEDFORDSHIRE
 
 BERKSHIRE
 51.4166666699999979073254507966339588165283203125, -1
-Cereal	['cereal']
+Cereal	["cereal"]
 
 
 BRISTOL
 51.4500000000000028421709430404007434844970703125, -2.583333329999999872228499953052960336208343505859375
-Purple Salsify	['purple']
-Staple food	['staple']
+Purple Salsify	["purple"]
+Staple food	["staple"]
 
 
 BUCKINGHAMSHIRE
@@ -31,21 +31,21 @@ CAMBRIDGESHIRE_AND_ISLE_OF_ELY
 
 CHESHIRE
 53.1666666699999979073254507966339588165283203125, -2.583333329999999872228499953052960336208343505859375
-Purple Salsify	['purple']
+Purple Salsify	["purple"]
 
 
 CORNWALL
 50.39999999999999857891452847979962825775146484375, -4.9000000000000003552713678800500929355621337890625
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Cooking	['Cooking']
-Onion	['onion']
-Parsley	['Parsley']
-Potato	['potato']
-Rutabaga	['rutabaga', 'swede']
-Turnip	['turnip']
-Watercress	['Watercress']
-Potato	['Potato']
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Cooking	["Cooking"]
+Onion	["onion"]
+Parsley	["Parsley"]
+Potato	["potato"]
+Rutabaga	["rutabaga", "swede"]
+Turnip	["turnip"]
+Watercress	["Watercress"]
+Potato	["Potato"]
 
 
 CUMBERLAND
@@ -54,23 +54,23 @@ CUMBERLAND
 
 CUMBRIA
 54.5, -3.25
-Pearl onion	['button']
+Pearl onion	["button"]
 
 
 DERBYSHIRE
 53.133333329999999250503606162965297698974609375, -1.600000000000000088817841970012523233890533447265625
-Garden cress	['Cress']
-Purple Salsify	['purple']
+Garden cress	["Cress"]
+Purple Salsify	["purple"]
 
 
 DEVON
 50.71666667000000217058186535723507404327392578125, -3.716666669999999950135816106921993196010589599609375
-Berry (botany)	['berry']
+Berry (botany)	["berry"]
 
 
 DORSET
 50.7999999999999971578290569595992565155029296875, -2.29999999999999982236431605997495353221893310546875
-Achillea millefolium	['yarrow']
+Achillea millefolium	["yarrow"]
 
 
 COUNTY_DURHAM
@@ -99,11 +99,11 @@ GREATER_LONDON
 
 GREATER_MANCHESTER
 53.5, -2.316666670000000038953658076934516429901123046875
-Onion	['onion']
-Sorrel	['sorrel']
-Spice	['spice']
-Squash (plant)	['squash']
-Momordica charantia	['bitter']
+Onion	["onion"]
+Sorrel	["sorrel"]
+Spice	["spice"]
+Squash (plant)	["squash"]
+Momordica charantia	["bitter"]
 
 
 HAMPSHIRE
@@ -116,17 +116,17 @@ None
 
 HEREFORDSHIRE
 52.0833333300000020926745492033660411834716796875, -2.75
-Fruit	['fruit']
-Potato	['potato']
-Fruit	['Fruit']
-Potato	['Potato']
+Fruit	["fruit"]
+Potato	["potato"]
+Fruit	["Fruit"]
+Potato	["Potato"]
 
 
 HERTFORDSHIRE
 51.81666666999999648623997927643358707427978515625, -0.216666670000000005646967338179820217192173004150390625
-Cereal	['cereal']
-Garden cress	['Cress']
-Purple Salsify	['purple']
+Cereal	["cereal"]
+Garden cress	["Cress"]
+Purple Salsify	["purple"]
 
 
 HUMBERSIDE
@@ -147,48 +147,48 @@ ISLE_OF_ELY
 
 ISLE_OF_WIGHT
 50.6666666699999979073254507966339588165283203125, -1.2666666699999999945447370919282548129558563232421875
-Arugula	['rocket']
-Eruca sativa	['rocket']
-Garlic	['Garlic']
+Arugula	["rocket"]
+Eruca sativa	["rocket"]
+Garlic	["Garlic"]
 
 
 KENT
 51.2000000000000028421709430404007434844970703125, 0.6999999999999999555910790149937383830547332763671875
-Fruit	['fruit']
-Fruit	['Fruit']
+Fruit	["fruit"]
+Fruit	["Fruit"]
 
 
 LANCASHIRE
 53.7999999999999971578290569595992565155029296875, -2.600000000000000088817841970012523233890533447265625
-Achillea millefolium	['yarrow']
-Ginger	['Ginger']
-Onion	['onion']
-Potato	['potato']
-Ginger	['Ginger']
-Potato	['Potato']
+Achillea millefolium	["yarrow"]
+Ginger	["Ginger"]
+Onion	["onion"]
+Potato	["potato"]
+Ginger	["Ginger"]
+Potato	["Potato"]
 
 
 LEICESTERSHIRE
 52.71666667000000217058186535723507404327392578125, -1.183333329999999961046341923065483570098876953125
-Fruit	['fruit']
-Spice	['spice']
-Fruit	['Fruit']
+Fruit	["fruit"]
+Spice	["spice"]
+Fruit	["Fruit"]
 
 
 LINCOLNSHIRE
 53.06666666999999648623997927643358707427978515625, -0.1833333299999999888019175386943970806896686553955078125
-Bean	['bean']
-Beet	['beet']
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Fruit	['fruit']
-Ginger	['Ginger']
-Parsley	['Parsley']
-Potato	['potato']
-Rapeseed	['rape', 'oilseed rape']
-Fruit	['Fruit']
-Ginger	['Ginger']
-Potato	['Potato']
+Bean	["bean"]
+Beet	["beet"]
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Fruit	["fruit"]
+Ginger	["Ginger"]
+Parsley	["Parsley"]
+Potato	["potato"]
+Rapeseed	["rape", "oilseed rape"]
+Fruit	["Fruit"]
+Ginger	["Ginger"]
+Potato	["Potato"]
 
 
 KESTEVEN
@@ -205,7 +205,7 @@ COUNTY_OF_LONDON
 
 CITY_OF_LONDON
 None
-Staple food	['staple']
+Staple food	["staple"]
 
 
 MERSEYSIDE
@@ -218,20 +218,20 @@ MIDDLESEX
 
 NORFOLK
 52.6666666699999979073254507966339588165283203125, 1
-Beet	['beet']
-Cooking	['cookery']
-Nelumbo nucifera	['lotus']
-Rapeseed	['rape', 'oilseed rape']
+Beet	["beet"]
+Cooking	["cookery"]
+Nelumbo nucifera	["lotus"]
+Rapeseed	["rape", "oilseed rape"]
 
 
 NORTHAMPTONSHIRE
 52.28333332999999782941813464276492595672607421875, -0.83333332999999998325080241556861437857151031494140625
-Cereal	['cereal']
+Cereal	["cereal"]
 
 
 NORTHUMBERLAND
 55.1666666699999979073254507966339588165283203125, -2
-Staple food	['staple']
+Staple food	["staple"]
 
 
 NORTH_HUMBERSIDE
@@ -248,7 +248,7 @@ NOTTINGHAMSHIRE
 
 OXFORDSHIRE
 51.75, -1.2800000000000000266453525910037569701671600341796875
-Binomial nomenclature	['Latin name']
+Binomial nomenclature	["Latin name"]
 
 
 SOKE_OF_PETERBOROUGH
@@ -257,7 +257,7 @@ SOKE_OF_PETERBOROUGH
 
 RUTLAND
 52.64999999999999857891452847979962825775146484375, -0.63333333000000002765972340057487599551677703857421875
-Momordica charantia	['bitter']
+Momordica charantia	["bitter"]
 
 
 SHROPSHIRE
@@ -266,10 +266,10 @@ SHROPSHIRE
 
 SOMERSET
 51.10000000000000142108547152020037174224853515625, -2.899999999999999911182158029987476766109466552734375
-Chard	['Chard']
-Fruit	['fruit']
-Chard	['Chard']
-Fruit	['Fruit']
+Chard	["Chard"]
+Fruit	["fruit"]
+Chard	["Chard"]
+Fruit	["Fruit"]
 
 
 SOUTH_HUMBERSIDE
@@ -282,24 +282,24 @@ SOUTH_YORKSHIRE
 
 STAFFORDSHIRE
 52.8333333300000020926745492033660411834716796875, -2
-Leek	['leek']
+Leek	["leek"]
 
 
 SUFFOLK
 52.1666666699999979073254507966339588165283203125, 1
-Beet	['beet']
-Rapeseed	['rape', 'oilseed rape']
+Beet	["beet"]
+Rapeseed	["rape", "oilseed rape"]
 
 
 SURREY
 51.25, -0.41666667000000001674919758443138562142848968505859375
-Watercress	['Watercress']
+Watercress	["Watercress"]
 
 
 SUSSEX
 51, 0
-Cereal	['cereal']
-Rapeseed	['rape']
+Cereal	["cereal"]
+Rapeseed	["rape"]
 
 
 TYNE_AND_WEAR
@@ -308,7 +308,7 @@ TYNE_AND_WEAR
 
 WARWICKSHIRE
 None
-Nut (fruit)	['nut']
+Nut (fruit)	["nut"]
 
 
 WEST_MIDLANDS_(COUNTY)
@@ -325,7 +325,7 @@ WEST_SUFFOLK_(COUNTY)
 
 WEST_SUSSEX
 50.9166666699999979073254507966339588165283203125, -0.5
-Rapeseed	['rape']
+Rapeseed	["rape"]
 
 
 WEST_YORKSHIRE
@@ -338,16 +338,16 @@ WILTSHIRE
 
 WORCESTERSHIRE
 52.2000000000000028421709430404007434844970703125, -2.166666670000000127771500046947039663791656494140625
-Fruit	['fruit']
-Fruit	['Fruit']
+Fruit	["fruit"]
+Fruit	["Fruit"]
 
 
 YORKSHIRE
 54, -2
-Ginger	['Ginger']
-Onion	['onion']
-Ginger	['Ginger']
-Momordica charantia	['bitter']
+Ginger	["Ginger"]
+Onion	["onion"]
+Ginger	["Ginger"]
+Momordica charantia	["bitter"]
 
 
 EAST_RIDING_OF_YORKSHIRE

@@ -1,5 +1,4 @@
 ALMOND
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Prunus_dulcis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-250.jpg/220px-Prunus_dulcis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-250.jpg
 tuscaloosa_county_alabama
 33.20653999999999683723217458464205265045166015625, -87.53460699999999405918060801923274993896484375
 ['almond']
@@ -27,7 +26,6 @@ jalisco
 
 
 AMELANCHIER
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Amelanchier_grandiflora2.jpg/220px-Amelanchier_grandiflora2.jpg
 juneau_alaska
 58.30144849999999934198058326728641986846923828125, -134.421612500000009049472282640635967254638671875
 ['saskatoon']
@@ -46,7 +44,6 @@ st._louis
 
 
 AMERICAN PAWPAW
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Asimina_triloba3.jpg/220px-Asimina_triloba3.jpg
 berrien_county_michigan
 41.93999999999999772626324556767940521240234375, -86.590000000000003410605131648480892181396484375
 ['paw paw']
@@ -62,7 +59,6 @@ st._francois_county_missouri
 
 
 APPLE
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Honeycrisp.jpg/220px-Honeycrisp.jpg
 marshall_county_alabama
 34.3680555600000019467188394628465175628662109375, -86.30388888999999608131474815309047698974609375
 ['apple']
@@ -207,7 +203,6 @@ worcestershire
 
 
 ARCTOSTAPHYLOS
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arctostaphylos_patula_08154.JPG/220px-Arctostaphylos_patula_08154.JPG
 tillamook_county_oregon
 45.46000000000000085265128291212022304534912109375, -123.7000000000000028421709430404007434844970703125
 ['manzanita']
@@ -220,7 +215,6 @@ baja_california
 
 
 ARECACEAE
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1859-Martinique.web.jpg/220px-1859-Martinique.web.jpg
 riverside_county_california
 33.72999999999999687361196265555918216705322265625, -115.9800000000000039790393202565610408782958984375
 ['palms']
@@ -320,7 +314,6 @@ veracruz
 
 
 ASIMINA TRILOBA
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Asimina_triloba3.jpg/220px-Asimina_triloba3.jpg
 berrien_county_michigan
 41.93999999999999772626324556767940521240234375, -86.590000000000003410605131648480892181396484375
 ['paw paw']
@@ -336,7 +329,6 @@ st._francois_county_missouri
 
 
 AVOCADO
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/220px-Persea_americana_fruit_2.JPG
 fresno_county_california
 36.75, -119.650000000000005684341886080801486968994140625
 ['avocado']
@@ -370,7 +362,6 @@ puebla
 
 
 BANANA
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Banana_and_cross_section.jpg/250px-Banana_and_cross_section.jpg
 contra_costa_county_california
 37.92999999999999971578290569595992565155029296875, -121.9500000000000028421709430404007434844970703125
 ['banana']
@@ -452,7 +443,6 @@ veracruz
 
 
 BERRY
-
 fayette_county_alabama
 33.719999999999998863131622783839702606201171875, -87.738611109999993686869856901466846466064453125
 ['berry']
@@ -540,7 +530,6 @@ devon
 
 
 BLACK MULBERRY
-http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Illustration_Morus_nigra0.jpg/220px-Illustration_Morus_nigra0.jpg
 brevard_county_florida
 28.300000000000000710542735760100185871124267578125, -80.7000000000000028421709430404007434844970703125
 ['blackberry']
@@ -559,7 +548,6 @@ cornwall
 
 
 BLACKBERRY
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ripe%2C_ripening%2C_and_green_blackberries.jpg/220px-Ripe%2C_ripening%2C_and_green_blackberries.jpg
 brevard_county_florida
 28.300000000000000710542735760100185871124267578125, -80.7000000000000028421709430404007434844970703125
 ['blackberry']
@@ -593,7 +581,6 @@ cornwall
 
 
 BLUEBERRY
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PattsBlueberries.jpg/220px-PattsBlueberries.jpg
 washington_county_maine
 44.969999999999998863131622783839702606201171875, -67.6099999999999994315658113919198513031005859375
 ['blueberry']
@@ -612,7 +599,6 @@ nacogdoches_county_texas
 
 
 BROSIMUM ALICASTRUM
-http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brosimum-Alicastrum_02.jpg/220px-Brosimum-Alicastrum_02.jpg
 san_juan_puerto_rico
 18.406388889999998781377144041471183300018310546875, -66.0638888900000011972224456258118152618408203125
 ['ramón']
@@ -637,7 +623,6 @@ veracruz
 
 
 CACTACEAE
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Various_Cactaceae.jpg/220px-Various_Cactaceae.jpg
 pima_county_arizona
 32.065277780000002394444891251623630523681640625, -111.820833329999999250503606162965297698974609375
 ['cactus']
@@ -782,7 +767,6 @@ zacatecas
 
 
 CACTUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Various_Cactaceae.jpg/220px-Various_Cactaceae.jpg
 pima_county_arizona
 32.065277780000002394444891251623630523681640625, -111.820833329999999250503606162965297698974609375
 ['cactus']
@@ -927,7 +911,6 @@ zacatecas
 
 
 CEIBA PENTANDRA
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapok_tree_Honolulu.jpg/220px-Kapok_tree_Honolulu.jpg
 guanajuato
 21.01666666999999932841092231683433055877685546875, -101.26666667000000643383827991783618927001953125
 ['kapok']
@@ -949,7 +932,6 @@ tabasco
 
 
 CHAYOTE
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chayote_BNC.jpg/220px-Chayote_BNC.jpg
 chiapas
 16.416666670000001460039129597134888172149658203125, -92.4166666699999979073254507966339588165283203125
 ['chayote']
@@ -965,7 +947,6 @@ chiapas
 
 
 CHERRY
-
 cross_county_arkansas
 35.2916666699999979073254507966339588165283203125, -90.7733333299999998189377947710454463958740234375
 ['cherry']
@@ -1125,7 +1106,6 @@ west_yorkshire
 
 
 CITRUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/OrangeBloss_wb.jpg/220px-OrangeBloss_wb.jpg
 orange_county_california
 33.6700000000000017053025658242404460906982421875, -117.780000000000001136868377216160297393798828125
 ['citrus']
@@ -1294,7 +1274,6 @@ veracruz
 
 
 CITRUS PARADISI
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grapefruit-Whole-%26-Split.jpg/220px-Grapefruit-Whole-%26-Split.jpg
 brevard_county_florida
 28.300000000000000710542735760100185871124267578125, -80.7000000000000028421709430404007434844970703125
 ['grapefruit']
@@ -1310,7 +1289,6 @@ veracruz
 
 
 COCONUT
-http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg/220px-Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg
 swains_island
 -11.0555555600000001703620000625960528850555419921875, -171.077777779999991025761119090020656585693359375
 ['coconut']
@@ -1368,7 +1346,6 @@ greater_manchester
 
 
 CONIFER CONE
-
 monterey_county_california
 36.24000000000000198951966012828052043914794921875, -121.31000000000000227373675443232059478759765625
 ['cone']
@@ -1396,7 +1373,6 @@ hidalgo_(state)
 
 
 CRATAEGUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Crataegus%2C_various_species%2C_fruit.jpg/220px-Crataegus%2C_various_species%2C_fruit.jpg
 kern_county_california
 35.340000000000003410605131648480892181396484375, -118.719999999999998863131622783839702606201171875
 ['whitethorn']
@@ -1424,7 +1400,6 @@ portsmouth_virginia
 
 
 CROWBERRY
-http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Empetrum_nigrum_by_Maseltov_2.jpg/220px-Empetrum_nigrum_by_Maseltov_2.jpg
 brevard_county_florida
 28.300000000000000710542735760100185871124267578125, -80.7000000000000028421709430404007434844970703125
 ['blackberry']
@@ -1446,7 +1421,6 @@ derbyshire
 
 
 CUCUMIS METULIFERUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2015-02-01_Cucumis_metuliferus_Kiwano_anagoria.JPG/220px-2015-02-01_Cucumis_metuliferus_Kiwano_anagoria.JPG
 scott_county_missouri
 37.0499999999999971578290569595992565155029296875, -89.56999999999999317878973670303821563720703125
 ['melon']
@@ -1459,7 +1433,6 @@ guanajuato
 
 
 CUCURBITA
-http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Squashes_at_Kew_Gardens_IncrEdibles_2013.jpg/220px-Squashes_at_Kew_Gardens_IncrEdibles_2013.jpg
 muhlenberg_county_kentucky
 37.21000000000000085265128291212022304534912109375, -87.150000000000005684341886080801486968994140625
 ['squash']
@@ -1517,7 +1490,6 @@ greater_manchester
 
 
 DACRYODES EDULIS
-http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Safoutier.jpg/220px-Safoutier.jpg
 autauga_county_alabama
 32.5366666700000024547989596612751483917236328125, -86.6483333299999998189377947710454463958740234375
 ['african']
@@ -9489,7 +9461,6 @@ worcestershire
 
 
 DAVIDSONIA
-http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Davidsonia_jerseyana_flower1.JPG/220px-Davidsonia_jerseyana_flower1.JPG
 alameda_county_california
 37.64999999999999857891452847979962825775146484375, -121.909999999999996589394868351519107818603515625
 ['davidson']
@@ -9601,7 +9572,6 @@ norfolk
 
 
 ELDERBERRY
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sambucus-berries.jpg/220px-Sambucus-berries.jpg
 ouachita_county_arkansas
 33.60000000000000142108547152020037174224853515625, -92.9166666699999979073254507966339588165283203125
 ['elder']
@@ -9704,7 +9674,6 @@ surrey
 
 
 ERICACEAE
-http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Leptecophylla_juniperina.jpg/220px-Leptecophylla_juniperina.jpg
 san_joaquin_county_california
 None
 ['heath']
@@ -9813,7 +9782,6 @@ yorkshire
 
 
 FABACEAE
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flowering_kudzu.jpg/220px-Flowering_kudzu.jpg
 fayette_county_alabama
 33.719999999999998863131622783839702606201171875, -87.738611109999993686869856901466846466064453125
 ['pea']
@@ -9844,7 +9812,6 @@ suffolk_virginia
 
 
 FICUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sycomoros_old.jpg/220px-Sycomoros_old.jpg
 blanco_county_texas
 30.269999999999999573674358543939888477325439453125, -98.400000000000005684341886080801486968994140625
 ['figs']
@@ -9866,7 +9833,6 @@ lancashire
 
 
 FICUS SYCOMORUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ficus_sycomorus_0003.jpg/220px-Ficus_sycomorus_0003.jpg
 yavapai_county_arizona
 34.5613888900000034709592000581324100494384765625, -112.5400000000000062527760746888816356658935546875
 ['sycamore']
@@ -9924,7 +9890,6 @@ province_of_león
 
 
 FOOD
-
 choctaw_county_alabama
 32.0202777800000006891423254273831844329833984375, -88.2630555599999979676795192062854766845703125
 ['food']
@@ -10726,7 +10691,6 @@ east_riding_of_yorkshire
 
 
 FRUIT
-
 contra_costa_county_california
 37.92999999999999971578290569595992565155029296875, -121.9500000000000028421709430404007434844970703125
 ['fruit']
@@ -11240,7 +11204,6 @@ zacatecas
 
 
 GENUS
-
 baja_california
 30, -115.1666666699999979073254507966339588165283203125
 ['genus']
@@ -11253,7 +11216,6 @@ oaxaca
 
 
 GRAPE
-
 jackson_county_arkansas
 35.5938888900000023340908228419721126556396484375, -91.1936111100000061924220062792301177978515625
 ['grape']
@@ -11332,7 +11294,6 @@ zacatecas
 
 
 GRAPEFRUIT
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Grapefruit-Whole-%26-Split.jpg/220px-Grapefruit-Whole-%26-Split.jpg
 brevard_county_florida
 28.300000000000000710542735760100185871124267578125, -80.7000000000000028421709430404007434844970703125
 ['grapefruit']
@@ -11360,7 +11321,6 @@ veracruz
 
 
 HONEYDEW MELON
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Honeydew.jpg/220px-Honeydew.jpg
 butler_county_alabama
 31.749444440000001321777745033614337444305419921875, -86.682222219999999879291863180696964263916015625
 ['crenshaw']
@@ -12021,7 +11981,6 @@ east_riding_of_yorkshire
 
 
 HORNED MELON
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2015-02-01_Cucumis_metuliferus_Kiwano_anagoria.JPG/220px-2015-02-01_Cucumis_metuliferus_Kiwano_anagoria.JPG
 scott_county_missouri
 37.0499999999999971578290569595992565155029296875, -89.56999999999999317878973670303821563720703125
 ['melon']
@@ -12034,7 +11993,6 @@ guanajuato
 
 
 INDIGENOUS PEOPLES OF THE AMERICAS
-
 butler_county_ohio
 39.43999999999999772626324556767940521240234375, -84.5799999999999982946974341757595539093017578125
 ['indigenous peoples of the americas']
@@ -12047,7 +12005,6 @@ garza_county_texas
 
 
 JACKFRUIT
-http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jackfruit_hanging.JPG/220px-Jackfruit_hanging.JPG
 baldwin_county_alabama
 30.733055560000000383524820790626108646392822265625, -87.72027778000000353131326846778392791748046875
 ['jack']
@@ -12450,7 +12407,6 @@ sussex
 
 
 JAPANESE PERSIMMON
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaki_20041002.jpg/220px-Kaki_20041002.jpg
 rabun_county_georgia
 34.8769199999999983674570103175938129425048828125, -83.408199999999993679011822678148746490478515625
 ['persimmon']
@@ -12472,7 +12428,6 @@ frederick_county_virginia
 
 
 JUNIPERUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Juniperus_osteosperma_1.jpg/220px-Juniperus_osteosperma_1.jpg
 beaver_county_utah
 38.340000000000003410605131648480892181396484375, -113.2300000000000039790393202565610408782958984375
 ['junipers']
@@ -12506,7 +12461,6 @@ tlaxcala
 
 
 LEGUMINOSAE
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flowering_kudzu.jpg/220px-Flowering_kudzu.jpg
 fayette_county_alabama
 33.719999999999998863131622783839702606201171875, -87.738611109999993686869856901466846466064453125
 ['pea']
@@ -12537,7 +12491,6 @@ suffolk_virginia
 
 
 LEMON
-http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/P1030323.JPG/220px-P1030323.JPG
 juneau_alaska
 58.30144849999999934198058326728641986846923828125, -134.421612500000009049472282640635967254638671875
 ['lemon']
@@ -12571,7 +12524,6 @@ lancashire
 
 
 LEUCAENA
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leucaena_glauca.jpg/220px-Leucaena_glauca.jpg
 guam
 13.5, 144.80000000000001136868377216160297393798828125
 ['leucaena']
@@ -12593,7 +12545,6 @@ oaxaca
 
 
 MACLURA TRICUSPIDATA
-http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Maclura_tricuspidata_fruits.jpg/220px-Maclura_tricuspidata_fruits.jpg
 howard_county_indiana
 40.47999999999999687361196265555918216705322265625, -86.1200000000000045474735088646411895751953125
 ['che']
@@ -12609,7 +12560,6 @@ jasper_county_missouri
 
 
 MALUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Purple_prince_crabapple_tree.JPG/220px-Purple_prince_crabapple_tree.JPG
 marshall_county_alabama
 34.3680555600000019467188394628465175628662109375, -86.30388888999999608131474815309047698974609375
 ['apple']
@@ -12754,7 +12704,6 @@ worcestershire
 
 
 MANDARIN ORANGE
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Citrus_reticulata_April_2013_Nordbaden.JPG/220px-Citrus_reticulata_April_2013_Nordbaden.JPG
 orange_county_california
 33.6700000000000017053025658242404460906982421875, -117.780000000000001136868377216160297393798828125
 ['mandarin']
@@ -12782,7 +12731,6 @@ travis_county_texas
 
 
 MANGIFERA
-http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Starr_071024-0216_Mangifera_indica.jpg/220px-Starr_071024-0216_Mangifera_indica.jpg
 saipan
 15.183333329999999961046341923065483570098876953125, 145.75
 ['mango']
@@ -12801,7 +12749,6 @@ veracruz
 
 
 MANGIFERA CAESIA
-http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mangifera_caesia_fruits_from_Lapuyan_Zamboanga_del_Sur_prepared_as_a_merienda_snack_in_a_typical_Filipino_fashion.jpg/220px-Mangifera_caesia_fruits_from_Lapuyan_Zamboanga_del_Sur_prepared_as_a_merienda_snack_in_a_typical_Filipino_fashion.jpg
 baldwin_county_alabama
 30.733055560000000383524820790626108646392822265625, -87.72027778000000353131326846778392791748046875
 ['jack']
@@ -13204,7 +13151,6 @@ sussex
 
 
 MANOAO
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Manoao_colensoi_11.JPG/220px-Manoao_colensoi_11.JPG
 butler_county_alabama
 31.749444440000001321777745033614337444305419921875, -86.682222219999999879291863180696964263916015625
 ['pine']
@@ -13826,7 +13772,6 @@ somerset
 
 
 MYRICA RUBRA
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Myrica_rubra5.jpg/220px-Myrica_rubra5.jpg
 cambria_county_pennsylvania
 40.49000000000000198951966012828052043914794921875, -78.719999999999998863131622783839702606201171875
 ['arbutus']
@@ -13839,7 +13784,6 @@ puebla
 
 
 NANCE
-http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Byrsonima_crassifolia_1.jpg/220px-Byrsonima_crassifolia_1.jpg
 pearl_river_county_mississippi
 30.769999999999999573674358543939888477325439453125, -89.590000000000003410605131648480892181396484375
 ['nance']
@@ -13867,7 +13811,6 @@ bedford_county_virginia
 
 
 NECTARINE
-http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Illustration_Prunus_persica0.jpg/220px-Illustration_Prunus_persica0.jpg
 mohave_county_arizona
 35.68194444000000231653757509775459766387939453125, -113.8630555600000064941923483274877071380615234375
 ['peach', 'peach']
@@ -13943,7 +13886,6 @@ zacatecas
 
 
 OCEANIA
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oceania_%28orthographic_projection%29.svg/200px-Oceania_%28orthographic_projection%29.svg.png
 marin_county_california
 38.03999999999999914734871708787977695465087890625, -122.7399999999999948840923025272786617279052734375
 ['oceania']
@@ -13989,7 +13931,6 @@ wake_island
 
 
 OLIVE
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Olivesfromjordan.jpg/220px-Olivesfromjordan.jpg
 coosa_county_alabama
 32.9363888900000034709592000581324100494384765625, -86.2463888900000057446959544904530048370361328125
 ['olive']
@@ -14365,7 +14306,6 @@ veracruz
 
 
 OPUNTIA
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Opuntia_littoralis_var_vaseyi_4.jpg/220px-Opuntia_littoralis_var_vaseyi_4.jpg
 williamson_county_texas
 30.65550999999999959300112095661461353302001953125, -97.583899999999999863575794734060764312744140625
 ['prickly pear']
@@ -14384,7 +14324,6 @@ tlaxcala
 
 
 PAPAYA
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Carica_papaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-029.jpg/220px-Carica_papaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-029.jpg
 st._francois_county_missouri
 37.78194443999999663219568901695311069488525390625, -90.4222222199999947633841657079756259918212890625
 ['papaw']
@@ -14409,7 +14348,6 @@ guerrero
 
 
 PASSIFLORA LIGULARIS
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Passiflora_ligularis_%2814642851748%29.jpg/220px-Passiflora_ligularis_%2814642851748%29.jpg
 prowers_county_colorado
 37.96000000000000085265128291212022304534912109375, -102.400000000000005684341886080801486968994140625
 ['granada']
@@ -14467,7 +14405,6 @@ staffordshire
 
 
 PEACH
-http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Illustration_Prunus_persica0.jpg/220px-Illustration_Prunus_persica0.jpg
 mohave_county_arizona
 35.68194444000000231653757509775459766387939453125, -113.8630555600000064941923483274877071380615234375
 ['peach', 'peach']
@@ -14612,7 +14549,6 @@ zacatecas
 
 
 PEANUT
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg/220px-Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg
 franklin_county_arkansas
 35.5208333300000020926745492033660411834716796875, -93.875833330000006071713869459927082061767578125
 ['peanut']
@@ -14730,7 +14666,6 @@ veracruz
 
 
 PEAR
-http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/220px-Pears.jpg
 lake_county_california
 39.090000000000003410605131648480892181396484375, -122.7600000000000051159076974727213382720947265625
 ['pear']
@@ -14764,7 +14699,6 @@ worcestershire
 
 
 PECAN
-http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carya_illinoinensis.jpg/220px-Carya_illinoinensis.jpg
 garvin_county_oklahoma
 34.71000000000000085265128291212022304534912109375, -97.31000000000000227373675443232059478759765625
 ['pecan']
@@ -14795,7 +14729,6 @@ wise_county_texas
 
 
 PHOENIX DACTYLIFERA
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dates_on_date_palm.jpg/220px-Dates_on_date_palm.jpg
 butler_county_alabama
 31.749444440000001321777745033614337444305419921875, -86.682222219999999879291863180696964263916015625
 ['date']
@@ -15216,7 +15149,6 @@ east_riding_of_yorkshire
 
 
 PINEAPPLE
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg/220px-%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg
 st._lucie_county_florida
 27.379999999999999005240169935859739780426025390625, -80.43999999999999772626324556767940521240234375
 ['pineapple']
@@ -15241,7 +15173,6 @@ veracruz
 
 
 PLUM
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Red-Plums.jpg/220px-Red-Plums.jpg
 jefferson_county_arkansas
 34.28750000000000142108547152020037174224853515625, -91.9422222200000049951995606534183025360107421875
 ['plum']
@@ -15314,7 +15245,6 @@ worcestershire
 
 
 PRUNUS PERSICA
-http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Illustration_Prunus_persica0.jpg/220px-Illustration_Prunus_persica0.jpg
 mohave_county_arizona
 35.68194444000000231653757509775459766387939453125, -113.8630555600000064941923483274877071380615234375
 ['peach', 'peach']
@@ -15390,7 +15320,6 @@ zacatecas
 
 
 PRUNUS VIRGINIANA
-http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prunus_virginiana_flowers.jpg/220px-Prunus_virginiana_flowers.jpg
 conejos_county_colorado
 37.21000000000000085265128291212022304534912109375, -106.18999999999999772626324556767940521240234375
 ['capulin']
@@ -15403,7 +15332,6 @@ sanders_county_montana
 
 
 PUMPKIN
-
 woodford_county_illinois
 40.78999999999999914734871708787977695465087890625, -89.2099999999999937472239253111183643341064453125
 ['pumpkin']
@@ -15449,7 +15377,6 @@ chiapas
 
 
 PUNICA GRANATUM
-http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pomegranate_Juice_%282019%29.jpg/220px-Pomegranate_Juice_%282019%29.jpg
 prowers_county_colorado
 37.96000000000000085265128291212022304534912109375, -102.400000000000005684341886080801486968994140625
 ['granada']
@@ -15504,7 +15431,6 @@ staffordshire
 
 
 PYRUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/220px-Pears.jpg
 lake_county_california
 39.090000000000003410605131648480892181396484375, -122.7600000000000051159076974727213382720947265625
 ['pear']
@@ -15541,7 +15467,6 @@ worcestershire
 
 
 QUINCE
-http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pancrace_Bessa00.jpg/220px-Pancrace_Bessa00.jpg
 chihuahua_(state)
 28.816666670000000038953658076934516429901123046875, -106.4333333299999964083326631225645542144775390625
 ['quince']
@@ -15563,7 +15488,6 @@ guanajuato
 
 
 RAISIN
-
 fresno_county_california
 36.75, -119.650000000000005684341886080801486968994140625
 ['raisin']
@@ -15594,7 +15518,6 @@ province_of_valencia
 
 
 RASPBERRY
-
 kodiak_island_borough_alaska
 57.71000000000000085265128291212022304534912109375, -153.780000000000001136868377216160297393798828125
 ['raspberry']
@@ -15610,7 +15533,6 @@ greater_manchester
 
 
 RHAPHIOLEPIS
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Indian_Hawthorn_Bloom.jpg/220px-Indian_Hawthorn_Bloom.jpg
 leon_county_florida
 30.46000000000000085265128291212022304534912109375, -84.280000000000001136868377216160297393798828125
 ['hawthorn']
@@ -15629,7 +15551,6 @@ portsmouth_virginia
 
 
 RHUBARB
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rheum_rhabarbarum.2006-04-27.uellue.jpg/220px-Rheum_rhabarbarum.2006-04-27.uellue.jpg
 lancaster_county_pennsylvania
 40.03999999999999914734871708787977695465087890625, -76.25
 ['rhubarb']
@@ -15645,7 +15566,6 @@ yorkshire
 
 
 ROSE
-http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/220px-Rosa_rubiginosa_1.jpg
 cleburne_county_alabama
 33.67722221999999732133801444433629512786865234375, -85.50249999999999772626324556767940521240234375
 ['rose']
@@ -16183,7 +16103,6 @@ east_riding_of_yorkshire
 
 
 RUBIACEAE
-http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luculia_gratissima.jpg/220px-Luculia_gratissima.jpg
 coffee_county_alabama
 31.403333329999998824177964706905186176300048828125, -85.986666670000005296969902701675891876220703125
 ['coffee']
@@ -16355,7 +16274,6 @@ None
 
 
 SAFOU
-http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Safoutier.jpg/220px-Safoutier.jpg
 autauga_county_alabama
 32.5366666700000024547989596612751483917236328125, -86.6483333299999998189377947710454463958740234375
 ['african']
@@ -24330,7 +24248,6 @@ worcestershire
 
 
 SAGUARO
-http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg/220px-Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson%2C_Arizona_during_November_%2858%29.jpg
 pima_county_arizona
 32.065277780000002394444891251623630523681640625, -111.820833329999999250503606162965297698974609375
 ['saguaro']
@@ -24346,7 +24263,6 @@ pinal_county_arizona
 
 
 SAMBUCUS
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sambucus-berries.jpg/220px-Sambucus-berries.jpg
 ouachita_county_arkansas
 33.60000000000000142108547152020037174224853515625, -92.9166666699999979073254507966339588165283203125
 ['elder']
@@ -24449,7 +24365,6 @@ surrey
 
 
 SHRUB
-
 jackson_county_alabama
 34.78333332999999782941813464276492595672607421875, -86
 ['bush']
@@ -25368,7 +25283,6 @@ east_sussex
 
 
 STRAWBERRY
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Strawberry_BNC.jpg/220px-Strawberry_BNC.jpg
 shasta_county_california
 40.75999999999999801048033987171947956085205078125, -122.0400000000000062527760746888816356658935546875
 ['strawberry']
@@ -25435,7 +25349,6 @@ guanajuato
 
 
 SWEET ORANGE
-
 fresno_county_california
 36.75, -119.650000000000005684341886080801486968994140625
 ['orange']
@@ -25784,7 +25697,6 @@ shropshire
 
 
 SWEET PEPPER
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Poivrons_Luc_Viatour.jpg/220px-Poivrons_Luc_Viatour.jpg
 marengo_county_alabama
 32.241944439999997484846971929073333740234375, -87.7894444399999969164127833209931850433349609375
 ['pepper']
@@ -25848,7 +25760,6 @@ lincolnshire
 
 
 SYCAMORE FIG
-http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ficus_sycomorus_0003.jpg/220px-Ficus_sycomorus_0003.jpg
 yavapai_county_arizona
 34.5613888900000034709592000581324100494384765625, -112.5400000000000062527760746888816356658935546875
 ['sycamore']
@@ -25906,7 +25817,6 @@ province_of_león
 
 
 TAMARIND
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tamarindus_indica_pods.JPG/220px-Tamarindus_indica_pods.JPG
 saint_croix
 17.739722220000000874051693244837224483489990234375, -64.73888888999999835505150258541107177734375
 ['tamarind']
@@ -25919,7 +25829,6 @@ hidalgo_(state)
 
 
 TOMATO
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bright_red_tomato_and_cross_section02.jpg/220px-Bright_red_tomato_and_cross_section02.jpg
 bradley_county_arkansas
 33.494166669999998475759639404714107513427734375, -92.1449999999999960209606797434389591217041015625
 ['tomato']
@@ -25959,7 +25868,6 @@ veracruz
 
 
 TREE
-
 etowah_county_alabama
 34.0499999999999971578290569595992565155029296875, -86.03333333000000493484549224376678466796875
 ['tree']
@@ -26347,7 +26255,6 @@ worcestershire
 
 
 VANILLA
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png
 hopewell_virginia
 37.29039900000000073987393989227712154388427734375, -77.303370999999998502971720881760120391845703125
 ['vanilla']
@@ -26423,7 +26330,6 @@ veracruz
 
 
 VIBURNUM
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viburnum_opulus_C.jpg/220px-Viburnum_opulus_C.jpg
 dent_county_missouri
 37.6099999999999994315658113919198513031005859375, -91.5
 ['viburnum']
@@ -26439,7 +26345,6 @@ iron_county_missouri
 
 
 VITIS LABRUSCA
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Young_Concord_Grapevine.jpg/220px-Young_Concord_Grapevine.jpg
 chilton_county_alabama
 32.84527778000000353131326846778392791748046875, -86.714444439999994074241840280592441558837890625
 ['isabella']
@@ -26497,7 +26402,6 @@ rutland
 
 
 VITIS RUPESTRIS
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vitis_rupestris_Weinsberg_20071016.jpg/220px-Vitis_rupestris_Weinsberg_20071016.jpg
 baldwin_county_alabama
 30.733055560000000383524820790626108646392822265625, -87.72027778000000353131326846778392791748046875
 ['july', 'beach']
@@ -30260,7 +30164,6 @@ yorkshire
 
 
 ACHILLEA MILLEFOLIUM
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yarrow_%28Achillea_millefolium%29.jpg/220px-Yarrow_%28Achillea_millefolium%29.jpg
 adair_county_missouri
 40.18999999999999772626324556767940521240234375, -92.599999999999994315658113919198513031005859375
 ['yarrow']
@@ -30276,7 +30179,6 @@ lancashire
 
 
 ALLIUM TRICOCCUM
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RampBunch.png/220px-RampBunch.png
 arkansas_county_arkansas
 34.2741666699999996126280166208744049072265625, -91.3838888899999943760121823288500308990478515625
 ['ramps']
@@ -30352,7 +30254,6 @@ taylor_county_wisconsin
 
 
 ARUGULA
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eruca_sativa_1_IP0206101.jpg/220px-Eruca_sativa_1_IP0206101.jpg
 clay_county_alabama
 33.2722222200000032898969948291778564453125, -85.861111109999995960606611333787441253662109375
 ['rocket']
@@ -30398,7 +30299,6 @@ isle_of_wight
 
 
 BEAN
-
 lincolnshire
 53.06666666999999648623997927643358707427978515625, -0.1833333299999999888019175386943970806896686553955078125
 ['bean']
@@ -30417,7 +30317,6 @@ veracruz
 
 
 BEET
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Detroitdarkredbeets.png/220px-Detroitdarkredbeets.png
 ventura_county_california
 34.3599999999999994315658113919198513031005859375, -119.150000000000005684341886080801486968994140625
 ['beet']
@@ -30442,7 +30341,6 @@ suffolk
 
 
 BELL PEPPER
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Poivrons_Luc_Viatour.jpg/220px-Poivrons_Luc_Viatour.jpg
 marengo_county_alabama
 32.241944439999997484846971929073333740234375, -87.7894444399999969164127833209931850433349609375
 ['pepper']
@@ -30506,7 +30404,6 @@ veracruz
 
 
 BINOMIAL NOMENCLATURE
-
 gallia_county_ohio
 38.8299999999999982946974341757595539093017578125, -82.31999999999999317878973670303821563720703125
 ['latin name']
@@ -30519,7 +30416,6 @@ oxfordshire
 
 
 CABBAGE
-http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cabbage_and_cross_section_on_white.jpg/220px-Cabbage_and_cross_section_on_white.jpg
 brevard_county_florida
 28.300000000000000710542735760100185871124267578125, -80.7000000000000028421709430404007434844970703125
 ['cabbage']
@@ -30541,7 +30437,6 @@ chiapas
 
 
 CAMASSIA
-http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Camassia-quamash.jpg/220px-Camassia-quamash.jpg
 blaine_county_idaho
 43.3900000000000005684341886080801486968994140625, -113.9800000000000039790393202565610408782958984375
 ['camas']
@@ -30596,7 +30491,6 @@ clark_county_washington
 
 
 CAPSICUM
-http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Red_capsicum_and_cross_section.jpg/220px-Red_capsicum_and_cross_section.jpg
 marengo_county_alabama
 32.241944439999997484846971929073333740234375, -87.7894444399999969164127833209931850433349609375
 ['pepper']
@@ -30666,7 +30560,6 @@ veracruz
 
 
 CASSAVA
-http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg/220px-Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg
 baja_california_sur
 25.85000000000000142108547152020037174224853515625, -111.96666666999999506515450775623321533203125
 ['yuca', 'yuca']
@@ -30685,7 +30578,6 @@ puebla
 
 
 CEREAL
-
 la_rioja_(spain)
 42.25, -2.5
 ['cereal']
@@ -30707,7 +30599,6 @@ sussex
 
 
 CHARD
-http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chard_%28Beta_vulgaris_var_cicla%29.jpg/220px-Chard_%28Beta_vulgaris_var_cicla%29.jpg
 tehama_county_california
 40.13000000000000255795384873636066913604736328125, -122.2300000000000039790393202565610408782958984375
 ['chard']
@@ -30723,7 +30614,6 @@ somerset
 
 
 COOKING
-
 san_francisco
 37.78333332999999782941813464276492595672607421875, -122.4166666699999979073254507966339588165283203125
 ['cooking']
@@ -30781,7 +30671,6 @@ veracruz
 
 
 ERUCA SATIVA
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eruca_sativa_1_IP0206101.jpg/220px-Eruca_sativa_1_IP0206101.jpg
 clay_county_alabama
 33.2722222200000032898969948291778564453125, -85.861111109999995960606611333787441253662109375
 ['rocket']
@@ -30827,7 +30716,6 @@ isle_of_wight
 
 
 GARDEN CRESS
-http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Img_0717_garden_cress.jpg/220px-Img_0717_garden_cress.jpg
 lee_county_virginia
 36.71000000000000085265128291212022304534912109375, -83.1299999999999954525264911353588104248046875
 ['cress']
@@ -30840,7 +30728,6 @@ hertfordshire
 
 
 GARLIC
-http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Allium_sativum_Woodwill_1793.jpg/220px-Allium_sativum_Woodwill_1793.jpg
 province_of_león
 42.6666666699999979073254507966339588165283203125, -6
 ['garlic']
@@ -30856,7 +30743,6 @@ veracruz
 
 
 GINGER
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Koeh-146-no_text.jpg/220px-Koeh-146-no_text.jpg
 irwin_county_georgia
 31.60000000000000142108547152020037174224853515625, -83.2699999999999960209606797434389591217041015625
 ['ginger']
@@ -30908,7 +30794,6 @@ yorkshire
 
 
 HERB
-
 oaxaca
 16.89999999999999857891452847979962825775146484375, -96.4166666699999979073254507966339588165283203125
 ['herbs']
@@ -30921,7 +30806,6 @@ sonora
 
 
 HERBS
-
 oaxaca
 16.89999999999999857891452847979962825775146484375, -96.4166666699999979073254507966339588165283203125
 ['herbs']
@@ -30934,7 +30818,6 @@ sonora
 
 
 MOMORDICA CHARANTIA
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Momordica_charantia_Blanco2.357.png/220px-Momordica_charantia_Blanco2.357.png
 greene_county_alabama
 32.8522222200000015845944290049374103546142578125, -87.950833329999994703030097298324108123779296875
 ['ku']
@@ -31127,7 +31010,6 @@ guanajuato
 
 
 NAPA CABBAGE
-http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Napa_cabbages.png/220px-Napa_cabbages.png
 amador_county_california
 38.43999999999999772626324556767940521240234375, -120.659999999999996589394868351519107818603515625
 ['napa']
@@ -31161,7 +31043,6 @@ yolo_county_california
 
 
 NELUMBO NUCIFERA
-http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sacred_lotus_Nelumbo_nucifera.jpg/220px-Sacred_lotus_Nelumbo_nucifera.jpg
 macoupin_county_illinois
 39.25999999999999801048033987171947956085205078125, -89.9200000000000017053025658242404460906982421875
 ['lotus']
@@ -31174,7 +31055,6 @@ norfolk
 
 
 NOPAL
-
 rose_atoll
 -14.54666667000000046527929953299462795257568359375, -168.151944439999994074241840280592441558837890625
 ['tuna']
@@ -31238,7 +31118,6 @@ zacatecas
 
 
 ONION
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/220px-Mixed_onions.jpg
 dimmit_county_texas
 28.4200000000000017053025658242404460906982421875, -99.75
 ['onion']
@@ -31269,7 +31148,6 @@ puebla
 
 
 PARSLEY
-http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Petroselinum.jpg/220px-Petroselinum.jpg
 cornwall
 50.39999999999999857891452847979962825775146484375, -4.9000000000000003552713678800500929355621337890625
 ['parsley']
@@ -31282,7 +31160,6 @@ veracruz
 
 
 PEA
-http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peas_in_pods_-_Studio.jpg/220px-Peas_in_pods_-_Studio.jpg
 fayette_county_alabama
 33.719999999999998863131622783839702606201171875, -87.738611109999993686869856901466846466064453125
 ['pea']
@@ -31310,7 +31187,6 @@ dekalb_county_tennessee
 
 
 PEARL ONION
-http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pearl_onions.jpg/220px-Pearl_onions.jpg
 eagle_county_colorado
 39.61999999999999744204615126363933086395263671875, -106.7000000000000028421709430404007434844970703125
 ['button']
@@ -31329,7 +31205,6 @@ cumbria
 
 
 PORTULACA OLERACEA
-http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Portulaca_oleracea.JPG/220px-Portulaca_oleracea.JPG
 navarro_county_texas
 32.0499999999999971578290569595992565155029296875, -96.469999999999998863131622783839702606201171875
 ['pursley']
@@ -31342,7 +31217,6 @@ sonora
 
 
 POTATO
-http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/220px-Patates.jpg
 merced_county_california
 37.18999999999999772626324556767940521240234375, -120.7099999999999937472239253111183643341064453125
 ['potato']
@@ -31481,7 +31355,6 @@ lincolnshire
 
 
 PURPLE SALSIFY
-http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Purple_Salsify_-_Stierch.jpg/220px-Purple_Salsify_-_Stierch.jpg
 evans_county_georgia
 32.159999999999996589394868351519107818603515625, -81.8900000000000005684341886080801486968994140625
 ['purple']
@@ -31539,7 +31412,6 @@ mexico_city
 
 
 RAPESEED
-http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Brassica_napus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-169.jpg/220px-Brassica_napus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-169.jpg
 anchorage_alaska
 61.21666667000000217058186535723507404327392578125, -149.900000000000005684341886080801486968994140625
 ['rape']
@@ -31621,7 +31493,6 @@ mexico_city
 
 
 SORREL
-http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rumex_acetosa_cultivar_01.jpg/220px-Rumex_acetosa_cultivar_01.jpg
 iberville_parish_louisiana
 30.260000000000001563194018672220408916473388671875, -91.349999999999994315658113919198513031005859375
 ['sorrel']
@@ -31634,7 +31505,6 @@ greater_manchester
 
 
 SOYBEAN
-http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Soybean.USDA.jpg/220px-Soybean.USDA.jpg
 st._clair_county_illinois
 38.469999999999998863131622783839702606201171875, -89.93000000000000682121026329696178436279296875
 ['soybean']
@@ -31650,7 +31520,6 @@ coahoma_county_mississippi
 
 
 SPICE
-
 greater_manchester
 53.5, -2.316666670000000038953658076934516429901123046875
 ['spice']
@@ -31663,7 +31532,6 @@ oaxaca
 
 
 STAPLE FOOD
-
 mobile_county_alabama
 30.786388890000001339330992777831852436065673828125, -88.2138888900000068815643317066133022308349609375
 ['staple']
@@ -31754,7 +31622,6 @@ veracruz
 
 
 ULLUCO
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ullucus_tuberosus.jpg/220px-Ullucus_tuberosus.jpg
 orange_county_california
 33.6700000000000017053025658242404460906982421875, -117.780000000000001136868377216160297393798828125
 ['lisa']
@@ -31839,7 +31706,6 @@ skagit_county_washington
 
 
 WATERCRESS
-http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Watercress_%282%29.JPG/220px-Watercress_%282%29.JPG
 jefferson_county_alabama
 33.5833333300000020926745492033660411834716796875, -86.866666670000000749496393837034702301025390625
 ['watercress']

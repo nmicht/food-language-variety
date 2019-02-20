@@ -12,8 +12,8 @@ PROVINCE_OF_ALBACETE
 
 PROVINCE_OF_ALICANTE
 38.5, -0.5
-Olive	['olive']
-Olive	['Olive']
+Olive	["olive"]
+Olive	["Olive"]
 
 
 PROVINCE_OF_ALMERÍA
@@ -34,8 +34,8 @@ PROVINCE_OF_BADAJOZ
 
 BALEARIC_ISLANDS
 39.5, 3
-Olive	['olive']
-Olive	['Olive']
+Olive	["olive"]
+Olive	["Olive"]
 
 
 PROVINCE_OF_BARCELONA
@@ -56,15 +56,15 @@ PROVINCE_OF_CÁCERES
 
 PROVINCE_OF_CÁDIZ
 36.5, -5.75
-Olive	['olive']
-Olive	['Olive']
+Olive	["olive"]
+Olive	["Olive"]
 
 
 CANTABRIA
 43.3333333300000020926745492033660411834716796875, -4
-Collard greens	['Collard greens']
-Fruit	['fruit']
-Fruit	['Fruit']
+Collard greens	["Collard greens"]
+Fruit	["fruit"]
+Fruit	["Fruit"]
 
 
 PROVINCE_OF_CASTELLÓN
@@ -73,7 +73,7 @@ PROVINCE_OF_CASTELLÓN
 
 PROVINCE_OF_CIUDAD_REAL
 39, -4
-Beet	['beet']
+Beet	["beet"]
 
 
 PROVINCE_OF_CÓRDOBA_(SPAIN)
@@ -110,22 +110,22 @@ PROVINCE_OF_HUESCA
 
 PROVINCE_OF_JAÉN_(SPAIN)
 38, -3.5
-Olive	['olive']
-Olive	['Olive']
+Olive	["olive"]
+Olive	["Olive"]
 
 
 LA_RIOJA_(SPAIN)
 42.25, -2.5
-Asparagus	['Asparagus']
-Beet	['beet']
-Bell pepper	['capsicum']
-Capsicum	['Capsicum']
-Cereal	['cereal']
-Cooking	['Cooking']
-Grape	['grape']
-Olive	['olive']
-Capsicum	['Capsicum']
-Olive	['Olive']
+Asparagus	["Asparagus"]
+Beet	["beet"]
+Bell pepper	["capsicum"]
+Capsicum	["Capsicum"]
+Cereal	["cereal"]
+Cooking	["Cooking"]
+Grape	["grape"]
+Olive	["olive"]
+Capsicum	["Capsicum"]
+Olive	["Olive"]
 
 
 PROVINCE_OF_LAS_PALMAS
@@ -134,17 +134,17 @@ PROVINCE_OF_LAS_PALMAS
 
 PROVINCE_OF_LEÓN
 42.6666666699999979073254507966339588165283203125, -6
-Bell pepper	['pepper']
-Capsicum	['pepper']
-Garlic	['Garlic']
+Bell pepper	["pepper"]
+Capsicum	["pepper"]
+Garlic	["Garlic"]
 
 
 PROVINCE_OF_LLEIDA
 42, 1.1666666699999999057268951219157315790653228759765625
-Fruit	['fruit']
-Olive	['olive']
-Fruit	['Fruit']
-Olive	['Olive']
+Fruit	["fruit"]
+Olive	["olive"]
+Fruit	["Fruit"]
+Olive	["Olive"]
 
 
 LUGO_(PROVINCE)
@@ -161,20 +161,20 @@ PROVINCE_OF_MÁLAGA
 
 REGION_OF_MURCIA
 None
-Olive	['olive']
-Olive	['Olive']
+Olive	["olive"]
+Olive	["Olive"]
 
 
 NAVARRE
 42.81666666999999648623997927643358707427978515625, -1.649999999999999911182158029987476766109466552734375
-Olive	['olive']
-Olive	['Olive']
+Olive	["olive"]
+Olive	["Olive"]
 
 
 PROVINCE_OF_OURENSE
 42.1666666699999979073254507966339588165283203125, -7.5
-Potato	['potato']
-Potato	['Potato']
+Potato	["potato"]
+Potato	["Potato"]
 
 
 PROVINCE_OF_PALENCIA
@@ -195,7 +195,7 @@ PROVINCE_OF_SANTA_CRUZ_DE_TENERIFE
 
 PROVINCE_OF_SEGOVIA
 41.1666666699999979073254507966339588165283203125, -4
-Cereal	['cereal']
+Cereal	["cereal"]
 
 
 PROVINCE_OF_SEVILLE
@@ -208,10 +208,10 @@ PROVINCE_OF_SORIA
 
 PROVINCE_OF_TARRAGONA
 41.1666666699999979073254507966339588165283203125, 1
-Endive	['Endive']
-Fruit	['fruit']
-Scallion	['spring onions']
-Fruit	['Fruit']
+Endive	["Endive"]
+Fruit	["fruit"]
+Scallion	["spring onions"]
+Fruit	["Fruit"]
 
 
 PROVINCE_OF_TERUEL
@@ -224,24 +224,24 @@ PROVINCE_OF_TOLEDO
 
 PROVINCE_OF_VALENCIA
 39.3333333300000020926745492033660411834716796875, -0.83333332999999998325080241556861437857151031494140625
-Fruit	['fruit']
-Olive	['olive']
-Fruit	['Fruit']
-Olive	['Olive']
+Fruit	["fruit"]
+Olive	["olive"]
+Fruit	["Fruit"]
+Olive	["Olive"]
 
 
 PROVINCE_OF_VALLADOLID
 41.5833333300000020926745492033660411834716796875, -4.6666666699999996836822901968844234943389892578125
-Cooking	['Cooking']
-Garlic	['Garlic']
-Grape	['grape']
-Nut (fruit)	['nut']
+Cooking	["Cooking"]
+Garlic	["Garlic"]
+Grape	["grape"]
+Nut (fruit)	["nut"]
 
 
 PROVINCE_OF_ZAMORA
 41.75, -6
-Fruit	['fruit']
-Fruit	['Fruit']
+Fruit	["fruit"]
+Fruit	["Fruit"]
 
 
 PROVINCE_OF_ZARAGOZA
