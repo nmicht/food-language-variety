@@ -1,267 +1,244 @@
+
+
 AGUASCALIENTES
-22.01666666999999932841092231683433055877685546875, -102.349999999999994315658113919198513031005859375
-Grape	["grape"]
+22.021666669999998333651092252694070339202880859375, -102.35638889000000517626176588237285614013671875
+Nopal	["Nopal"]
+Tomatillo	["tomatillo"]
+Avocado	["aguacate", "aguacate"]
+Azuki bean	["frijol"]
+Nopal	["nopal"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
 
 
 BAJA_CALIFORNIA
-30, -115.1666666699999979073254507966339588165283203125
+29.949999999999999289457264239899814128875732421875, -115.116666670000000749496393837034702301025390625
+Santa Barbara County	["California"]
+United States	["Estados Unidos"]
 
 
 BAJA_CALIFORNIA_SUR
-25.85000000000000142108547152020037174224853515625, -111.96666666999999506515450775623321533203125
-Cassava	["yuca", "yuca"]
-Chickpea	["garbanzo"]
-Nopal	["Nopal"]
-Cassava	["yuca"]
-Nopal	["nopal", "tuna"]
+25.846111109999998944886101526208221912384033203125, -111.9727777800000012575765140354633331298828125
+Santa Barbara County	["California"]
+United States	["Estados Unidos"]
 
 
 CAMPECHE
-18.833333329999998539960870402865111827850341796875, -90.400000000000005684341886080801486968994140625
-Bell pepper	["pepper"]
-Capsicum	["pepper"]
+18.836388889999998497160049737431108951568603515625, -90.4033333299999952714642859064042568206787109375
+Botanical	["s"]
+Chaya plant	["chaya"]
 Fruit	["fruit"]
-Squash (plant)	["squash"]
-Staple food	["staple"]
+Pea	["pea"]
+Santa Barbara County	["California"]
+United States	["USA"]
+Avocado	["aguacate", "aguacate"]
 Fruit	["Fruit"]
+Genus	["género"]
+Momordica charantia	["ku"]
+Ulluco	["lisa"]
+United States	["Estados Unidos"]
 
 
 CHIAPAS
-16.416666670000001460039129597134888172149658203125, -92.4166666699999979073254507966339588165283203125
-Bell pepper	["pepper"]
-Cabbage	["Cabbage"]
-Capsicum	["pepper"]
-Cassava	["manioc"]
+16.410000000000000142108547152020037174224853515625, -92.4086111099999953921724227257072925567626953125
+Botanical	["s"]
 Chayote	["Chayote"]
-Cooking	["Cooking"]
-Fruit	["fruit"]
-Onion	["onion"]
-Pumpkin	["pumpkin"]
-Purple Salsify	["purple"]
-Squash (plant)	["squash"]
-Staple food	["staple"]
-Tomato	["tomato"]
-Vanilla	["Vanilla"]
+Genus	["genera"]
+Avocado	["aguacate", "aguacate"]
+Azuki bean	["frijol"]
 Chayote	["chayote"]
-Fruit	["Fruit"]
-Nopal	["tuna"]
-Pumpkin	["Pumpkin"]
-Vanilla	["Vanilla"]
+Phaseolus vulgaris	["frijol"]
+Ulluco	["lisa"]
+United States	["Estados Unidos"]
 
 
 MEXICO_CITY
-19.433333329999999961046341923065483570098876953125, -99.133333329999999250503606162965297698974609375
-Cooking	["Cooking"]
-Purple Salsify	["purple"]
-Rapeseed	["rape"]
-Staple food	["staple"]
-
-
-CHIHUAHUA_(STATE)
-28.816666670000000038953658076934516429901123046875, -106.4333333299999964083326631225645542144775390625
-Squash (plant)	["squash"]
+19.41944443999999947436663205735385417938232421875, -99.1455555600000053573239711113274097442626953125
+Botanical	["s"]
+Carrot	["carrot"]
+United States	["USA", "U.S."]
+Genus	["género"]
+United States	["Estados Unidos"]
+Vicia faba	["haba"]
 
 
 COAHUILA
-27.300000000000000710542735760100185871124267578125, -102.0499999999999971578290569595992565155029296875
+27.302222220000000874051693244837224483489990234375, -102.0447222199999970371209201402962207794189453125
+Santa Barbara County	["California"]
+Avocado	["aguacate", "aguacate"]
+Chenopodium album	["cenizo"]
+United States	["Estados Unidos", "Estados Unidos de América"]
 
 
 COLIMA
-19.166666670000001460039129597134888172149658203125, -103.883333329999999250503606162965297698974609375
-Fruit	["fruit"]
-Vanilla	["Vanilla"]
-Avocado	["aguacate", "aguacate"]
-Fruit	["Fruit"]
-Nopal	["tuna"]
-Vanilla	["Vanilla"]
+19.096666670000001175822035293094813823699951171875, -103.9608333299999998189377947710454463958740234375
+Botanical	["s"]
+Azuki bean	["frijol"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
 
 
 DURANGO
-24.933333329999999961046341923065483570098876953125, -104.9166666699999979073254507966339588165283203125
-Cooking	["Cooking"]
-Fruit	["fruit"]
-Nopal	["Nopal"]
-Nut (fruit)	["nut"]
-Fruit	["Fruit"]
-Nopal	["nopal"]
+24.934722220000001158268787548877298831939697265625, -104.9119444399999991901495377533137798309326171875
+Genus	["genera"]
+Santa Barbara County	["California"]
+United States	["Estados Unidos"]
 
 
 GUANAJUATO
-21.01666666999999932841092231683433055877685546875, -101.26666667000000643383827991783618927001953125
-Avocado	["avocado"]
-Broccoli	["Broccoli"]
-Fruit	["fruit"]
+21.018888889999999491919879801571369171142578125, -101.262777779999993299497873522341251373291015625
+Botanical	["s"]
+Chickpea	["garbanzo"]
 Nopal	["Nopal"]
-Vanilla	["Vanilla"]
-Broccoli	["broccoli"]
-Fruit	["Fruit"]
-Momordica charantia	["melon"]
-Nopal	["nopal", "tuna"]
-Vanilla	["Vanilla"]
+Avocado	["aguacate", "aguacate"]
+Azuki bean	["frijol"]
+Broccoli	["brócoli"]
+Genus	["género"]
+Nopal	["nopal"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
 
 
 GUERRERO
-17.616666670000000749496393837034702301025390625, -99.9500000000000028421709430404007434844970703125
-Bean	["bean"]
-Bell pepper	["pepper"]
-Capsicum	["pepper"]
-Cooking	["Cooking"]
-Okra	["Okra"]
-Staple food	["staple"]
-Okra	["okra"]
-
-
-HIDALGO_(STATE)
-20.48333333000000067158907768316566944122314453125, -98.866666670000000749496393837034702301025390625
-Cooking	["Cooking"]
-Fruit	["fruit"]
-Nopal	["Nopal"]
-Squash (plant)	["squash"]
-Fruit	["Fruit"]
-Luffa	["pastes"]
-Nopal	["nopal"]
+None
 
 
 JALISCO
-20.566666670000000038953658076934516429901123046875, -103.6833333299999964083326631225645542144775390625
-Bell pepper	["pepper"]
-Capsicum	["pepper"]
-Fruit	["fruit"]
-Squash (plant)	["squash"]
-Staple food	["staple"]
-Tomato	["tomato"]
-Fruit	["Fruit"]
-
-
-STATE_OF_MEXICO
-19.35000000000000142108547152020037174224853515625, -99.633333329999999250503606162965297698974609375
-Cooking	["Cooking"]
-Nut (fruit)	["nut"]
-Squash (plant)	["squash"]
+20.566666670000000038953658076934516429901123046875, -103.67638888999999835505150258541107177734375
+Botanical	["s"]
+Chickpea	["garbanzo"]
+Santa Barbara County	["California"]
+Avocado	["aguacate", "aguacate"]
+Azuki bean	["frijol"]
+Cereal	["cereales"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos", "Estados Unidos de América"]
+Vicia faba	["haba"]
 
 
 MORELOS
-18.75, -99.0666666700000035916673368774354457855224609375
-Fruit	["fruit"]
-Jícama	["jicama"]
-Squash (plant)	["squash"]
-Fruit	["Fruit"]
-Peanut	["Peanut"]
+18.747499999999998721023075631819665431976318359375, -99.070277779999997846971382386982440948486328125
+Botanical	["s"]
+Nopal	["Nopal"]
+Avocado	["aguacate", "aguacate"]
+Azuki bean	["frijol"]
+Nopal	["nopal"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
+Vegetable	["Venerable"]
 
 
 NAYARIT
-21.75, -105.23333332999999356616172008216381072998046875
+21.74388889000000091300535132177174091339111328125, -105.22833332999999811363522894680500030517578125
+Botanical	["s"]
+Nopal	["Nopal"]
+Santa Barbara County	["California"]
+Avocado	["aguacate", "aguacate"]
+Azuki bean	["frijol"]
+Genus	["género"]
+Jícama	["jícama"]
+Nopal	["nopal"]
+Phaseolus vulgaris	["frijol"]
+Ulluco	["lisa"]
+United States	["Estados Unidos"]
 
 
 OAXACA
-16.89999999999999857891452847979962825775146484375, -96.4166666699999979073254507966339588165283203125
-Bell pepper	["pepper"]
-Capsicum	["pepper"]
-Cooking	["Cooking"]
-Fruit	["fruit"]
-Herb	["herbs"]
-Herbs	["herbs"]
-Lupinus mutabilis	["chocho"]
-Spice	["spice"]
-Squash (plant)	["squash"]
-Staple food	["staple food", "staple"]
-Vanilla	["Vanilla"]
-Fruit	["Fruit"]
-Lupinus mutabilis	["chocho"]
-Nopal	["tuna"]
-Vanilla	["Vanilla"]
+16.898055559999999530873537878505885601043701171875, -96.4141666700000001810622052289545536041259765625
+Botanical	["s"]
+Nopal	["Nopal"]
+Santa Barbara County	["California"]
+United States	["USA"]
+Avocado	["aguacate", "aguacate"]
+Celosia argentea	["penacho"]
+Cereal	["cereales"]
+Nopal	["nopal"]
+United States	["Estados Unidos"]
 
 
 PUEBLA
-19, -97.883333329999999250503606162965297698974609375
-Avocado	["avocado"]
-Bell pepper	["pepper"]
-Capsicum	["pepper"]
-Cassava	["yuca", "yuca"]
-Cooking	["Cooking"]
-Fruit	["fruit"]
-Herb	["herbs"]
-Herbs	["herbs"]
+19.00361111000000136073140311054885387420654296875, -97.888333329999994703030097298324108123779296875
+Cereal	["cereal"]
+Genus	["genera"]
 Nopal	["Nopal"]
-Onion	["onion"]
-Squash (plant)	["squash"]
-Staple food	["staple"]
-Avocado	["aguacate", "aguacate"]
-Cassava	["yuca"]
-Fruit	["Fruit"]
+Santa Barbara County	["California"]
+United States	["USA"]
+Azuki bean	["frijol"]
+Cereal	["cereales"]
 Nopal	["nopal"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
 
 
 QUINTANA_ROO
-19.60000000000000142108547152020037174224853515625, -87.9200000000000017053025658242404460906982421875
+19.60000000000000142108547152020037174224853515625, -87.9166666699999979073254507966339588165283203125
+Santa Barbara County	["California"]
+Ulluco	["lisa"]
+United States	["Estados Unidos"]
 
 
 SINALOA
-25, -107.5
-Squash (plant)	["squash"]
+25.002777779999998841731212451122701168060302734375, -107.502777780000002394444891251623630523681640625
+Botanical	["s"]
+Chickpea	["garbanzo"]
+Santa Barbara County	["California"]
+Azuki bean	["frijol"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
 
 
 SONORA
 29.64611110999999965542883728630840778350830078125, -110.8688888899999938075779937207698822021484375
-Bean	["bean"]
-Bell pepper	["pepper", "capsicum"]
-Capsicum	["Capsicum", "pepper"]
-Common purslane	["Portulaca oleracea"]
-Herb	["herbs"]
-Herbs	["herbs"]
-Portulaca oleracea	["Portulaca oleracea"]
-Squash (plant)	["squash"]
-Staple food	["staple"]
-Capsicum	["Capsicum"]
-Ipomoea aquatica	["Seri"]
-Peanut	["Peanut"]
-Portulaca oleracea	["Portulaca oleracea"]
+Santa Barbara County	["California"]
+Genus	["género"]
+United States	["Estados Unidos", "Estados Unidos de América"]
 
 
 TABASCO
-17.966666669999998617868186556734144687652587890625, -92.5833333300000020926745492033660411834716796875
-Bean	["bean"]
-Cooking	["Cooking"]
+17.97222221999999902664058026857674121856689453125, -92.5888888900000068815643317066133022308349609375
+Botanical	["s"]
+Chaya plant	["chaya"]
+Azuki bean	["frijol"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
 
 
 TAMAULIPAS
-24.283333330000001382131813443265855312347412109375, -98.5666666700000035916673368774354457855224609375
+24.287222220000000305617504636757075786590576171875, -98.563333330000006071713869459927082061767578125
+United States	["USA"]
+Genus	["género"]
+Ulluco	["lisa"]
+United States	["Estados Unidos", "Estados Unidos de América"]
 
 
 TLAXCALA
-19.433333329999999961046341923065483570098876953125, -98.1666666699999979073254507966339588165283203125
-Fruit	["fruit"]
-Nopal	["Nopal"]
-Squash (plant)	["squash"]
-Fruit	["Fruit"]
-Nopal	["nopal"]
+19.428888889999999634028426953591406345367431640625, -98.16083333000000266110873781144618988037109375
+Genus	["genera"]
+Santa Barbara County	["California"]
+Azuki bean	["frijol"]
+Cereal	["cereales"]
+Okra	["candia"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]
+Vicia faba	["haba"]
 
 
 VERACRUZ
-19.433333329999999961046341923065483570098876953125, -96.383333329999999250503606162965297698974609375
-Bean	["bean"]
-Bell pepper	["pepper"]
-Capsicum	["pepper"]
-Cooking	["Cooking"]
-Fruit	["fruit"]
-Garlic	["Garlic"]
-Olive	["olive"]
-Parsley	["Parsley"]
-Squash (plant)	["squash"]
-Staple food	["staple"]
-Tomato	["tomato"]
-Vanilla	["Vanilla"]
-Fruit	["Fruit"]
-Olive	["Olive"]
-Peanut	["Peanut"]
-Vanilla	["Vanilla"]
+19.190277779999998841731212451122701168060302734375, -96.1533333299999952714642859064042568206787109375
+Ulluco	["lisa"]
+United States	["Estados Unidos"]
 
 
 ZACATECAS
-23.300000000000000710542735760100185871124267578125, -102.7000000000000028421709430404007434844970703125
-Fruit	["fruit"]
-Grape	["grape"]
+23.29277778000000154179360833950340747833251953125, -102.7005555599999979676795192062854766845703125
+Botanical	["s"]
 Nopal	["Nopal"]
-Squash (plant)	["squash"]
-Fruit	["Fruit"]
-Nopal	["nopal"]
+Pea	["pea"]
+United States	["USA"]
+Azuki bean	["frijol"]
+Cardoon	["Cardona"]
+Cereal	["cereales"]
+Genus	["género"]
+Nopal	["nopal", "tuna"]
+Phaseolus vulgaris	["frijol"]
+United States	["Estados Unidos"]

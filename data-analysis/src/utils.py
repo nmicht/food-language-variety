@@ -52,7 +52,7 @@ def find_word_in_articles(word, article_links):
             print('not in ' + article_link)
 
 
-def food_in_places(food_item_dict, places_list, savepath):
+def food_in_places(food_item_dict, places_list, savepath, lang='en'):
     outfile = open(savepath, 'w')
     found_words = [[], []]
 
@@ -60,11 +60,15 @@ def food_in_places(food_item_dict, places_list, savepath):
         coords = 'None'
         print('---------------->' + place + '<----------------')
         try:
+            wikipedia.set_lang('en')
             article = wikipedia.page(place, auto_suggest=False)
+            print('langlinks', article.langlinks[lang])
         except:
             try:
+                wikipedia.set_lang('en')
                 place_with_comma = "_".join(place.split("_")[:-1]) + ",_" + place.split("_")[-1]
                 article = wikipedia.page(place_with_comma, auto_suggest=False)
+                print('langlinks', article.langlinks[lang])
             except:
                 continue
 
@@ -85,8 +89,8 @@ def food_in_places(food_item_dict, places_list, savepath):
 
         outfile.write('\n\n' + place.upper() + '\n' + coords + '\n')
         for x in non_empties_en:
-            outfile.write(str(x[0]) + '\t' + str(x[1]) + '\n')
+            outfile.write(str(x[0]).replace("'",'"') + '\t' + str(x[1]).replace("'",'"') + '\n')
         for x in non_empties_es:
-            outfile.write(str(x[0]) + '\t' + str(x[1]) + '\n')
+            outfile.write(str(x[0]).replace("'",'"') + '\t' + str(x[1]).replace("'",'"') + '\n')
 
     return found_words
