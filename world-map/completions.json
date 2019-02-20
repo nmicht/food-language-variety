@@ -1,5 +1,6 @@
 {
   "components": {
+    "App": {},
     "FoodImage": {},
     "FoodsContainer": {}
   }

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import FoodsContainer from './FoodsContainer/FoodsContainer';
+import WorldMap from './WorldMap/WorldMap';
 // import Map from './Map/Map'
 
 import './App.css';
@@ -69,8 +70,10 @@ class App extends Component {
             <FoodsContainer
               foods={this.data.images}
               onClick={this.handleClick}
+              selected={this.state.selectedFood}
             />
           </aside>
+          <WorldMap />
         </main>
       </React.Fragment>
     );

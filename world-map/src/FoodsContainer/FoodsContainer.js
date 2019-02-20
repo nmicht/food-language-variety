@@ -4,29 +4,32 @@ import './FoodsContainer.css';
 
 class FoodsContainer extends Component {
 
-  renderFoodItem(item, event) {
+  renderFoodItem(item, event, selected) {
     return (
       <FoodImage
         key={item.key}
         link={item.image}
         alt={item.key}
         onClick={event}
+        selected={selected}
       />
     );
   }
 
   render(props) {
     const items = this.props.foods.map((i) => {
-      return this.renderFoodItem(i, this.props.onClick);
+      return this.renderFoodItem(i, this.props.onClick, this.props.selected);
     });
 
     return (
-      <section className="Foods">
-      <h2>Food names</h2>
-      <ul>
-        {items}
-      </ul>
-      </section>
+      <React.Fragment>
+        <h2>Food names</h2>
+        <section className="FoodsContainer">
+          <ul>
+            {items}
+          </ul>
+        </section>
+      </React.Fragment>
     );
   }
 }
