@@ -14,6 +14,7 @@ class App extends Component {
     };
     this.state = {
       selectedFood: 'ALMOND',
+      places: [],
       loading: true,
     };
     this.jsonPath = '../data.json';
@@ -38,7 +39,8 @@ class App extends Component {
 
   handleClick = (el) =>  {
     this.setState({
-      selectedFood: el.currentTarget.alt
+      selectedFood: el.currentTarget.alt,
+      places: (this.data.all.find((o) => o.key===el.currentTarget.alt)).places
     });
   }
 
@@ -59,6 +61,7 @@ class App extends Component {
     if (this.state.loading === true) {
       return <h2>Loading...</h2>;
     }
+  
 
     return (
       <React.Fragment>
@@ -73,7 +76,7 @@ class App extends Component {
               selected={this.state.selectedFood}
             />
           </aside>
-          <WorldMap />
+          <WorldMap places={this.state.places} />
         </main>
       </React.Fragment>
     );
