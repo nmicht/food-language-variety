@@ -1,0 +1,8 @@
+main {
+  display: flex;
+}
+
+aside {
+  flex: 1;
+  height: 550px;
+}

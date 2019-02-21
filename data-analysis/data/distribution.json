@@ -552,8 +552,8 @@
                 "lng": "-115.9800000000000039790393202565610408782958984375",
                 "name": "Riverside County California",
                 "synonyms": [
-                    "palmas",
-                    "palms"
+                    "palms",
+                    "palmas"
                 ]
             },
             {
@@ -785,8 +785,8 @@
                 "lng": "-103.9608333299999998189377947710454463958740234375",
                 "name": "Colima",
                 "synonyms": [
-                    "palmas",
-                    "palmeras"
+                    "palmeras",
+                    "palmas"
                 ]
             }
         ]
@@ -853,14 +853,6 @@
                 "lat": "42.27000000000000312638803734444081783294677734375",
                 "lng": "-86.31000000000000227373675443232059478759765625",
                 "name": "Van buren county michigan",
-                "synonyms": [
-                    "paw paw"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Ste. Genevieve County Missouri",
                 "synonyms": [
                     "paw paw"
                 ]
@@ -2106,8 +2098,8 @@
                 "lng": "-92.5888888900000068815643317066133022308349609375",
                 "name": "Tabasco",
                 "synonyms": [
-                    "ceibo",
-                    "ceiba"
+                    "ceiba",
+                    "ceibo"
                 ]
             }
         ]
@@ -2933,14 +2925,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "27.699999999999999289457264239899814128875732421875, -80.5799999999999982946974341757595539093017578125",
-                "synonyms": [
-                    "citrus"
-                ]
-            },
-            {
                 "lat": "28.769999999999999573674358543939888477325439453125",
                 "lng": "-81.719999999999998863131622783839702606201171875",
                 "name": "Lake County Florida",
@@ -3137,8 +3121,8 @@
                 "lng": "-92.5888888900000068815643317066133022308349609375",
                 "name": "Tabasco",
                 "synonyms": [
-                    "icaco",
-                    "uva de playa"
+                    "uva de playa",
+                    "icaco"
                 ]
             }
         ]
@@ -3182,8 +3166,8 @@
                 "lng": "-80.0499999999999971578290569595992565155029296875",
                 "name": "Palm beach county florida",
                 "synonyms": [
-                    "coconut",
-                    "coconut palm"
+                    "coconut palm",
+                    "coconut"
                 ]
             },
             {
@@ -6507,14 +6491,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Orange County Florida",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "28.059999999999998721023075631819665431976318359375",
                 "lng": "-81.150000000000005684341886080801486968994140625",
                 "name": "Osceola County Florida",
@@ -6582,14 +6558,6 @@
                 "lat": "30.699999999999999289457264239899814128875732421875",
                 "lng": "-87.0199999999999960209606797434389591217041015625",
                 "name": "Santa Rosa County Florida",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Sarasota County Florida",
                 "synonyms": [
                     "african"
                 ]
@@ -15400,14 +15368,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Boone County Missouri",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "39.6700000000000017053025658242404460906982421875",
                 "lng": "-94.81000000000000227373675443232059478759765625",
                 "name": "Buchanan County Missouri",
@@ -16059,14 +16019,6 @@
                 "lat": "38.03999999999999914734871708787977695465087890625",
                 "lng": "-93.7699999999999960209606797434389591217041015625",
                 "name": "St. Clair County Missouri",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Ste. genevieve county missouri",
                 "synonyms": [
                     "african"
                 ]
@@ -25397,14 +25349,6 @@
         "key": "ericaceae",
         "places": [
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "San Joaquin County California",
-                "synonyms": [
-                    "heath"
-                ]
-            },
-            {
                 "lat": "37.43999999999999772626324556767940521240234375",
                 "lng": "-122.3599999999999994315658113919198513031005859375",
                 "name": "San mateo county california",
@@ -26189,14 +26133,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Latah County Idaho",
-                "synonyms": [
-                    "food"
-                ]
-            },
-            {
                 "lat": "41.89361111000000192916559171862900257110595703125",
                 "lng": "-88.7702777800000006891423254273831844329833984375",
                 "name": "Dekalb county illinois",
@@ -26941,14 +26877,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Pulaski County Kentucky",
-                "synonyms": [
-                    "food"
-                ]
-            },
-            {
                 "lat": "38.219999999999998863131622783839702606201171875",
                 "lng": "-85.18999999999999772626324556767940521240234375",
                 "name": "Shelby county kentucky",
@@ -27573,14 +27501,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Arlington County Virginia",
-                "synonyms": [
-                    "food"
-                ]
-            },
-            {
                 "lat": "37.39999999999999857891452847979962825775146484375",
                 "lng": "-76.5199999999999960209606797434389591217041015625",
                 "name": "Gloucester county virginia",
@@ -27805,14 +27725,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "City Of London",
-                "synonyms": [
-                    "food"
-                ]
-            },
-            {
                 "lat": "52.6666666699999979073254507966339588165283203125",
                 "lng": "1",
                 "name": "Norfolk",
@@ -27963,25 +27875,9 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Orange county florida",
-                "synonyms": [
-                    "fruit"
-                ]
-            },
-            {
                 "lat": "27.89999999999999857891452847979962825775146484375",
                 "lng": "-82.7399999999999948840923025272786617279052734375",
                 "name": "Pinellas county florida",
-                "synonyms": [
-                    "fruit"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Sarasota county florida",
                 "synonyms": [
                     "fruit"
                 ]
@@ -28054,14 +27950,6 @@
                 "lat": "41.1400000000000005684341886080801486968994140625",
                 "lng": "-74.68999999999999772626324556767940521240234375",
                 "name": "Sussex county new jersey",
-                "synonyms": [
-                    "fruit"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Rota (island)",
                 "synonyms": [
                     "fruit"
                 ]
@@ -28935,8 +28823,8 @@
                 "lng": "-123.7999999999999971578290569595992565155029296875",
                 "name": "Humboldt county california",
                 "synonyms": [
-                    "honeydew",
-                    "winter"
+                    "winter",
+                    "honeydew"
                 ]
             },
             {
@@ -29095,14 +28983,6 @@
                 "lat": "26.5799999999999982946974341757595539093017578125",
                 "lng": "-81.9200000000000017053025658242404460906982421875",
                 "name": "Lee county florida",
-                "synonyms": [
-                    "winter"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Orange county florida",
                 "synonyms": [
                     "winter"
                 ]
@@ -30621,14 +30501,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Pulaski county kentucky",
-                "synonyms": [
-                    "jack"
-                ]
-            },
-            {
                 "lat": "32.67999999999999971578290569595992565155029296875",
                 "lng": "-93.599999999999994315658113919198513031005859375",
                 "name": "Bossier parish louisiana",
@@ -31688,14 +31560,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Sarasota county florida",
-                "synonyms": [
-                    "lemon"
-                ]
-            },
-            {
                 "lat": "39.2000000000000028421709430404007434844970703125",
                 "lng": "-86.2300000000000039790393202565610408782958984375",
                 "name": "Brown county indiana",
@@ -32031,14 +31895,6 @@
                 "lat": "34.25",
                 "lng": "-90.2900000000000062527760746888816356658935546875",
                 "name": "Quitman county mississippi",
-                "synonyms": [
-                    "apple"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Boone county missouri",
                 "synonyms": [
                     "apple"
                 ]
@@ -32729,14 +32585,6 @@
                 "lat": "37.46000000000000085265128291212022304534912109375",
                 "lng": "-86.349999999999994315658113919198513031005859375",
                 "name": "Grayson county kentucky",
-                "synonyms": [
-                    "jack"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Pulaski county kentucky",
                 "synonyms": [
                     "jack"
                 ]
@@ -34008,14 +33856,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Latah county idaho",
-                "synonyms": [
-                    "pine"
-                ]
-            },
-            {
                 "lat": "44.74000000000000198951966012828052043914794921875",
                 "lng": "-115.56000000000000227373675443232059478759765625",
                 "name": "Valley county idaho",
@@ -34131,14 +33971,6 @@
                 "lat": "32.2999999999999971578290569595992565155029296875",
                 "lng": "-92.5499999999999971578290569595992565155029296875",
                 "name": "Jackson parish louisiana",
-                "synonyms": [
-                    "pine"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Jefferson Davis Parish Louisiana",
                 "synonyms": [
                     "pine"
                 ]
@@ -35628,14 +35460,6 @@
                 "lat": "25.610579999999998790372046642005443572998046875",
                 "lng": "-80.4970990000000057307261158712208271026611328125",
                 "name": "Miami-dade county florida",
-                "synonyms": [
-                    "oceania"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Orange county florida",
                 "synonyms": [
                     "oceania"
                 ]
@@ -37496,14 +37320,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Boone county missouri",
-                "synonyms": [
-                    "date"
-                ]
-            },
-            {
                 "lat": "37.6099999999999994315658113919198513031005859375",
                 "lng": "-91.5",
                 "name": "Dent county missouri",
@@ -37515,14 +37331,6 @@
                 "lat": "40.3599999999999994315658113919198513031005859375",
                 "lng": "-94.8799999999999954525264911353588104248046875",
                 "name": "Nodaway county missouri",
-                "synonyms": [
-                    "date"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Ste. genevieve county missouri",
                 "synonyms": [
                     "date"
                 ]
@@ -37932,8 +37740,8 @@
                 "lng": "-4",
                 "name": "Cantabria",
                 "synonyms": [
-                    "fénix",
-                    "palma"
+                    "palma",
+                    "fénix"
                 ]
             },
             {
@@ -38158,14 +37966,6 @@
                 "lat": "50.6666666699999979073254507966339588165283203125",
                 "lng": "-1.2666666699999999945447370919282548129558563232421875",
                 "name": "Isle of wight",
-                "synonyms": [
-                    "date"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "City of london",
                 "synonyms": [
                     "date"
                 ]
@@ -39139,8 +38939,8 @@
                 "lng": "-7",
                 "name": "Provincia de huelva",
                 "synonyms": [
-                    "granada",
-                    "granado"
+                    "granado",
+                    "granada"
                 ]
             },
             {
@@ -39734,8 +39534,8 @@
                 "lng": "-2.5",
                 "name": "La rioja (españa)",
                 "synonyms": [
-                    "parrilla",
-                    "grosellero"
+                    "grosellero",
+                    "parrilla"
                 ]
             },
             {
@@ -39867,8 +39667,8 @@
                 "lng": "-119.81000000000000227373675443232059478759765625",
                 "name": "Kings county california",
                 "synonyms": [
-                    "rosa",
-                    "rose"
+                    "rose",
+                    "rosa"
                 ]
             },
             {
@@ -39900,8 +39700,8 @@
                 "lng": "-122.31999999999999317878973670303821563720703125",
                 "name": "Napa county california",
                 "synonyms": [
-                    "rosa",
-                    "rose"
+                    "rose",
+                    "rosa"
                 ]
             },
             {
@@ -40228,14 +40028,6 @@
                 "lat": "37.840000000000003410605131648480892181396484375",
                 "lng": "-82.8299999999999982946974341757595539093017578125",
                 "name": "Johnson county kentucky",
-                "synonyms": [
-                    "rose"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Pulaski county kentucky",
                 "synonyms": [
                     "rose"
                 ]
@@ -40853,8 +40645,8 @@
                 "lng": "-162.078333329999992429293342866003513336181640625",
                 "name": "Palmyra atoll",
                 "synonyms": [
-                    "rosa",
-                    "rose"
+                    "rose",
+                    "rosa"
                 ]
             },
             {
@@ -41555,14 +41347,6 @@
                 "lat": "52.0833333300000020926745492033660411834716796875",
                 "lng": "-0.41666667000000001674919758443138562142848968505859375",
                 "name": "Bedfordshire",
-                "synonyms": [
-                    "coffee"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "City of london",
                 "synonyms": [
                     "coffee"
                 ]
@@ -43347,14 +43131,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "San joaquin county california",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "35.38000000000000255795384873636066913604736328125",
                 "lng": "-120.4500000000000028421709430404007434844970703125",
                 "name": "San luis obispo county california",
@@ -43662,14 +43438,6 @@
                 "lat": "39.61999999999999744204615126363933086395263671875",
                 "lng": "-106.7000000000000028421709430404007434844970703125",
                 "name": "Eagle county colorado",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Elbert County Colorado",
                 "synonyms": [
                     "african"
                 ]
@@ -44323,14 +44091,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "27.699999999999999289457264239899814128875732421875, -80.5799999999999982946974341757595539093017578125",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "30.800000000000000710542735760100185871124267578125",
                 "lng": "-85.2099999999999937472239253111183643341064453125",
                 "name": "Jackson county florida",
@@ -44459,14 +44219,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Orange county florida",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "28.059999999999998721023075631819665431976318359375",
                 "lng": "-81.150000000000005684341886080801486968994140625",
                 "name": "Osceola county florida",
@@ -44534,14 +44286,6 @@
                 "lat": "30.699999999999999289457264239899814128875732421875",
                 "lng": "-87.0199999999999960209606797434389591217041015625",
                 "name": "Santa rosa county florida",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Sarasota county florida",
                 "synonyms": [
                     "african"
                 ]
@@ -46147,14 +45891,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Latah county idaho",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "44.96000000000000085265128291212022304534912109375",
                 "lng": "-113.9500000000000028421709430404007434844970703125",
                 "name": "Lemhi county idaho",
@@ -46534,14 +46270,6 @@
                 "lat": "40.39999999999999857891452847979962825775146484375",
                 "lng": "-91.1700000000000017053025658242404460906982421875",
                 "name": "Hancock county illinois",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Hardin County Illinois",
                 "synonyms": [
                     "african"
                 ]
@@ -50231,14 +49959,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Pulaski county kentucky",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "38.50999999999999801048033987171947956085205078125",
                 "lng": "-84.0499999999999971578290569595992565155029296875",
                 "name": "Robertson county kentucky",
@@ -50603,14 +50323,6 @@
                 "lat": "29.73333333000000067158907768316566944122314453125",
                 "lng": "-90.099999999999994315658113919198513031005859375",
                 "name": "Jefferson parish louisiana",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Jefferson davis parish louisiana",
                 "synonyms": [
                     "african"
                 ]
@@ -53384,14 +53096,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Boone county missouri",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "39.6700000000000017053025658242404460906982421875",
                 "lng": "-94.81000000000000227373675443232059478759765625",
                 "name": "Buchanan county missouri",
@@ -54040,25 +53744,9 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "St. Charles County Missouri",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "38.03999999999999914734871708787977695465087890625",
                 "lng": "-93.7699999999999960209606797434389591217041015625",
                 "name": "St. clair county missouri",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Ste. genevieve county missouri",
                 "synonyms": [
                     "african"
                 ]
@@ -57271,14 +56959,6 @@
                 "lat": "40.409999999999996589394868351519107818603515625",
                 "lng": "-77.9800000000000039790393202565610408782958984375",
                 "name": "Huntingdon county pennsylvania",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "40.64999999999999857891452847979962825775146484375, -79.090000000000003410605131648480892181396484375",
                 "synonyms": [
                     "african"
                 ]
@@ -60687,14 +60367,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Arlington county virginia",
-                "synonyms": [
-                    "african"
-                ]
-            },
-            {
                 "lat": "38.2000000000000028421709430404007434844970703125",
                 "lng": "-79.116666670000000749496393837034702301025390625",
                 "name": "Augusta county virginia",
@@ -63623,14 +63295,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Latah county idaho",
-                "synonyms": [
-                    "bush"
-                ]
-            },
-            {
                 "lat": "43.78999999999999914734871708787977695465087890625",
                 "lng": "-111.659999999999996589394868351519107818603515625",
                 "name": "Madison county idaho",
@@ -64394,14 +64058,6 @@
                 "lat": "36.659999999999996589394868351519107818603515625",
                 "lng": "-90.8700000000000045474735088646411895751953125",
                 "name": "Ripley county missouri",
-                "synonyms": [
-                    "bush"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Ste. genevieve county missouri",
                 "synonyms": [
                     "bush"
                 ]
@@ -66305,14 +65961,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "27.699999999999999289457264239899814128875732421875, -80.5799999999999982946974341757595539093017578125",
-                "synonyms": [
-                    "orange"
-                ]
-            },
-            {
                 "lat": "28.769999999999999573674358543939888477325439453125",
                 "lng": "-81.719999999999998863131622783839702606201171875",
                 "name": "Lake county florida",
@@ -66348,14 +65996,6 @@
                 "lat": "30.6099999999999994315658113919198513031005859375",
                 "lng": "-81.7699999999999960209606797434389591217041015625",
                 "name": "Nassau county florida",
-                "synonyms": [
-                    "orange"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Orange county florida",
                 "synonyms": [
                     "orange"
                 ]
@@ -66820,14 +66460,6 @@
                 "lat": "38.030000000000001136868377216160297393798828125",
                 "lng": "-78.56000000000000227373675443232059478759765625",
                 "name": "Albemarle county virginia",
-                "synonyms": [
-                    "orange"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Arlington county virginia",
                 "synonyms": [
                     "orange"
                 ]
@@ -67853,14 +67485,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Latah county idaho",
-                "synonyms": [
-                    "tree"
-                ]
-            },
-            {
                 "lat": "39.6400000000000005684341886080801486968994140625",
                 "lng": "-88.6200000000000045474735088646411895751953125",
                 "name": "Moultrie county illinois",
@@ -68208,14 +67832,6 @@
                 "lat": "39.9200000000000017053025658242404460906982421875",
                 "lng": "-75.400000000000005684341886080801486968994140625",
                 "name": "Delaware county pennsylvania",
-                "synonyms": [
-                    "tree"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "40.64999999999999857891452847979962825775146484375, -79.090000000000003410605131648480892181396484375",
                 "synonyms": [
                     "tree"
                 ]
@@ -69299,8 +68915,8 @@
                 "lng": "-87.72027778000000353131326846778392791748046875",
                 "name": "Baldwin county alabama",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -69413,8 +69029,8 @@
                 "lng": "-88.2138888900000068815643317066133022308349609375",
                 "name": "Mobile county alabama",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -69462,8 +69078,8 @@
                 "lng": "-149.900000000000005684341886080801486968994140625",
                 "name": "Anchorage alaska",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -69496,8 +69112,8 @@
                 "lng": "-135.338641669999987016126397065818309783935546875",
                 "name": "Sitka alaska",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -69505,8 +69121,8 @@
                 "lng": "-135.31388888999998698636773042380809783935546875",
                 "name": "Skagway alaska",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -69522,9 +69138,9 @@
                 "lng": "-132.086388889999994944446370936930179595947265625",
                 "name": "Wrangell alaska",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "sand",
-                    "july"
+                    "sand"
                 ]
             },
             {
@@ -69532,8 +69148,8 @@
                 "lng": "-139.72722221999998737373971380293369293212890625",
                 "name": "Yakutat alaska",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -69597,8 +69213,8 @@
                 "lng": "-91.3838888899999943760121823288500308990478515625",
                 "name": "Arkansas county arkansas",
                 "synonyms": [
-                    "coon",
                     "july",
+                    "coon",
                     "rock"
                 ]
             },
@@ -69698,8 +69314,8 @@
                 "lng": "-91.9422222200000049951995606534183025360107421875",
                 "name": "Jefferson county arkansas",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -69732,8 +69348,8 @@
                 "lng": "-93.877222219999993058081599883735179901123046875",
                 "name": "Miller county arkansas",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -69849,8 +69465,8 @@
                 "lng": "-92.7000000000000028421709430404007434844970703125",
                 "name": "Searcy county arkansas",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -69918,8 +69534,8 @@
                 "lng": "-121.9500000000000028421709430404007434844970703125",
                 "name": "Contra costa county california",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -69944,8 +69560,8 @@
                 "lng": "-119.650000000000005684341886080801486968994140625",
                 "name": "Fresno county california",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -69953,8 +69569,8 @@
                 "lng": "-123.7999999999999971578290569595992565155029296875",
                 "name": "Humboldt county california",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -69962,9 +69578,9 @@
                 "lng": "-115.349999999999994315658113919198513031005859375",
                 "name": "Imperial county california",
                 "synonyms": [
-                    "bush",
-                    "sand",
                     "july",
+                    "sand",
+                    "bush",
                     "rock"
                 ]
             },
@@ -69973,8 +69589,8 @@
                 "lng": "-117.4166666699999979073254507966339588165283203125",
                 "name": "Inyo county california",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -70024,9 +69640,9 @@
                 "lng": "-122.7399999999999948840923025272786617279052734375",
                 "name": "Marin county california",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -70066,9 +69682,9 @@
                 "lng": "-121.31000000000000227373675443232059478759765625",
                 "name": "Monterey county california",
                 "synonyms": [
-                    "bush",
                     "beach",
-                    "sand"
+                    "sand",
+                    "bush"
                 ]
             },
             {
@@ -70094,10 +69710,10 @@
                 "lng": "-117.780000000000001136868377216160297393798828125",
                 "name": "Orange county california",
                 "synonyms": [
+                    "sand",
                     "bush",
                     "beach",
                     "rock",
-                    "sand",
                     "july"
                 ]
             },
@@ -70106,8 +69722,8 @@
                 "lng": "-120.7300000000000039790393202565610408782958984375",
                 "name": "Placer county california",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -70149,8 +69765,8 @@
                 "lng": "-116.7699999999999960209606797434389591217041015625",
                 "name": "San diego county california",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70158,18 +69774,10 @@
                 "lng": "-122.4166666699999979073254507966339588165283203125",
                 "name": "San francisco",
                 "synonyms": [
+                    "july",
                     "beach",
                     "sand",
-                    "july",
                     "rock"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "San joaquin county california",
-                "synonyms": [
-                    "july"
                 ]
             },
             {
@@ -70220,8 +69828,8 @@
                 "lng": "-122.93000000000000682121026329696178436279296875",
                 "name": "Sonoma county california",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -70254,9 +69862,9 @@
                 "lng": "-119.150000000000005684341886080801486968994140625",
                 "name": "Ventura county california",
                 "synonyms": [
-                    "sugar",
-                    "beach",
                     "july",
+                    "beach",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -70273,8 +69881,8 @@
                 "lng": "-104.3299999999999982946974341757595539093017578125",
                 "name": "Arapahoe county colorado",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -70420,8 +70028,8 @@
                 "lng": "-104.400000000000005684341886080801486968994140625",
                 "name": "Weld county colorado",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -70429,8 +70037,8 @@
                 "lng": "-73.3700000000000045474735088646411895751953125",
                 "name": "Fairfield county connecticut",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70489,9 +70097,9 @@
                 "lng": "-85.6299999999999954525264911353588104248046875",
                 "name": "Bay county florida",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "sand",
-                    "july"
+                    "sand"
                 ]
             },
             {
@@ -70499,8 +70107,8 @@
                 "lng": "-80.7000000000000028421709430404007434844970703125",
                 "name": "Brevard county florida",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70549,8 +70157,8 @@
                 "lng": "-87.3299999999999982946974341757595539093017578125",
                 "name": "Escambia county florida",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70558,8 +70166,8 @@
                 "lng": "-81.2999999999999971578290569595992565155029296875",
                 "name": "Flagler county florida",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70592,15 +70200,7 @@
                 "lng": "-82.469999999999998863131622783839702606201171875",
                 "name": "Hernando county florida",
                 "synonyms": [
-                    "beach",
-                    "july"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "27.699999999999999289457264239899814128875732421875, -80.5799999999999982946974341757595539093017578125",
-                "synonyms": [
+                    "july",
                     "beach"
                 ]
             },
@@ -70609,8 +70209,8 @@
                 "lng": "-81.9200000000000017053025658242404460906982421875",
                 "name": "Lee county florida",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70636,8 +70236,8 @@
                 "lng": "-82.3599999999999994315658113919198513031005859375",
                 "name": "Manatee county florida",
                 "synonyms": [
-                    "beach",
-                    "sugar"
+                    "sugar",
+                    "beach"
                 ]
             },
             {
@@ -70671,9 +70271,9 @@
                 "lng": "-81.150000000000005684341886080801486968994140625",
                 "name": "Monroe county florida",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -70689,20 +70289,11 @@
                 "lng": "-86.590000000000003410605131648480892181396484375",
                 "name": "Okaloosa county florida",
                 "synonyms": [
+                    "sand",
                     "bush",
                     "beach",
-                    "sand",
                     "sugar",
                     "july"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Orange county florida",
-                "synonyms": [
-                    "july",
-                    "rock"
                 ]
             },
             {
@@ -70718,10 +70309,10 @@
                 "lng": "-80.0499999999999971578290569595992565155029296875",
                 "name": "Palm beach county florida",
                 "synonyms": [
-                    "sugar",
+                    "july",
                     "beach",
-                    "bush",
-                    "july"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -70737,9 +70328,9 @@
                 "lng": "-82.7399999999999948840923025272786617279052734375",
                 "name": "Pinellas county florida",
                 "synonyms": [
-                    "bush",
                     "beach",
-                    "sand"
+                    "sand",
+                    "bush"
                 ]
             },
             {
@@ -70747,8 +70338,8 @@
                 "lng": "-81.7000000000000028421709430404007434844970703125",
                 "name": "Polk county florida",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70764,8 +70355,8 @@
                 "lng": "-81.409999999999996589394868351519107818603515625",
                 "name": "St. johns county florida",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70782,15 +70373,6 @@
                 "name": "Santa rosa county florida",
                 "synonyms": [
                     "beach"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Sarasota county florida",
-                "synonyms": [
-                    "beach",
-                    "sugar"
                 ]
             },
             {
@@ -70814,8 +70396,8 @@
                 "lng": "-81.150000000000005684341886080801486968994140625",
                 "name": "Volusia county florida",
                 "synonyms": [
-                    "beach",
-                    "sugar"
+                    "sugar",
+                    "beach"
                 ]
             },
             {
@@ -70855,8 +70437,8 @@
                 "lng": "-83.7000000000000028421709430404007434844970703125",
                 "name": "Bibb county georgia",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70880,8 +70462,8 @@
                 "lng": "-81.6400000000000005684341886080801486968994140625",
                 "name": "Camden county georgia",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -70889,8 +70471,8 @@
                 "lng": "-84.5799999999999982946974341757595539093017578125",
                 "name": "Cobb county georgia",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -70906,8 +70488,8 @@
                 "lng": "-82.2600000000000051159076974727213382720947265625",
                 "name": "Columbia county georgia",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -70948,8 +70530,8 @@
                 "lng": "-84.7699999999999960209606797434389591217041015625",
                 "name": "Douglas county georgia",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -70973,8 +70555,8 @@
                 "lng": "-81.8900000000000005684341886080801486968994140625",
                 "name": "Evans county georgia",
                 "synonyms": [
-                    "sand",
                     "july",
+                    "sand",
                     "rock"
                 ]
             },
@@ -71185,8 +70767,8 @@
                 "lng": "144.80000000000001136868377216160297393798828125",
                 "name": "Guam",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -71194,9 +70776,9 @@
                 "lng": "-157.96666666999999506515450775623321533203125",
                 "name": "Honolulu county hawaii",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "sand",
-                    "july"
+                    "sand"
                 ]
             },
             {
@@ -71237,8 +70819,8 @@
                 "lng": "-112.31000000000000227373675443232059478759765625",
                 "name": "Jefferson county idaho",
                 "synonyms": [
-                    "sand",
                     "july",
+                    "sand",
                     "rock"
                 ]
             },
@@ -71248,14 +70830,6 @@
                 "name": "Kootenai county idaho",
                 "synonyms": [
                     "july"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Latah county idaho",
-                "synonyms": [
-                    "bush"
                 ]
             },
             {
@@ -71271,8 +70845,8 @@
                 "lng": "-111.659999999999996589394868351519107818603515625",
                 "name": "Madison county idaho",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -71337,8 +70911,8 @@
                 "lng": "-88.81000000000000227373675443232059478759765625",
                 "name": "Boone county illinois",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -71363,8 +70937,8 @@
                 "lng": "-90.6700000000000017053025658242404460906982421875",
                 "name": "Calhoun county illinois",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -71372,8 +70946,8 @@
                 "lng": "-89.9200000000000017053025658242404460906982421875",
                 "name": "Carroll county illinois",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -71390,8 +70964,8 @@
                 "lng": "-88.2000000000000028421709430404007434844970703125",
                 "name": "Champaign county illinois",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -71488,8 +71062,8 @@
                 "lng": "-88.0833333300000020926745492033660411834716796875",
                 "name": "Dupage County Illinois",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -71591,15 +71165,6 @@
                 ]
             },
             {
-                "lat": "None",
-                "lng": "None",
-                "name": "Hardin county illinois",
-                "synonyms": [
-                    "july",
-                    "rock"
-                ]
-            },
-            {
                 "lat": "40.81000000000000227373675443232059478759765625",
                 "lng": "-90.93000000000000682121026329696178436279296875",
                 "name": "Henderson county illinois",
@@ -71612,8 +71177,8 @@
                 "lng": "-90.1313888899999966497489367611706256866455078125",
                 "name": "Henry county illinois",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -71622,8 +71187,8 @@
                 "lng": "-87.81999999999999317878973670303821563720703125",
                 "name": "Iroquois county illinois",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -71672,8 +71237,8 @@
                 "lng": "-88.8700000000000045474735088646411895751953125",
                 "name": "Johnson county illinois",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -71689,8 +71254,8 @@
                 "lng": "-87.8599999999999994315658113919198513031005859375",
                 "name": "Kankakee county illinois",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -71698,8 +71263,8 @@
                 "lng": "-88.43000000000000682121026329696178436279296875",
                 "name": "Kendall county illinois",
                 "synonyms": [
-                    "sugar",
                     "july",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -71716,9 +71281,9 @@
                 "lng": "-87.780000000000001136868377216160297393798828125",
                 "name": "Lake county illinois",
                 "synonyms": [
+                    "july",
                     "beach",
                     "bush",
-                    "july",
                     "rock"
                 ]
             },
@@ -71727,8 +71292,8 @@
                 "lng": "-88.883333329999999250503606162965297698974609375",
                 "name": "Lasalle county illinois",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -71777,8 +71342,8 @@
                 "lng": "-88.4500000000000028421709430404007434844970703125",
                 "name": "Mchenry county illinois",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -71835,8 +71400,8 @@
                 "lng": "-89.909999999999996589394868351519107818603515625",
                 "name": "Mason county illinois",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -71852,8 +71417,8 @@
                 "lng": "-89.7999999999999971578290569595992565155029296875",
                 "name": "Menard county illinois",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -71902,8 +71467,8 @@
                 "lng": "-89.31999999999999317878973670303821563720703125",
                 "name": "Ogle county illinois",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -71911,8 +71476,8 @@
                 "lng": "-89.7600000000000051159076974727213382720947265625",
                 "name": "Peoria county illinois",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -72123,8 +71688,8 @@
                 "lng": "-89.909999999999996589394868351519107818603515625",
                 "name": "Whiteside county illinois",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -72159,8 +71724,8 @@
                 "lng": "-89.2099999999999937472239253111183643341064453125",
                 "name": "Woodford county illinois",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -72338,8 +71903,8 @@
                 "lng": "-85.900000000000005684341886080801486968994140625",
                 "name": "Floyd county indiana",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -72404,8 +71969,8 @@
                 "lng": "-85.7699999999999960209606797434389591217041015625",
                 "name": "Hancock county indiana",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -72527,8 +72092,8 @@
                 "lng": "-87.366666670000000749496393837034702301025390625",
                 "name": "Lake county indiana",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -72600,8 +72165,8 @@
                 "lng": "-86.8900000000000005684341886080801486968994140625",
                 "name": "Montgomery county indiana",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -72625,8 +72190,8 @@
                 "lng": "-85.4200000000000017053025658242404460906982421875",
                 "name": "Noble county indiana",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -72844,8 +72409,8 @@
                 "lng": "-87.3900000000000005684341886080801486968994140625",
                 "name": "Vigo county indiana",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -72861,8 +72426,8 @@
                 "lng": "-87.3599999999999994315658113919198513031005859375",
                 "name": "Warren county indiana",
                 "synonyms": [
-                    "sand",
                     "july",
+                    "sand",
                     "rock"
                 ]
             },
@@ -73218,8 +72783,8 @@
                 "lng": "-99.883333329999999250503606162965297698974609375",
                 "name": "Graham county kansas",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -73449,8 +73014,8 @@
                 "lng": "-88.090000000000003410605131648480892181396484375",
                 "name": "Crittenden county kentucky",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -73532,8 +73097,8 @@
                 "lng": "-84.0100000000000051159076974727213382720947265625",
                 "name": "Jackson county kentucky",
                 "synonyms": [
-                    "bush",
-                    "sand"
+                    "sand",
+                    "bush"
                 ]
             },
             {
@@ -73622,8 +73187,8 @@
                 "lng": "-85.719999999999998863131622783839702606201171875",
                 "name": "Monroe county kentucky",
                 "synonyms": [
-                    "sugar",
                     "july",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -73640,8 +73205,8 @@
                 "lng": "-83.68999999999999772626324556767940521240234375",
                 "name": "Owsley county kentucky",
                 "synonyms": [
-                    "sugar",
                     "july",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -73657,14 +73222,6 @@
                 "lat": "37.8299999999999982946974341757595539093017578125",
                 "lng": "-83.8299999999999982946974341757595539093017578125",
                 "name": "Powell county kentucky",
-                "synonyms": [
-                    "rock"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Pulaski county kentucky",
                 "synonyms": [
                     "rock"
                 ]
@@ -73698,8 +73255,8 @@
                 "lng": "-92.8299999999999982946974341757595539093017578125",
                 "name": "Allen parish louisiana",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -73747,8 +73304,8 @@
                 "lng": "-93.8799999999999954525264911353588104248046875",
                 "name": "Caddo parish louisiana",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -73780,8 +73337,8 @@
                 "lng": "-91.6400000000000005684341886080801486968994140625",
                 "name": "Concordia parish louisiana",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -73813,8 +73370,8 @@
                 "lng": "-92.56000000000000227373675443232059478759765625",
                 "name": "Grant parish louisiana",
                 "synonyms": [
-                    "bush",
                     "sugar",
+                    "bush",
                     "rock"
                 ]
             },
@@ -73871,8 +73428,8 @@
                 "lng": "-91.2399999999999948840923025272786617279052734375",
                 "name": "Madison parish louisiana",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -73888,9 +73445,9 @@
                 "lng": "-90.0799999999999982946974341757595539093017578125",
                 "name": "New orleans",
                 "synonyms": [
-                    "sugar",
-                    "sand",
                     "july",
+                    "sand",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -73907,8 +73464,8 @@
                 "lng": "-92.5400000000000062527760746888816356658935546875",
                 "name": "Rapides parish louisiana",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -73924,8 +73481,8 @@
                 "lng": "-89.349999999999994315658113919198513031005859375",
                 "name": "St. bernard parish louisiana",
                 "synonyms": [
-                    "beach",
-                    "sugar"
+                    "sugar",
+                    "beach"
                 ]
             },
             {
@@ -73933,8 +73490,8 @@
                 "lng": "-90.5",
                 "name": "St. john the baptist parish louisiana",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -73975,8 +73532,8 @@
                 "lng": "-91.3299999999999982946974341757595539093017578125",
                 "name": "Tensas parish louisiana",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -74008,8 +73565,8 @@
                 "lng": "-91.31000000000000227373675443232059478759765625",
                 "name": "West baton rouge parish louisiana",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -74101,8 +73658,8 @@
                 "lng": "-76.599999999999994315658113919198513031005859375",
                 "name": "Baltimore county maryland",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -74187,8 +73744,8 @@
                 "lng": "-77.2000000000000028421709430404007434844970703125",
                 "name": "Montgomery county maryland",
                 "synonyms": [
-                    "sugar",
                     "july",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -74231,9 +73788,9 @@
                 "lng": "-76.616666670000000749496393837034702301025390625",
                 "name": "Baltimore",
                 "synonyms": [
+                    "july",
                     "sugar",
                     "bush",
-                    "july",
                     "rock"
                 ]
             },
@@ -74242,8 +73799,8 @@
                 "lng": "-73.2099999999999937472239253111183643341064453125",
                 "name": "Berkshire county massachusetts",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -74267,8 +73824,8 @@
                 "lng": "-70.0994444399999991901495377533137798309326171875",
                 "name": "Nantucket massachusetts",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -74356,8 +73913,8 @@
                 "lng": "-84.849999999999994315658113919198513031005859375",
                 "name": "Eaton county michigan",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -74365,8 +73922,8 @@
                 "lng": "-83.7099999999999937472239253111183643341064453125",
                 "name": "Genesee county michigan",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -74374,8 +73931,8 @@
                 "lng": "-85.5499999999999971578290569595992565155029296875",
                 "name": "Grand traverse county michigan",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -74417,8 +73974,8 @@
                 "lng": "-84.4200000000000017053025658242404460906982421875",
                 "name": "Jackson county michigan",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -74434,9 +73991,9 @@
                 "lng": "-85.5499999999999971578290569595992565155029296875",
                 "name": "Kent county michigan",
                 "synonyms": [
-                    "bush",
+                    "july",
                     "sand",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -74452,8 +74009,8 @@
                 "lng": "-84.06999999999999317878973670303821563720703125",
                 "name": "Lenawee county michigan",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -74461,8 +74018,8 @@
                 "lng": "-83.909999999999996589394868351519107818603515625",
                 "name": "Livingston county michigan",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -74495,8 +74052,8 @@
                 "lng": "-85.31999999999999317878973670303821563720703125",
                 "name": "Mecosta county michigan",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -74512,8 +74069,8 @@
                 "lng": "-83.5",
                 "name": "Monroe county michigan",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -74610,8 +74167,8 @@
                 "lng": "-93.2399999999999948840923025272786617279052734375",
                 "name": "Anoka county minnesota",
                 "synonyms": [
-                    "coon",
-                    "july"
+                    "july",
+                    "coon"
                 ]
             },
             {
@@ -74645,8 +74202,8 @@
                 "lng": "-96.409999999999996589394868351519107818603515625",
                 "name": "Big stone county minnesota",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -74654,8 +74211,8 @@
                 "lng": "-94.06000000000000227373675443232059478759765625",
                 "name": "Blue earth county minnesota",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -74972,8 +74529,8 @@
                 "lng": "-89.1700000000000017053025658242404460906982421875",
                 "name": "Jones county mississippi",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -75096,14 +74653,6 @@
                 "name": "Bollinger county missouri",
                 "synonyms": [
                     "july"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Boone county missouri",
-                "synonyms": [
-                    "rock"
                 ]
             },
             {
@@ -75291,8 +74840,8 @@
                 "lng": "-89.2900000000000062527760746888816356658935546875",
                 "name": "Mississippi county missouri",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -75349,9 +74898,9 @@
                 "lng": "-91.7900000000000062527760746888816356658935546875",
                 "name": "Phelps county missouri",
                 "synonyms": [
+                    "july",
                     "sugar",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -75366,14 +74915,6 @@
                 "lat": "36.659999999999996589394868351519107818603515625",
                 "lng": "-90.8700000000000045474735088646411895751953125",
                 "name": "Ripley county missouri",
-                "synonyms": [
-                    "bush"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Ste. genevieve county missouri",
                 "synonyms": [
                     "bush"
                 ]
@@ -75410,8 +74951,8 @@
                 "lng": "-92.150000000000005684341886080801486968994140625",
                 "name": "Scotland county missouri",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -75460,9 +75001,9 @@
                 "lng": "-93.0400000000000062527760746888816356658935546875",
                 "name": "Taney county missouri",
                 "synonyms": [
+                    "july",
                     "beach",
                     "bush",
-                    "july",
                     "rock"
                 ]
             },
@@ -75496,9 +75037,9 @@
                 "lng": "-92.8700000000000045474735088646411895751953125",
                 "name": "Webster county missouri",
                 "synonyms": [
-                    "bush",
+                    "july",
                     "sand",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -75539,8 +75080,8 @@
                 "lng": "-108.9599999999999937472239253111183643341064453125",
                 "name": "Blaine county montana",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -75644,8 +75185,8 @@
                 "lng": "-101.68999999999999772626324556767940521240234375",
                 "name": "Chase county nebraska",
                 "synonyms": [
-                    "sand",
-                    "sugar"
+                    "sugar",
+                    "sand"
                 ]
             },
             {
@@ -75701,8 +75242,8 @@
                 "lng": "-115.0199999999999960209606797434389591217041015625",
                 "name": "Clark county nevada",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -75779,8 +75320,8 @@
                 "lng": "-74.68999999999999772626324556767940521240234375",
                 "name": "Sussex county new jersey",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -75789,9 +75330,9 @@
                 "lng": "-73.9902777799999995522739482112228870391845703125",
                 "name": "Brooklyn",
                 "synonyms": [
+                    "july",
                     "beach",
                     "bush",
-                    "july",
                     "rock"
                 ]
             },
@@ -75800,18 +75341,10 @@
                 "lng": "-73.866666670000000749496393837034702301025390625",
                 "name": "Queens",
                 "synonyms": [
+                    "july",
                     "beach",
                     "bush",
-                    "july",
                     "rock"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Rota (island)",
-                "synonyms": [
-                    "sugar"
                 ]
             },
             {
@@ -75819,10 +75352,10 @@
                 "lng": "145.75",
                 "name": "Saipan",
                 "synonyms": [
-                    "sugar",
+                    "july",
                     "beach",
-                    "bush",
-                    "july"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -75830,9 +75363,9 @@
                 "lng": "145.633333329999999250503606162965297698974609375",
                 "name": "Tinian",
                 "synonyms": [
-                    "sugar",
+                    "july",
                     "beach",
-                    "july"
+                    "sugar"
                 ]
             },
             {
@@ -75864,8 +75397,8 @@
                 "lng": "-84.219999999999998863131622783839702606201171875",
                 "name": "Auglaize county ohio",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -75906,8 +75439,8 @@
                 "lng": "-82.6099999999999994315658113919198513031005859375",
                 "name": "Erie county ohio",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -75916,8 +75449,8 @@
                 "lng": "-82.6299999999999954525264911353588104248046875",
                 "name": "Fairfield county ohio",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -75998,8 +75531,8 @@
                 "lng": "-81.2000000000000028421709430404007434844970703125",
                 "name": "Portage county ohio",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -76203,8 +75736,8 @@
                 "lng": "-95.3799999999999954525264911353588104248046875",
                 "name": "Muskogee county oklahoma",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -76253,8 +75786,8 @@
                 "lng": "-95.93999999999999772626324556767940521240234375",
                 "name": "Tulsa county oklahoma",
                 "synonyms": [
-                    "bush",
-                    "sand"
+                    "sand",
+                    "bush"
                 ]
             },
             {
@@ -76294,8 +75827,8 @@
                 "lng": "-122.2099999999999937472239253111183643341064453125",
                 "name": "Clackamas county oregon",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -76345,8 +75878,8 @@
                 "lng": "-118.89172999999999547071638517081737518310546875",
                 "name": "Grant county oregon",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -76371,8 +75904,8 @@
                 "lng": "-121.1700000000000017053025658242404460906982421875",
                 "name": "Jefferson county oregon",
                 "synonyms": [
-                    "bush",
                     "sugar",
+                    "bush",
                     "rock"
                 ]
             },
@@ -76381,8 +75914,8 @@
                 "lng": "-120.3900000000000005684341886080801486968994140625",
                 "name": "Lake county oregon",
                 "synonyms": [
-                    "bush",
                     "sand",
+                    "bush",
                     "rock"
                 ]
             },
@@ -76439,8 +75972,8 @@
                 "lng": "-123.7000000000000028421709430404007434844970703125",
                 "name": "Tillamook county oregon",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -76465,8 +75998,8 @@
                 "lng": "-123.090000000000003410605131648480892181396484375",
                 "name": "Washington county oregon",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -76530,8 +76063,8 @@
                 "lng": "-79.909999999999996589394868351519107818603515625",
                 "name": "Butler county pennsylvania",
                 "synonyms": [
-                    "bush",
                     "sand",
+                    "bush",
                     "rock"
                 ]
             },
@@ -76540,8 +76073,8 @@
                 "lng": "-78.719999999999998863131622783839702606201171875",
                 "name": "Cambria county pennsylvania",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -76697,10 +76230,10 @@
                 "lng": "-75.590000000000003410605131648480892181396484375",
                 "name": "Lehigh county pennsylvania",
                 "synonyms": [
+                    "sand",
                     "bush",
                     "beach",
                     "rock",
-                    "sand",
                     "july"
                 ]
             },
@@ -76709,8 +76242,8 @@
                 "lng": "-75.9899999999999948840923025272786617279052734375",
                 "name": "Luzerne county pennsylvania",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -76735,8 +76268,8 @@
                 "lng": "-75.340000000000003410605131648480892181396484375",
                 "name": "Monroe county pennsylvania",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -76769,8 +76302,8 @@
                 "lng": "-75.1299999999999954525264911353588104248046875",
                 "name": "Philadelphia county pennsylvania",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -76892,9 +76425,9 @@
                 "lng": "-66.0638888900000011972224456258118152618408203125",
                 "name": "San juan puerto rico",
                 "synonyms": [
-                    "sugar",
+                    "july",
                     "beach",
-                    "july"
+                    "sugar"
                 ]
             },
             {
@@ -76902,8 +76435,8 @@
                 "lng": "-83.93000000000000682121026329696178436279296875",
                 "name": "Blount county tennessee",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -76912,8 +76445,8 @@
                 "lng": "-86.06000000000000227373675443232059478759765625",
                 "name": "Cannon county tennessee",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -76961,8 +76494,8 @@
                 "lng": "-85.1700000000000017053025658242404460906982421875",
                 "name": "Hamilton county tennessee",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -77163,8 +76696,8 @@
                 "lng": "-95.43999999999999772626324556767940521240234375",
                 "name": "Brazoria county texas",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -77205,9 +76738,9 @@
                 "lng": "-94.68000000000000682121026329696178436279296875",
                 "name": "Chambers county texas",
                 "synonyms": [
+                    "sugar",
                     "beach",
-                    "bush",
-                    "sugar"
+                    "bush"
                 ]
             },
             {
@@ -77255,8 +76788,8 @@
                 "lng": "-104.5199999999999960209606797434389591217041015625",
                 "name": "Culberson county texas",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -77273,8 +76806,8 @@
                 "lng": "-96.780000000000001136868377216160297393798828125",
                 "name": "Dallas county texas",
                 "synonyms": [
-                    "bush",
-                    "sand"
+                    "sand",
+                    "bush"
                 ]
             },
             {
@@ -77323,8 +76856,8 @@
                 "lng": "-95.7699999999999960209606797434389591217041015625",
                 "name": "Fort bend county texas",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -77332,8 +76865,8 @@
                 "lng": "-94.8599999999999994315658113919198513031005859375",
                 "name": "Galveston county texas",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -77341,8 +76874,8 @@
                 "lng": "-98.9500000000000028421709430404007434844970703125",
                 "name": "Gillespie county texas",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -77375,9 +76908,9 @@
                 "lng": "-95.3900000000000005684341886080801486968994140625",
                 "name": "Harris county texas",
                 "synonyms": [
+                    "july",
                     "sugar",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -77401,8 +76934,8 @@
                 "lng": "-98.18000000000000682121026329696178436279296875",
                 "name": "Hidalgo county texas",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -77491,9 +77024,9 @@
                 "lng": "-94.81000000000000227373675443232059478759765625",
                 "name": "Liberty county texas",
                 "synonyms": [
+                    "july",
                     "sugar",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -77527,8 +77060,8 @@
                 "lng": "-100.31999999999999317878973670303821563720703125",
                 "name": "Maverick county texas",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -77553,8 +77086,8 @@
                 "lng": "-95.5",
                 "name": "Montgomery county texas",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -77602,8 +77135,8 @@
                 "lng": "-101.8900000000000005684341886080801486968994140625",
                 "name": "Potter county texas",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -77611,8 +77144,8 @@
                 "lng": "-104.2300000000000039790393202565610408782958984375",
                 "name": "Presidio county texas",
                 "synonyms": [
-                    "sand",
                     "july",
+                    "sand",
                     "rock"
                 ]
             },
@@ -77653,8 +77186,8 @@
                 "lng": "-95.2699999999999960209606797434389591217041015625",
                 "name": "Smith county texas",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -77703,8 +77236,8 @@
                 "lng": "-97.780000000000001136868377216160297393798828125",
                 "name": "Travis county texas",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -77721,8 +77254,8 @@
                 "lng": "-95.9800000000000039790393202565610408782958984375",
                 "name": "Waller county texas",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -77738,8 +77271,8 @@
                 "lng": "-99.3299999999999982946974341757595539093017578125",
                 "name": "Webb county texas",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -77790,8 +77323,8 @@
                 "lng": "-176.47944444000000885353074409067630767822265625",
                 "name": "Baker island",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -77799,10 +77332,10 @@
                 "lng": "-176.616522220000007337148417718708515167236328125",
                 "name": "Howland island",
                 "synonyms": [
-                    "bush",
+                    "july",
                     "beach",
                     "sand",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -77810,9 +77343,9 @@
                 "lng": "-160.01666667000000643383827991783618927001953125",
                 "name": "Jarvis island",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -77820,10 +77353,10 @@
                 "lng": "-169.523888889999994944446370936930179595947265625",
                 "name": "Johnston atoll",
                 "synonyms": [
-                    "bush",
+                    "july",
                     "beach",
                     "sand",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -77831,8 +77364,8 @@
                 "lng": "-162.416666670000012118180165998637676239013671875",
                 "name": "Kingman reef",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -77840,9 +77373,9 @@
                 "lng": "-177.349999999999994315658113919198513031005859375",
                 "name": "Midway atoll",
                 "synonyms": [
-                    "bush",
+                    "july",
                     "sand",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -77859,9 +77392,9 @@
                 "lng": "-162.078333329999992429293342866003513336181640625",
                 "name": "Palmyra atoll",
                 "synonyms": [
-                    "bush",
-                    "sand",
                     "july",
+                    "sand",
+                    "bush",
                     "rock"
                 ]
             },
@@ -77870,10 +77403,10 @@
                 "lng": "166.6311111100000061924220062792301177978515625",
                 "name": "Wake island",
                 "synonyms": [
+                    "sand",
                     "bush",
                     "beach",
                     "rock",
-                    "sand",
                     "july"
                 ]
             },
@@ -77906,8 +77439,8 @@
                 "lng": "-109.56000000000000227373675443232059478759765625",
                 "name": "Grand county utah",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -77948,8 +77481,8 @@
                 "lng": "-111.93000000000000682121026329696178436279296875",
                 "name": "Salt lake county utah",
                 "synonyms": [
-                    "bush",
-                    "sugar"
+                    "sugar",
+                    "bush"
                 ]
             },
             {
@@ -77998,9 +77531,9 @@
                 "lng": "-72.099999999999994315658113919198513031005859375",
                 "name": "Caledonia county vermont",
                 "synonyms": [
-                    "bush",
+                    "july",
                     "sand",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -78024,8 +77557,8 @@
                 "lng": "-73.2900000000000062527760746888816356658935546875",
                 "name": "Grand isle county vermont",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -78067,8 +77600,8 @@
                 "lng": "-72.6200000000000045474735088646411895751953125",
                 "name": "Washington county vermont",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -78076,8 +77609,8 @@
                 "lng": "-72.719999999999998863131622783839702606201171875",
                 "name": "Windham county vermont",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -78093,17 +77626,8 @@
                 "lng": "-64.73888888999999835505150258541107177734375",
                 "name": "Saint croix",
                 "synonyms": [
-                    "beach",
-                    "sugar"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "Arlington county virginia",
-                "synonyms": [
-                    "sand",
-                    "july"
+                    "sugar",
+                    "beach"
                 ]
             },
             {
@@ -78151,8 +77675,8 @@
                 "lng": "-77.590000000000003410605131648480892181396484375",
                 "name": "Chesterfield county virginia",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -78202,8 +77726,8 @@
                 "lng": "-79.56000000000000227373675443232059478759765625",
                 "name": "Highland county virginia",
                 "synonyms": [
-                    "sugar",
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -78260,8 +77784,8 @@
                 "lng": "-76.280000000000001136868377216160297393798828125",
                 "name": "Mathews county virginia",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -78310,8 +77834,8 @@
                 "lng": "-80.2900000000000062527760746888816356658935546875",
                 "name": "Patrick county virginia",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -78328,9 +77852,9 @@
                 "lng": "-77.4800000000000039790393202565610408782958984375",
                 "name": "Prince william county virginia",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -78386,8 +77910,8 @@
                 "lng": "-77.0472222199999947633841657079756259918212890625",
                 "name": "Alexandria virginia",
                 "synonyms": [
-                    "sugar",
                     "july",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -78478,8 +78002,8 @@
                 "lng": "-76.3601259999999939509507385082542896270751953125",
                 "name": "Hampton virginia",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -78488,8 +78012,8 @@
                 "lng": "-78.8688888899999938075779937207698822021484375",
                 "name": "Harrisonburg virginia",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -78523,8 +78047,8 @@
                 "lng": "-77.4763888899999955128805595450103282928466796875",
                 "name": "Manassas virginia",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -78540,8 +78064,8 @@
                 "lng": "-76.48444444000000430605723522603511810302734375",
                 "name": "Newport news virginia",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -78549,8 +78073,8 @@
                 "lng": "-76.2000000000000028421709430404007434844970703125",
                 "name": "Norfolk virginia",
                 "synonyms": [
-                    "beach",
-                    "july"
+                    "july",
+                    "beach"
                 ]
             },
             {
@@ -78558,8 +78082,8 @@
                 "lng": "-77.40041700000000446379999630153179168701171875",
                 "name": "Petersburg virginia",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -78609,8 +78133,8 @@
                 "lng": "-76.6097222199999947633841657079756259918212890625",
                 "name": "Suffolk virginia",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -78619,9 +78143,9 @@
                 "lng": "-75.9777777799999967101030051708221435546875",
                 "name": "Virginia beach virginia",
                 "synonyms": [
+                    "july",
                     "beach",
                     "sand",
-                    "july",
                     "rock"
                 ]
             },
@@ -78630,9 +78154,9 @@
                 "lng": "-76.706944440000000895452103577554225921630859375",
                 "name": "Williamsburg virginia",
                 "synonyms": [
+                    "july",
                     "beach",
-                    "bush",
-                    "july"
+                    "bush"
                 ]
             },
             {
@@ -78673,8 +78197,8 @@
                 "lng": "-122.4800000000000039790393202565610408782958984375",
                 "name": "Clark county washington",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -78724,8 +78248,8 @@
                 "lng": "-122.650000000000005684341886080801486968994140625",
                 "name": "Kitsap county washington",
                 "synonyms": [
-                    "bush",
                     "july",
+                    "bush",
                     "rock"
                 ]
             },
@@ -78913,8 +78437,8 @@
                 "lng": "-88.7000000000000028421709430404007434844970703125",
                 "name": "Menominee county wisconsin",
                 "synonyms": [
-                    "bush",
-                    "july"
+                    "july",
+                    "bush"
                 ]
             },
             {
@@ -79018,8 +78542,8 @@
                 "lng": "-90.0400000000000062527760746888816356658935546875",
                 "name": "Wood county wisconsin",
                 "synonyms": [
-                    "bush",
-                    "sand"
+                    "sand",
+                    "bush"
                 ]
             },
             {
@@ -79156,9 +78680,9 @@
                 "lng": "-2.583333329999999872228499953052960336208343505859375",
                 "name": "Bristol",
                 "synonyms": [
-                    "sugar",
-                    "beach",
                     "july",
+                    "beach",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -79183,9 +78707,9 @@
                 "lng": "-4.9000000000000003552713678800500929355621337890625",
                 "name": "Cornwall",
                 "synonyms": [
+                    "july",
                     "beach",
                     "sand",
-                    "july",
                     "rock"
                 ]
             },
@@ -79245,8 +78769,8 @@
                 "lng": "-2.316666670000000038953658076934516429901123046875",
                 "name": "Greater manchester",
                 "synonyms": [
-                    "sugar",
                     "july",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -79255,9 +78779,9 @@
                 "lng": "-1.308100000000000040500935938325710594654083251953125",
                 "name": "Hampshire",
                 "synonyms": [
-                    "sugar",
-                    "sand",
                     "july",
+                    "sand",
+                    "sugar",
                     "rock"
                 ]
             },
@@ -79299,8 +78823,8 @@
                 "lng": "-1.2666666699999999945447370919282548129558563232421875",
                 "name": "Isle of wight",
                 "synonyms": [
-                    "beach",
                     "july",
+                    "beach",
                     "rock"
                 ]
             },
@@ -79327,16 +78851,8 @@
                 "lng": "-0.1833333299999999888019175386943970806896686553955078125",
                 "name": "Lincolnshire",
                 "synonyms": [
-                    "sugar",
-                    "july"
-                ]
-            },
-            {
-                "lat": "None",
-                "lng": "None",
-                "name": "City of london",
-                "synonyms": [
-                    "july"
+                    "july",
+                    "sugar"
                 ]
             },
             {
@@ -79352,8 +78868,8 @@
                 "lng": "1",
                 "name": "Norfolk",
                 "synonyms": [
-                    "beach",
                     "sugar",
+                    "beach",
                     "rock"
                 ]
             },
@@ -79396,8 +78912,8 @@
                 "lng": "-0.63333333000000002765972340057487599551677703857421875",
                 "name": "Rutland",
                 "synonyms": [
-                    "sand",
                     "july",
+                    "sand",
                     "rock"
                 ]
             },
@@ -79406,8 +78922,8 @@
                 "lng": "-2.716666669999999950135816106921993196010589599609375",
                 "name": "Shropshire",
                 "synonyms": [
-                    "sand",
-                    "july"
+                    "july",
+                    "sand"
                 ]
             },
             {
@@ -79415,8 +78931,8 @@
                 "lng": "-2.899999999999999911182158029987476766109466552734375",
                 "name": "Somerset",
                 "synonyms": [
-                    "sand",
                     "july",
+                    "sand",
                     "rock"
                 ]
             },
@@ -79450,8 +78966,8 @@
                 "lng": "1",
                 "name": "Suffolk",
                 "synonyms": [
-                    "sand",
-                    "sugar"
+                    "sugar",
+                    "sand"
                 ]
             },
             {
@@ -79493,8 +79009,8 @@
                 "lng": "-0.5",
                 "name": "West sussex",
                 "synonyms": [
-                    "sand",
                     "july",
+                    "sand",
                     "rock"
                 ]
             },
@@ -79520,10 +79036,10 @@
                 "lng": "-2",
                 "name": "Yorkshire",
                 "synonyms": [
-                    "beach",
-                    "rock",
                     "sand",
+                    "beach",
                     "sugar",
+                    "rock",
                     "july"
                 ]
             }
@@ -79706,8 +79222,8 @@
                 "lng": "-79.366666670000000749496393837034702301025390625",
                 "name": "Garrett County Maryland",
                 "synonyms": [
-                    "ramps",
-                    "ramp"
+                    "ramp",
+                    "ramps"
                 ]
             },
             {
@@ -79715,8 +79231,8 @@
                 "lng": "-76.616666670000000749496393837034702301025390625",
                 "name": "Baltimore",
                 "synonyms": [
-                    "ramps",
-                    "ramp"
+                    "ramp",
+                    "ramps"
                 ]
             },
             {
@@ -79788,8 +79304,8 @@
                 "lng": "-76.48444444000000430605723522603511810302734375",
                 "name": "Newport News Virginia",
                 "synonyms": [
-                    "ramps",
-                    "ramp"
+                    "ramp",
+                    "ramps"
                 ]
             },
             {
@@ -79805,8 +79321,8 @@
                 "lng": "-75.9777777799999967101030051708221435546875",
                 "name": "Virginia Beach Virginia",
                 "synonyms": [
-                    "ramps",
-                    "ramp"
+                    "ramp",
+                    "ramps"
                 ]
             },
             {
@@ -80729,8 +80245,8 @@
                 "lng": "-7",
                 "name": "Provincia De Huelva",
                 "synonyms": [
-                    "cereal",
-                    "cereales"
+                    "cereales",
+                    "cereal"
                 ]
             },
             {
@@ -80738,8 +80254,8 @@
                 "lng": "-3.5",
                 "name": "Provincia De Jaén (españa)",
                 "synonyms": [
-                    "cereal",
-                    "cereales"
+                    "cereales",
+                    "cereal"
                 ]
             },
             {
@@ -80835,8 +80351,8 @@
                 "lng": "-97.888333329999994703030097298324108123779296875",
                 "name": "Puebla",
                 "synonyms": [
-                    "cereal",
-                    "cereales"
+                    "cereales",
+                    "cereal"
                 ]
             },
             {
@@ -82218,8 +81734,8 @@
                 "lng": "-102.7005555599999979676795192062854766845703125",
                 "name": "Zacatecas",
                 "synonyms": [
-                    "tuna",
-                    "nopal"
+                    "nopal",
+                    "tuna"
                 ]
             }
         ]
@@ -82511,8 +82027,8 @@
                 "lng": "-6",
                 "name": "Principado de asturias",
                 "synonyms": [
-                    "judía",
-                    "alubia"
+                    "alubia",
+                    "judía"
                 ]
             },
             {
@@ -83225,8 +82741,8 @@
                 "lng": "-4.9000000000000003552713678800500929355621337890625",
                 "name": "Cornwall",
                 "synonyms": [
-                    "rutabaga",
-                    "swede"
+                    "swede",
+                    "rutabaga"
                 ]
             }
         ]
@@ -83346,8 +82862,8 @@
                 "lng": "-118.866666670000000749496393837034702301025390625",
                 "name": "Mono County California",
                 "synonyms": [
-                    "staple",
-                    "food staple"
+                    "food staple",
+                    "staple"
                 ]
             },
             {

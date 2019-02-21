@@ -10,6 +10,7 @@ export default function FoodImage(props) {
         alt={props.alt}
         onClick={(e) => props.onClick(e)}
       />
+      <span>{props.alt}</span>
     </li>
   );
 }

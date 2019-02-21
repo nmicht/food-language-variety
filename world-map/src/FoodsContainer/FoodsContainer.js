@@ -23,7 +23,7 @@ class FoodsContainer extends Component {
 
     return (
       <React.Fragment>
-        <h2>Food names</h2>
+        <p><strong>Selected food:</strong> {this.props.selected}</p>
         <section className="FoodsContainer">
           <ul>
             {items}

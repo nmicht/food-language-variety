@@ -5,13 +5,13 @@ def build_distribution_dict(foods, places_objs):
     distribution = {k: {'key': k, 'image': img, 'places': []} for k,img in foods.items()}
 
     for place in places_objs:
+        if len(place.coords.split(', ')) < 2:
+            place.coords = 'None, None'
+            continue
         for key, synonyms in place.foods.items():
             synonyms = list(set(synonyms))
             key = key.lower()
             if key in distribution:
-                if len(place.coords.split(', ')) < 2:
-                    place.coords = 'None, None'
-                    continue
                 place.name = " ".join([w.capitalize() for w in place.name.split('_')])
                 distribution[key]['places'].append({'name': place.name, 'lat': place.coords.split(', ')[0],
                     'lng': place.coords.split(', ')[1], 'synonyms': synonyms})
@@ -20,7 +20,6 @@ def build_distribution_dict(foods, places_objs):
     filtered = [v for k, v in distribution.items() if len(distribution[k]['places']) > 0]
 
     return filtered
-
 
 def write_distribution_to_file(dist, savepath):
     with open(savepath, 'w') as f:
