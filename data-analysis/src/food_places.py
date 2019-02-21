@@ -36,17 +36,16 @@ def food_in_places(food_item_dict, places_list, savepath, lang='en'):
     found_words = [[], []]
 
     for place in places_list:
+        print('---------------' + place + '---------------------')
         coords = 'None'
         try:
-            wikipedia.set_lang('en')
+            wikipedia.set_lang(lang)
             article = wikipedia.page(place, auto_suggest=False)
-            print('langlinks', article.langlinks[lang])
         except:
             try:
-                wikipedia.set_lang('en')
+                wikipedia.set_lang(lang)
                 place_with_comma = "_".join(place.split("_")[:-1]) + ",_" + place.split("_")[-1]
                 article = wikipedia.page(place_with_comma, auto_suggest=False)
-                print('langlinks', article.langlinks[lang])
             except:
                 continue
 
@@ -67,9 +66,9 @@ def food_in_places(food_item_dict, places_list, savepath, lang='en'):
 
         outfile.write(place.upper() + '\n' + coords + '\n')
         for x in non_empties_en:
-            outfile.write(json.dump(x[0]) + '\t' + json.dump(x[1]) + '\n')
+            outfile.write(str(x[0]).replace("'", '"') + '\t' + str(x[1]).replace("'", '"') + '\n')
         for x in non_empties_es:
-            outfile.write(json.dump(x[0]) + '\t' + json.dump(x[1]) + '\n')
+            outfile.write(str(x[0]).replace("'", '"') + '\t' + str(x[1]).replace("'", '"') + '\n')
 
         outfile.write('\n\n')
 
@@ -93,12 +92,12 @@ def list_places_with_food_from_files(filepaths):
 
 if __name__ == '__main__':
     # Get the list of places from a file
-    places = list_places_from_file("./data/Provinces_of_Spain.txt")
+    places = list_places_from_file("./data/Provincias_espana.txt")
 
     # Get a list of synonyms from a file
     food_item_dict = list_synonyms_from_file('./data/all_fruit_synonyms.txt')
     # Get the places
-    food_in_places(food_item_dict, places, './data/fruits_in_us_counties.txt')
+    food_in_places(food_item_dict, places, './data/fruits_in_es_counties.txt', lang="es")
 
     veg_item_dict = list_synonyms_from_file('./data/all_vegetables_synonyms.txt')
-    food_in_places(veg_item_dict, places, './data/veggies_in_us_counties.txt')
+    food_in_places(veg_item_dict, places, './data/veggies_in_es_counties.txt', lang="es")

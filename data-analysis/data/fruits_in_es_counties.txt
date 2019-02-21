@@ -1,0 +1,587 @@
+ÁLAVA
+42.8333333300000020926745492033660411834716796875, -2.75
+International Standard Book Number	["ISBN"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ALBACETE
+38.8333333300000020926745492033660411834716796875, -2
+Colombia	["Colombia"]
+Americas	["América"]
+Colombia	["Colombia"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Neolithic	["Neolítico"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_ALICANTE
+38.5, -0.5
+Genus	["genera"]
+Tamarillo	["berenjena"]
+Tangelo	["elo"]
+Africa	["África"]
+Armeniaca vulgaris	["albaricoque"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Loquat	["níspero"]
+Mabolo	["Manolo"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Mespilus germanica	["níspero"]
+Pepino	["pepino"]
+Phoenix dactylifera	["palma"]
+Plant	["Plantas"]
+Prunus armeniaca	["albaricoque"]
+Pyrus	["perales"]
+Tamarillo	["berenjena"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ALMERÍA
+37.1666666699999979073254507966339588165283203125, -2.333333329999999872228499953052960336208343505859375
+International Standard Book Number	["ISBN"]
+Chayote	["erizo"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Mock strawberry	["Cal"]
+Neolithic	["Neolítico"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+PRINCIPADO_DE_ASTURIAS
+43.3333333300000020926745492033660411834716796875, -6
+Quince	["quince"]
+Vitis rupestris	["rock"]
+Americas	["América"]
+Brosimum alicastrum	["ramón"]
+Genus	["género"]
+Maypop	["mayor"]
+Phoenix dactylifera	["palma"]
+Pluot	["Plato"]
+Quince	["quince"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ÁVILA
+40.61609167000000297775841318070888519287109375, -4.92903056000000017178308553411625325679779052734375
+Habitat ecology	["habitat"]
+International Standard Book Number	["ISBN"]
+Arecaceae	["palmeras"]
+Brosimum alicastrum	["ramón"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Pluot	["Plato"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_BADAJOZ
+38.6666666699999979073254507966339588165283203125, -6.1666666699999996836822901968844234943389892578125
+Quince	["quince"]
+Quince	["quince"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_BARCELONA
+41.4500000000000028421709430404007434844970703125, 2.083333329999999872228499953052960336208343505859375
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_BURGOS
+42.383333329999999250503606162965297698974609375, -3.666666670000000127771500046947039663791656494140625
+International Standard Book Number	["ISBN"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Plant	["Plantas"]
+Pluot	["Plato"]
+Salal	["Salas"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_CÁCERES
+39.6666666699999979073254507966339588165283203125, -6
+Americas	["América"]
+Maypop	["mayor"]
+Neolithic	["Neolítico"]
+Passiflora ligularis	["granadilla", "granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_CÁDIZ
+36.5, -5.75
+Quince	["quince"]
+Africa	["África"]
+Brosimum alicastrum	["ramón"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Quince	["quince"]
+Tree	["tres"]
+
+
+CANTABRIA
+43.3333333300000020926745492033660411834716796875, -4
+Colombia	["Colombia"]
+International Standard Book Number	["ISBN"]
+Vitis rupestris	["rock"]
+Americas	["América"]
+Charichuelo	["Madroño"]
+Colombia	["Colombia"]
+Garcinia madruno	["madroño"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Melinjo	["merino"]
+Phoenix dactylifera	["palma", "fénix"]
+Plant	["Plantas"]
+Ribes rubrum	["parrilla"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_CASTELLÓN
+40.1666666699999979073254507966339588165283203125, -0.1666666699999999889936219688024721108376979827880859375
+Arecaceae	["palmas"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_CIUDAD_REAL
+39, -4
+Maypop	["mayor"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_CÓRDOBA_(ESPAÑA)
+38, -4.8333333300000003163177098031155765056610107421875
+Maypop	["mayor"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma", "palmera"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_LA_CORUÑA
+43.36999999999999744204615126363933086395263671875, -8.4000000000000003552713678800500929355621337890625
+Maypop	["mayor"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_CUENCA
+40, -2
+Maypop	["mayor"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_GERONA
+42.1666666699999979073254507966339588165283203125, 2.666666670000000127771500046947039663791656494140625
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+
+
+PROVINCIA_DE_GRANADA
+37.25, -3.25
+Cherimoya	["chirimoya"]
+Avocado	["aguacate", "aguacate"]
+Mediterranean	["mar Mediterráneo"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+PROVINCIA_DE_GUADALAJARA
+40.8333333300000020926745492033660411834716796875, -2.5
+International Standard Book Number	["ISBN"]
+Vitis rupestris	["rock"]
+Brosimum alicastrum	["ramón"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Sorbus	["serbales"]
+Tree	["tres"]
+
+
+GUIPÚZCOA
+43.1666666699999979073254507966339588165283203125, -2.166666670000000127771500046947039663791656494140625
+Maypop	["mayor"]
+Phoenix dactylifera	["támara"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_HUELVA
+37.6666666699999979073254507966339588165283203125, -7
+Asia	["Asia"]
+Genus	["genera"]
+India	["India"]
+Phalsa	["falsa"]
+Africa	["África"]
+Americas	["América"]
+Asia	["Asia"]
+Brosimum alicastrum	["ramón"]
+Citrus paradisi	["toronjo"]
+Guinep	["Guinea"]
+India	["India"]
+Maypop	["mayor", "comandante"]
+Neolithic	["Neolítico"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma"]
+Pomelo	["toronjo"]
+Punica granatum	["granado", "granada"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_HUESCA
+42.1666666699999979073254507966339588165283203125, -0.1666666699999999889936219688024721108376979827880859375
+Tree	["tres"]
+
+
+ISLAS_BALEARES
+39.5, 3
+Africa	["África"]
+Americas	["América"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Mock strawberry	["Cal"]
+Phoenix dactylifera	["palma"]
+Plant	["Plantas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_JAÉN_(ESPAÑA)
+38, -3.5
+Genus	["genera"]
+Rose	["Rosa"]
+Vitis rupestris	["rock"]
+Africa	["África"]
+Mabolo	["Manolo"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Melinjo	["merino"]
+Passiflora ligularis	["granada"]
+Pluot	["Plato"]
+Punica granatum	["granada"]
+Salal	["Salas"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_LEÓN
+42.6666666699999979073254507966339588165283203125, -6
+Genus	["genera"]
+International Standard Book Number	["ISBN"]
+Americas	["América"]
+Armeniaca vulgaris	["damasco"]
+International Standard Book Number	["ISBN"]
+Juniperus	["enebros", "sabinas"]
+Maypop	["mayor"]
+Melinjo	["merino"]
+Mock strawberry	["Cal"]
+Prunus armeniaca	["damasco"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_LÉRIDA
+42, 1.1666666699999999057268951219157315790653228759765625
+Maypop	["mayor"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_LUGO
+43, -7.5
+Maypop	["mayor"]
+
+
+COMUNIDAD_DE_MADRID
+40.5, -3.666666670000000127771500046947039663791656494140625
+Asia	["Asia"]
+International Standard Book Number	["ISBN"]
+Rose	["Rosa"]
+Africa	["África"]
+Arecaceae	["palmas"]
+Asia	["Asia"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Pyrus	["perales"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_MÁLAGA
+36.71666667000000217058186535723507404327392578125, -4.4166666699999996836822901968844234943389892578125
+Garcinia dulcis	["rata"]
+Genus	["genera"]
+Mundu plant	["rata"]
+Africa	["África"]
+Charichuelo	["Madroño"]
+Chayote	["erizo"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Garcinia madruno	["madroño"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+REGIÓN_DE_MURCIA
+38, -1.8333333300000000942731048780842684209346771240234375
+Genus	["genera"]
+International Standard Book Number	["ISBN"]
+Americas	["América"]
+Arecaceae	["palmas"]
+Brosimum alicastrum	["ramón"]
+Charichuelo	["Madroño"]
+Garcinia madruno	["madroño"]
+Huito	["huerto"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Neolithic	["Neolítico"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palmera"]
+Plant	["Plantas"]
+Pluot	["Plato"]
+Punica granatum	["granada"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+NAVARRA
+42.81666666999999648623997927643358707427978515625, -1.649999999999999911182158029987476766109466552734375
+Asia	["Asia"]
+Africa	["África"]
+Americas	["América"]
+Asia	["Asia"]
+Guinep	["Guinea"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Plant	["Plantas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ORENSE
+42.1666666699999979073254507966339588165283203125, -7.5
+Maypop	["mayor"]
+Riberry	["Ribeiro"]
+Salal	["Salas"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_PALENCIA
+42.432127780000001848748070187866687774658203125, -4.52064721999999985513341016485355794429779052734375
+Maypop	["mayor"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_LAS_PALMAS
+28.333333329999998539960870402865111827850341796875, -14.3333333300000003163177098031155765056610107421875
+Arecaceae	["palmas"]
+Maypop	["mayor"]
+
+
+PROVINCIA_DE_PONTEVEDRA
+42.5, -8.5
+Brosimum alicastrum	["ramón"]
+Maypop	["mayor"]
+Mock strawberry	["Cal"]
+Tree	["tres"]
+
+
+LA_RIOJA_(ESPAÑA)
+42.25, -2.5
+International Standard Book Number	["ISBN"]
+Phalsa	["falsa"]
+Americas	["América"]
+Brosimum alicastrum	["ramón"]
+International Standard Book Number	["ISBN"]
+Juniperus	["enebros"]
+Lanzones	["robo"]
+Maypop	["mayor"]
+Melinjo	["merino"]
+Plant	["Plantas"]
+Pluot	["Plato"]
+Ribes rubrum	["grosellero", "parrilla"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_SALAMANCA
+40.8333333300000020926745492033660411834716796875, -6
+International Standard Book Number	["ISBN"]
+Rose	["Rosa"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Phoenix dactylifera	["palma"]
+Plant	["Plantas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_SEGOVIA
+41.1666666699999979073254507966339588165283203125, -4
+Quince	["quince"]
+Maypop	["mayor"]
+Quince	["quince"]
+
+
+PROVINCIA_DE_SEVILLA
+37.5, -5.5
+Quince	["quince"]
+Arecaceae	["palmas"]
+Citrus sinensis	["naranjo"]
+Mabolo	["Manolo"]
+Maypop	["mayor"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Quince	["quince"]
+
+
+PROVINCIA_DE_SORIA
+41.6666666699999979073254507966339588165283203125, -2.666666670000000127771500046947039663791656494140625
+Maypop	["mayor"]
+
+
+PROVINCIA_DE_TARRAGONA
+41.1666666699999979073254507966339588165283203125, 1
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+
+
+PROVINCIA_DE_SANTA_CRUZ_DE_TENERIFE
+28.166666670000001460039129597134888172149658203125, -17.333333329999998539960870402865111827850341796875
+Americas	["América"]
+Arecaceae	["palmas"]
+Maypop	["mayor"]
+Phoenix dactylifera	["palma"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_TERUEL
+40.6666666699999979073254507966339588165283203125, -0.66666667000000001674919758443138562142848968505859375
+Genus	["genera"]
+Americas	["América"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Pyrus	["perales"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_TOLEDO
+39.8333333300000020926745492033660411834716796875, -4
+Maypop	["mayor"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_VALENCIA
+39.3333333300000020926745492033660411834716796875, -0.83333332999999998325080241556861437857151031494140625
+Colombia	["Colombia"]
+Citrus sinensis	["naranjero"]
+Colombia	["Colombia"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_VALLADOLID
+41.5833333300000020926745492033660411834716796875, -4.6666666699999996836822901968844234943389892578125
+Asia	["Asia"]
+Colombia	["Colombia"]
+International Standard Book Number	["ISBN"]
+Rose	["Rosa"]
+Africa	["África"]
+Americas	["América"]
+Asia	["Asia"]
+Chayote	["erizo"]
+Colombia	["Colombia"]
+Fabaceae	["leguminosas"]
+International Standard Book Number	["ISBN"]
+Leguminosae	["leguminosas"]
+Maypop	["mayor"]
+Oceania	["Oceanía"]
+Phoenix dactylifera	["palma"]
+Plant	["Plantas"]
+Pluot	["Plato"]
+Sawo	["sapos"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+VIZCAYA
+43.25, -2.98333332999999978341065798304043710231781005859375
+Americas	["América"]
+Maypop	["mayor"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ZAMORA
+41.75, -6
+Genus	["genera"]
+Rose	["Rosa"]
+Maypop	["mayor"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ZARAGOZA
+41.5833333300000020926745492033660411834716796875, -1
+Tree	["tres"]
+
+
+CEUTA
+35.8866670000000027584974304772913455963134765625, -5.29999999999999982236431605997495353221893310546875
+Ficus	["Ficus"]
+International Standard Book Number	["ISBN"]
+Africa	["África"]
+Americas	["América"]
+Arecaceae	["palmeras"]
+Brosimum alicastrum	["ramón"]
+International Standard Book Number	["ISBN"]
+Maypop	["mayor"]
+Mediterranean	["mar Mediterráneo"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
+MELILLA
+35.282499999999998863131622783839702606201171875, -2.9474999999999997868371792719699442386627197265625
+Genus	["genera"]
+Africa	["África"]
+Arecaceae	["palmeras"]
+Mabolo	["Manolo"]
+Maypop	["mayor", "comandante"]
+Mediterranean	["mar Mediterráneo"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma"]
+Pluot	["Plato"]
+Punica granatum	["granada"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
