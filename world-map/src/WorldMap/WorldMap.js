@@ -51,7 +51,6 @@ class WorldMap extends Component {
     const markerColors = {}
     let currentColorIndex = 0
     const markers = this.props.places.map((p) => {
-      console.log(p.synonyms);
       let color;
       for (let s of p.synonyms) {
         if(markerColors.hasOwnProperty(s)){
@@ -61,7 +60,6 @@ class WorldMap extends Component {
           color = markerColors[s];
           currentColorIndex += 1;
         }
-        console.log(markerColors);
       }
       return this.renderMarker(p, color)
     })

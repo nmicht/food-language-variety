@@ -5,12 +5,6 @@ import WorldMap from './WorldMap/WorldMap';
 
 import './App.css';
 
-Object.filter = (obj, predicate) =>
-    Object.keys(obj)
-          .filter( key => predicate(obj[key]) )
-          .reduce( (res, key) => (res[key] = obj[key], res), {} );
-
-
 class App extends Component {
   constructor(props) {
     super(props);
@@ -31,6 +25,9 @@ class App extends Component {
     this.data.all = this.readJson(this.jsonPath)
       .then((data) => {
         this.data.all = data
+        console.log('original data', this.data.all);
+        this.data.all.sort(this.compareSynonymFrequency);
+        console.log('after sort', this.data.all);
         this.data.images = data.map((o) => {
           const n = {
             key: o.key,
@@ -42,6 +39,36 @@ class App extends Component {
         this.setState({loading: false});
       });
   };
+
+
+  comparePlaceFrequency(a, b) {
+    if (a.places.length > b.places.length) {
+      return -1;
+    }
+    return 1;
+  }
+
+  compareSynonymFrequency(a, b) {
+    let aSyns = [];
+    let bSyns = [];
+    aSyns.concat(a.places.map(p => p.synonyms));
+    bSyns.concat(b.places.map(p => p.synonyms));
+
+    var aUnique = aSyns.filter( (value, index, self) => {
+        return self.indexOf(value) === index;
+    } );
+    var bUnique = bSyns.filter( (value, index, self) => {
+        return self.indexOf(value) === index;
+    } );
+    console.log(aUnique);
+    console.log(bUnique);
+
+
+   if (aUnique.length > bUnique.length) {
+      return 1;
+    }
+    return -1;
+  }
 
   handleClick = (el) =>  {
     this.setState({
