@@ -14,7 +14,7 @@ def build_distribution_dict(foods, places_objs):
                     'lng': place.coords.split(', ')[1], 'synonyms': synonyms})
 
     # remove food without places
-    filtered = {k: v for k, v in distribution.items() if len(distribution[k]['places']) > 0}
+    filtered = [v for k, v in distribution.items() if len(distribution[k]['places']) > 0]
 
     return filtered
 

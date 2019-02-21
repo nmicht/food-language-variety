@@ -30,8 +30,8 @@ class App extends Component {
     this.setState({loading: true});
     this.data.all = this.readJson(this.jsonPath)
       .then((data) => {
-        this.data.all = data.filter((e) => e.places.length > 0)
-        this.data.images = this.data.all.map((o) => {
+        this.data.all = data
+        this.data.images = data.map((o) => {
           const n = {
             key: o.key,
             image: o.image
