@@ -50,6 +50,9 @@ def remove_single_synonyms_from_file(filename):
 
 clean_file_list([
 	'./data/fruits_in_us_counties.txt',
+	'./data/fruits_in_mx_counties.txt',
+	'./data/fruits_in_es_counties.txt',
+	'./data/fruits_in_uk_counties.txt',
 	'./data/veggies_in_us_counties.txt',
 	'./data/veggies_in_es_counties.txt',
 	'./data/veggies_in_uk_counties.txt',
@@ -83,6 +86,7 @@ clean_file_list([
 	'Eating',
 	'Subarctic',
     'Central America',
+    'Maypop',
 	])
 
 

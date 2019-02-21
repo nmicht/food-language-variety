@@ -2,7 +2,8 @@ import json
 
 
 def build_distribution_dict(foods, places_objs):
-    distribution = {k: {'key': k, 'image': img, 'places': []} for k,img in foods.items()} # main_key --> [ (coord, names), (coord, names) ...]
+    distribution = {k: {'key': k, 'image': img, 'places': []} for k,img in foods.items()}
+
     for place in places_objs:
         for key, synonyms in place.foods.items():
             key = key.lower()
@@ -12,7 +13,10 @@ def build_distribution_dict(foods, places_objs):
                 distribution[key]['places'].append({'name': place.name, 'lat': place.coords.split(', ')[0],
                     'lng': place.coords.split(', ')[1], 'synonyms': synonyms})
 
-    return distribution
+    # remove food without places
+    filtered = {k: v for k, v in distribution.items() if len(distribution[k]['places']) > 0}
+
+    return filtered
 
 
 def write_distribution_to_file(dist, savepath):

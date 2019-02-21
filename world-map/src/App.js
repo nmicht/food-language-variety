@@ -5,6 +5,12 @@ import WorldMap from './WorldMap/WorldMap';
 
 import './App.css';
 
+Object.filter = (obj, predicate) =>
+    Object.keys(obj)
+          .filter( key => predicate(obj[key]) )
+          .reduce( (res, key) => (res[key] = obj[key], res), {} );
+
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -61,7 +67,7 @@ class App extends Component {
     if (this.state.loading === true) {
       return <h2>Loading...</h2>;
     }
-  
+
 
     return (
       <React.Fragment>
