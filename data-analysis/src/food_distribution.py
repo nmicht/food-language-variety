@@ -30,5 +30,5 @@ def write_distribution_to_file(dist, savepath):
 
 def write_distribution_to_json_file(dist, savepath):
     with open(savepath, 'w') as outfile:
-        s = json.dumps(dist, indent=4, sort_keys=True)
+        s = json.dumps(dist, indent=4, sort_keys=True, ensure_ascii=False)
         outfile.write(s)

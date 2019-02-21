@@ -1,7 +1,6 @@
 import wikipedia
 from bs4 import BeautifulSoup
 import re
-import codecs
 
 
 def get_geo_articles(location_page_link, limit=100):
@@ -13,7 +12,7 @@ def get_geo_articles(location_page_link, limit=100):
 
 
 def list_places_from_file(filepath):
-    with codecs.open(filepath, 'r', encoding="utf-8") as f:
+    with open(filepath, 'r') as f:
         lines = [line.strip() for line in f.readlines()]
     return lines
 
@@ -21,7 +20,7 @@ def list_places_from_file(filepath):
 def save_list_of_places(page, savepath = None, lang="en"):
     if not savepath:
         savepath = './data/' + page.replace(' ', '_') + '.txt'
-    outfile = codecs.open(savepath, 'w', encoding="utf-8")
+    outfile = open(savepath, 'w')
     if lang != "en":
         wikipedia.set_lang(lang)
     wpage = wikipedia.page(page, auto_suggest=False)
@@ -39,7 +38,7 @@ def save_list_of_places(page, savepath = None, lang="en"):
                 anchor = first_element.find_all("a")[1] # this is for spain
             else: # this is for spain
                 anchor = first_element.find_all("a")[0] # this is for spain
-            link = anchor["href"].split("/")[-1].replace(',', '')
+            link = anchor["title"].split("/")[-1].replace(',', '')
             city_links.append(link)
             outfile.write(link + '\n')
 

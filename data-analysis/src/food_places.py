@@ -21,14 +21,15 @@ class Place(object):
                 if len(food) > 0:
                     key, synonyms = food.lower().split('\t')
                     synonyms = json.loads(synonyms)
+                    # print('before', self.foods[key])
                     if key in self.foods:
                         self.foods[key].extend(synonyms)
                     else:
                         self.foods[key] = synonyms
-
+                    # print('after', self.foods[key])
 
     def __str__(self):
-        return 'name: ' + self.name + '\n' + 'coords: ' + self.coords + '\n' + 'foods: ' + str(len(self.foods)) + '\n' + "\n".join(self.foods.keys())
+        return 'name: ' + self.name + '\n' + 'coords: ' + self.coords + '\n' + 'foods: ' + str(len(self.foods)) + '\n' + json.dumps(self.foods, indent=2, sort_keys=True, ensure_ascii=False)
 
 
 def food_in_places(food_item_dict, places_list, savepath, lang='en'):
@@ -79,14 +80,14 @@ def list_places_with_food_from_files(filepaths):
     places_objs = []
 
     for filename in filepaths:
-        with open(filename, 'r') as f:
+        with open(filename, 'r', encoding="utf-8") as f:
             obj_strings = f.read().split('\n\n\n')
 
             for obj in obj_strings:
+                # print(obj)
                 new = Place(obj)
                 if new.name:
                     places_objs.append(new)
-
     return places_objs
 
 

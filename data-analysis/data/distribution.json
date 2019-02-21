@@ -111,15 +111,15 @@
                 "lng": "-0.5",
                 "name": "provincia_de_alicante",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -127,7 +127,7 @@
                 "lng": "-7",
                 "name": "provincia_de_huelva",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -135,15 +135,15 @@
                 "lng": "3",
                 "name": "islas_baleares",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -151,15 +151,15 @@
                 "lng": "-3.666666670000000127771500046947039663791656494140625",
                 "name": "comunidad_de_madrid",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -167,7 +167,7 @@
                 "lng": "-1.649999999999999911182158029987476766109466552734375",
                 "name": "navarra",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -175,7 +175,7 @@
                 "lng": "-4.6666666699999996836822901968844234943389892578125",
                 "name": "provincia_de_valladolid",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -183,7 +183,7 @@
                 "lng": "-5.29999999999999982236431605997495353221893310546875",
                 "name": "ceuta",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -191,7 +191,7 @@
                 "lng": "-2.9474999999999997868371792719699442386627197265625",
                 "name": "melilla",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -199,7 +199,7 @@
                 "lng": "-115.116666670000000749496393837034702301025390625",
                 "name": "baja_california",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             },
             {
@@ -207,7 +207,7 @@
                 "lng": "-96.4141666700000001810622052289545536041259765625",
                 "name": "oaxaca",
                 "synonyms": [
-                    "\u00e1frica"
+                    "áfrica"
                 ]
             }
         ]
@@ -634,7 +634,7 @@
                 "lng": "-2",
                 "name": "provincia_de_albacete",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -642,15 +642,15 @@
                 "lng": "-6",
                 "name": "principado_de_asturias",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
                 "lat": "39.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_c\u00e1ceres",
+                "name": "provincia_de_cáceres",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -658,7 +658,7 @@
                 "lng": "-4",
                 "name": "cantabria",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -666,7 +666,7 @@
                 "lng": "-7",
                 "name": "provincia_de_huelva",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -674,23 +674,23 @@
                 "lng": "3",
                 "name": "islas_baleares",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -698,15 +698,15 @@
                 "lng": "-1.649999999999999911182158029987476766109466552734375",
                 "name": "navarra",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -714,7 +714,7 @@
                 "lng": "-17.333333329999998539960870402865111827850341796875",
                 "name": "provincia_de_santa_cruz_de_tenerife",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -722,7 +722,7 @@
                 "lng": "-0.66666667000000001674919758443138562142848968505859375",
                 "name": "provincia_de_teruel",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -730,7 +730,7 @@
                 "lng": "-4.6666666699999996836822901968844234943389892578125",
                 "name": "provincia_de_valladolid",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -738,7 +738,7 @@
                 "lng": "-2.98333332999999978341065798304043710231781005859375",
                 "name": "vizcaya",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -746,7 +746,7 @@
                 "lng": "-5.29999999999999982236431605997495353221893310546875",
                 "name": "ceuta",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -754,7 +754,7 @@
                 "lng": "-102.35638889000000517626176588237285614013671875",
                 "name": "aguascalientes",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -762,7 +762,7 @@
                 "lng": "-115.116666670000000749496393837034702301025390625",
                 "name": "baja_california",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -770,7 +770,7 @@
                 "lng": "-90.4033333299999952714642859064042568206787109375",
                 "name": "campeche",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -778,7 +778,7 @@
                 "lng": "-92.4086111099999953921724227257072925567626953125",
                 "name": "chiapas",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -786,7 +786,7 @@
                 "lng": "-99.1455555600000053573239711113274097442626953125",
                 "name": "mexico_city",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -794,7 +794,7 @@
                 "lng": "-102.0447222199999970371209201402962207794189453125",
                 "name": "coahuila",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -802,7 +802,7 @@
                 "lng": "-103.9608333299999998189377947710454463958740234375",
                 "name": "colima",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -810,7 +810,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -818,7 +818,7 @@
                 "lng": "-103.67638888999999835505150258541107177734375",
                 "name": "jalisco",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -826,7 +826,7 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -842,7 +842,7 @@
                 "lng": "-96.4141666700000001810622052289545536041259765625",
                 "name": "oaxaca",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -850,7 +850,7 @@
                 "lng": "-97.888333329999994703030097298324108123779296875",
                 "name": "puebla",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -858,7 +858,7 @@
                 "lng": "-110.8688888899999938075779937207698822021484375",
                 "name": "sonora",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -866,7 +866,7 @@
                 "lng": "-92.5888888900000068815643317066133022308349609375",
                 "name": "tabasco",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -874,7 +874,7 @@
                 "lng": "-98.563333330000006071713869459927082061767578125",
                 "name": "tamaulipas",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -882,7 +882,7 @@
                 "lng": "-98.16083333000000266110873781144618988037109375",
                 "name": "tlaxcala",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -890,7 +890,7 @@
                 "lng": "-96.1533333299999952714642859064042568206787109375",
                 "name": "veracruz",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             },
             {
@@ -898,7 +898,7 @@
                 "lng": "-102.7005555599999979676795192062854766845703125",
                 "name": "zacatecas",
                 "synonyms": [
-                    "am\u00e9rica"
+                    "américa"
                 ]
             }
         ]
@@ -1551,7 +1551,7 @@
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
                     "palmeras"
                 ]
@@ -1559,7 +1559,7 @@
             {
                 "lat": "40.1666666699999979073254507966339588165283203125",
                 "lng": "-0.1666666699999999889936219688024721108376979827880859375",
-                "name": "provincia_de_castell\u00f3n",
+                "name": "provincia_de_castellón",
                 "synonyms": [
                     "palmas"
                 ]
@@ -1575,7 +1575,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "palmas"
                 ]
@@ -1667,7 +1667,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "damasco"
                 ]
@@ -2204,23 +2204,23 @@
                 "lng": "-6",
                 "name": "principado_de_asturias",
                 "synonyms": [
-                    "jud\u00eda"
+                    "judía"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
-                    "jud\u00eda"
+                    "judía"
                 ]
             },
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
-                    "jud\u00eda"
+                    "judía"
                 ]
             },
             {
@@ -2228,7 +2228,7 @@
                 "lng": "-2.9474999999999997868371792719699442386627197265625",
                 "name": "melilla",
                 "synonyms": [
-                    "jud\u00eda"
+                    "judía"
                 ]
             },
             {
@@ -2329,9 +2329,9 @@
             }
         ]
     },
-    "a\u00e7a\u00ed": {
+    "açaí": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A%C3%A7aizeiro_no_pal%C3%A1cio.JPG/220px-A%C3%A7aizeiro_no_pal%C3%A1cio.JPG",
-        "key": "a\u00e7a\u00ed",
+        "key": "açaí",
         "places": []
     },
     "babaco": {
@@ -2440,8 +2440,8 @@
                 "lng": "-90.4033333299999952714642859064042568206787109375",
                 "name": "campeche",
                 "synonyms": [
-                    "pl\u00e1tano",
-                    "pl\u00e1tano"
+                    "plátano",
+                    "plátano"
                 ]
             },
             {
@@ -2449,8 +2449,8 @@
                 "lng": "-92.4086111099999953921724227257072925567626953125",
                 "name": "chiapas",
                 "synonyms": [
-                    "pl\u00e1tano",
-                    "pl\u00e1tano"
+                    "plátano",
+                    "plátano"
                 ]
             },
             {
@@ -2458,8 +2458,8 @@
                 "lng": "-103.9608333299999998189377947710454463958740234375",
                 "name": "colima",
                 "synonyms": [
-                    "pl\u00e1tano",
-                    "pl\u00e1tano"
+                    "plátano",
+                    "plátano"
                 ]
             },
             {
@@ -2467,8 +2467,8 @@
                 "lng": "-103.67638888999999835505150258541107177734375",
                 "name": "jalisco",
                 "synonyms": [
-                    "pl\u00e1tano",
-                    "pl\u00e1tano"
+                    "plátano",
+                    "plátano"
                 ]
             },
             {
@@ -2476,8 +2476,8 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "pl\u00e1tano",
-                    "pl\u00e1tano"
+                    "plátano",
+                    "plátano"
                 ]
             },
             {
@@ -2485,8 +2485,8 @@
                 "lng": "-105.22833332999999811363522894680500030517578125",
                 "name": "nayarit",
                 "synonyms": [
-                    "pl\u00e1tano",
-                    "pl\u00e1tano"
+                    "plátano",
+                    "plátano"
                 ]
             },
             {
@@ -2494,8 +2494,8 @@
                 "lng": "-92.5888888900000068815643317066133022308349609375",
                 "name": "tabasco",
                 "synonyms": [
-                    "pl\u00e1tano",
-                    "pl\u00e1tano"
+                    "plátano",
+                    "plátano"
                 ]
             }
         ]
@@ -3178,7 +3178,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "borraja"
                 ]
@@ -3198,168 +3198,7 @@
     "botanical": {
         "image": "",
         "key": "botanical",
-        "places": [
-            {
-                "lat": "38.8333333300000020926745492033660411834716796875",
-                "lng": "-2",
-                "name": "provincia_de_albacete",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "38.5",
-                "lng": "-0.5",
-                "name": "provincia_de_alicante",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "37.1666666699999979073254507966339588165283203125",
-                "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "40.61609167000000297775841318070888519287109375",
-                "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "42.383333329999999250503606162965297698974609375",
-                "lng": "-3.666666670000000127771500046947039663791656494140625",
-                "name": "provincia_de_burgos",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "43.3333333300000020926745492033660411834716796875",
-                "lng": "-4",
-                "name": "cantabria",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "40",
-                "lng": "-2",
-                "name": "provincia_de_cuenca",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "37.6666666699999979073254507966339588165283203125",
-                "lng": "-7",
-                "name": "provincia_de_huelva",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "39.5",
-                "lng": "3",
-                "name": "islas_baleares",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "42.6666666699999979073254507966339588165283203125",
-                "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "40.5",
-                "lng": "-3.666666670000000127771500046947039663791656494140625",
-                "name": "comunidad_de_madrid",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "36.71666667000000217058186535723507404327392578125",
-                "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "38",
-                "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "42.25",
-                "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "40.8333333300000020926745492033660411834716796875",
-                "lng": "-6",
-                "name": "provincia_de_salamanca",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "40.6666666699999979073254507966339588165283203125",
-                "lng": "-0.66666667000000001674919758443138562142848968505859375",
-                "name": "provincia_de_teruel",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "39.3333333300000020926745492033660411834716796875",
-                "lng": "-0.83333332999999998325080241556861437857151031494140625",
-                "name": "provincia_de_valencia",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "43.25",
-                "lng": "-2.98333332999999978341065798304043710231781005859375",
-                "name": "vizcaya",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "41.75",
-                "lng": "-6",
-                "name": "provincia_de_zamora",
-                "synonyms": [
-                    "s"
-                ]
-            },
-            {
-                "lat": "35.8866670000000027584974304772913455963134765625",
-                "lng": "-5.29999999999999982236431605997495353221893310546875",
-                "name": "ceuta",
-                "synonyms": [
-                    "s"
-                ]
-            }
-        ]
+        "places": []
     },
     "bottle gourd": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Courge_encore_verte.jpg/220px-Courge_encore_verte.jpg",
@@ -3436,7 +3275,7 @@
                 "lng": "-0.5",
                 "name": "provincia_de_alicante",
                 "synonyms": [
-                    "br\u00f3coli"
+                    "brócoli"
                 ]
             },
             {
@@ -3444,7 +3283,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "br\u00f3coli"
+                    "brócoli"
                 ]
             }
         ]
@@ -3468,7 +3307,7 @@
                 "lng": "-66.0638888900000011972224456258118152618408203125",
                 "name": "san_juan_puerto_rico",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3476,7 +3315,7 @@
                 "lng": "-99.7600000000000051159076974727213382720947265625",
                 "name": "zavala_county_texas",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3484,23 +3323,23 @@
                 "lng": "-6",
                 "name": "principado_de_asturias",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3508,7 +3347,7 @@
                 "lng": "-2.5",
                 "name": "provincia_de_guadalajara",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3516,15 +3355,15 @@
                 "lng": "-7",
                 "name": "provincia_de_huelva",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3532,15 +3371,15 @@
                 "lng": "-8.5",
                 "name": "provincia_de_pontevedra",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3548,7 +3387,7 @@
                 "lng": "-5.29999999999999982236431605997495353221893310546875",
                 "name": "ceuta",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3556,7 +3395,7 @@
                 "lng": "-102.35638889000000517626176588237285614013671875",
                 "name": "aguascalientes",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3564,7 +3403,7 @@
                 "lng": "-102.0447222199999970371209201402962207794189453125",
                 "name": "coahuila",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3572,7 +3411,7 @@
                 "lng": "-103.9608333299999998189377947710454463958740234375",
                 "name": "colima",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3580,7 +3419,7 @@
                 "lng": "-104.9119444399999991901495377533137798309326171875",
                 "name": "durango",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3588,7 +3427,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3596,7 +3435,7 @@
                 "lng": "-103.67638888999999835505150258541107177734375",
                 "name": "jalisco",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3604,7 +3443,7 @@
                 "lng": "-105.22833332999999811363522894680500030517578125",
                 "name": "nayarit",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3612,7 +3451,7 @@
                 "lng": "-87.9166666699999979073254507966339588165283203125",
                 "name": "quintana_roo",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3620,7 +3459,7 @@
                 "lng": "-107.502777780000002394444891251623630523681640625",
                 "name": "sinaloa",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3628,7 +3467,7 @@
                 "lng": "-98.563333330000006071713869459927082061767578125",
                 "name": "tamaulipas",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3636,7 +3475,7 @@
                 "lng": "-96.1533333299999952714642859064042568206787109375",
                 "name": "veracruz",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             },
             {
@@ -3644,7 +3483,7 @@
                 "lng": "-102.7005555599999979676795192062854766845703125",
                 "name": "zacatecas",
                 "synonyms": [
-                    "ram\u00f3n"
+                    "ramón"
                 ]
             }
         ]
@@ -3863,7 +3702,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "cact\u00e1ceas"
+                    "cactáceas"
                 ]
             },
             {
@@ -3880,7 +3719,7 @@
                 "lng": "-97.888333329999994703030097298324108123779296875",
                 "name": "puebla",
                 "synonyms": [
-                    "cact\u00e1ceas"
+                    "cactáceas"
                 ]
             },
             {
@@ -3888,7 +3727,7 @@
                 "lng": "-102.7005555599999979676795192062854766845703125",
                 "name": "zacatecas",
                 "synonyms": [
-                    "cact\u00e1ceas"
+                    "cactáceas"
                 ]
             }
         ]
@@ -4016,7 +3855,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "cact\u00e1ceas"
+                    "cactáceas"
                 ]
             },
             {
@@ -4033,7 +3872,7 @@
                 "lng": "-97.888333329999994703030097298324108123779296875",
                 "name": "puebla",
                 "synonyms": [
-                    "cact\u00e1ceas"
+                    "cactáceas"
                 ]
             },
             {
@@ -4041,7 +3880,7 @@
                 "lng": "-102.7005555599999979676795192062854766845703125",
                 "name": "zacatecas",
                 "synonyms": [
-                    "cact\u00e1ceas"
+                    "cactáceas"
                 ]
             }
         ]
@@ -4216,7 +4055,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "camas"
                 ]
@@ -4224,7 +4063,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "camas"
                 ]
@@ -4575,7 +4414,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "carpinteros"
                 ]
@@ -4615,7 +4454,7 @@
                 "lng": "-92.4086111099999953921724227257072925567626953125",
                 "name": "chiapas",
                 "synonyms": [
-                    "centroam\u00e9rica"
+                    "centroamérica"
                 ]
             },
             {
@@ -4623,7 +4462,7 @@
                 "lng": "-99.1455555600000053573239711113274097442626953125",
                 "name": "mexico_city",
                 "synonyms": [
-                    "centroam\u00e9rica"
+                    "centroamérica"
                 ]
             },
             {
@@ -4631,7 +4470,7 @@
                 "lng": "-97.888333329999994703030097298324108123779296875",
                 "name": "puebla",
                 "synonyms": [
-                    "centroam\u00e9rica"
+                    "centroamérica"
                 ]
             },
             {
@@ -4639,7 +4478,7 @@
                 "lng": "-98.16083333000000266110873781144618988037109375",
                 "name": "tlaxcala",
                 "synonyms": [
-                    "centroam\u00e9rica"
+                    "centroamérica"
                 ]
             }
         ]
@@ -4672,7 +4511,7 @@
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
                     "cereal"
                 ]
@@ -4705,7 +4544,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "cereal",
                     "cereales"
@@ -4714,7 +4553,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "cereal"
                 ]
@@ -4722,7 +4561,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "cereal"
                 ]
@@ -4879,23 +4718,23 @@
                 "lng": "-4",
                 "name": "cantabria",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
@@ -4903,7 +4742,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
@@ -4911,7 +4750,7 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
@@ -4919,7 +4758,7 @@
                 "lng": "-107.502777780000002394444891251623630523681640625",
                 "name": "sinaloa",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             }
         ]
@@ -4953,7 +4792,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "erizo"
                 ]
@@ -4961,7 +4800,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "erizo"
                 ]
@@ -4986,7 +4825,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "erizo"
                 ]
@@ -4994,7 +4833,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "erizo"
                 ]
@@ -5047,7 +4886,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "cenizo"
                 ]
@@ -5055,7 +4894,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "cenizo"
                 ]
@@ -5063,7 +4902,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "cenizo"
                 ]
@@ -5545,7 +5384,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "colorado"
                 ]
@@ -5753,7 +5592,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "colorado"
                 ]
@@ -6762,7 +6601,7 @@
                 "lng": "-0.5",
                 "name": "provincia_de_alicante",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -6770,7 +6609,7 @@
                 "lng": "-0.83333332999999998325080241556861437857151031494140625",
                 "name": "provincia_de_valencia",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -6778,7 +6617,7 @@
                 "lng": "-111.9727777800000012575765140354633331298828125",
                 "name": "baja_california_sur",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -6786,7 +6625,7 @@
                 "lng": "-103.67638888999999835505150258541107177734375",
                 "name": "jalisco",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -6794,7 +6633,7 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -6802,7 +6641,7 @@
                 "lng": "-96.4141666700000001810622052289545536041259765625",
                 "name": "oaxaca",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -6810,7 +6649,7 @@
                 "lng": "-107.502777780000002394444891251623630523681640625",
                 "name": "sinaloa",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             }
         ]
@@ -6969,9 +6808,9 @@
         "key": "cunoniaceae",
         "places": []
     },
-    "cupua\u00e7u": {
+    "cupuaçu": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cupuassu.jpg/220px-Cupuassu.jpg",
-        "key": "cupua\u00e7u",
+        "key": "cupuaçu",
         "places": []
     },
     "curry-leaf tree": {
@@ -28198,7 +28037,7 @@
                 "lng": "-6",
                 "name": "provincia_de_zamora",
                 "synonyms": [
-                    "r\u00e1bano"
+                    "rábano"
                 ]
             }
         ]
@@ -28231,7 +28070,7 @@
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
                     "taraxacum"
                 ]
@@ -32248,7 +32087,7 @@
                 "lng": "-0.5",
                 "name": "provincia_de_alicante",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -32256,7 +32095,7 @@
                 "lng": "-0.83333332999999998325080241556861437857151031494140625",
                 "name": "provincia_de_valencia",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -32264,7 +32103,7 @@
                 "lng": "-111.9727777800000012575765140354633331298828125",
                 "name": "baja_california_sur",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -32272,7 +32111,7 @@
                 "lng": "-103.67638888999999835505150258541107177734375",
                 "name": "jalisco",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -32280,7 +32119,7 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -32288,7 +32127,7 @@
                 "lng": "-96.4141666700000001810622052289545536041259765625",
                 "name": "oaxaca",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             },
             {
@@ -32296,7 +32135,7 @@
                 "lng": "-107.502777780000002394444891251623630523681640625",
                 "name": "sinaloa",
                 "synonyms": [
-                    "mel\u00f3n"
+                    "melón"
                 ]
             }
         ]
@@ -32318,7 +32157,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "rata"
                 ]
@@ -32395,23 +32234,23 @@
                 "lng": "-4",
                 "name": "cantabria",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
@@ -32419,7 +32258,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
@@ -32427,7 +32266,7 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             },
             {
@@ -32435,7 +32274,7 @@
                 "lng": "-107.502777780000002394444891251623630523681640625",
                 "name": "sinaloa",
                 "synonyms": [
-                    "madro\u00f1o"
+                    "madroño"
                 ]
             }
         ]
@@ -32540,7 +32379,7 @@
                 "lng": "-6",
                 "name": "principado_de_asturias",
                 "synonyms": [
-                    "g\u00e9nero"
+                    "género"
                 ]
             },
             {
@@ -32554,7 +32393,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "genera"
                 ]
@@ -32562,7 +32401,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "genera"
                 ]
@@ -32570,7 +32409,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "genera"
                 ]
@@ -32578,7 +32417,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "genera"
                 ]
@@ -32612,7 +32451,7 @@
                 "lng": "-90.4033333299999952714642859064042568206787109375",
                 "name": "campeche",
                 "synonyms": [
-                    "g\u00e9nero"
+                    "género"
                 ]
             },
             {
@@ -32628,7 +32467,7 @@
                 "lng": "-99.1455555600000053573239711113274097442626953125",
                 "name": "mexico_city",
                 "synonyms": [
-                    "g\u00e9nero"
+                    "género"
                 ]
             },
             {
@@ -32644,7 +32483,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "g\u00e9nero"
+                    "género"
                 ]
             },
             {
@@ -32652,7 +32491,7 @@
                 "lng": "-105.22833332999999811363522894680500030517578125",
                 "name": "nayarit",
                 "synonyms": [
-                    "g\u00e9nero"
+                    "género"
                 ]
             },
             {
@@ -32668,7 +32507,7 @@
                 "lng": "-110.8688888899999938075779937207698822021484375",
                 "name": "sonora",
                 "synonyms": [
-                    "g\u00e9nero"
+                    "género"
                 ]
             },
             {
@@ -32676,7 +32515,7 @@
                 "lng": "-98.563333330000006071713869459927082061767578125",
                 "name": "tamaulipas",
                 "synonyms": [
-                    "g\u00e9nero"
+                    "género"
                 ]
             },
             {
@@ -32692,87 +32531,7 @@
                 "lng": "-102.7005555599999979676795192062854766845703125",
                 "name": "zacatecas",
                 "synonyms": [
-                    "g\u00e9nero"
-                ]
-            },
-            {
-                "lat": "38.5",
-                "lng": "-0.5",
-                "name": "provincia_de_alicante",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "43.3333333300000020926745492033660411834716796875",
-                "lng": "-6",
-                "name": "principado_de_asturias",
-                "synonyms": [
-                    "g\u00e9nero"
-                ]
-            },
-            {
-                "lat": "37.6666666699999979073254507966339588165283203125",
-                "lng": "-7",
-                "name": "provincia_de_huelva",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "38",
-                "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "42.6666666699999979073254507966339588165283203125",
-                "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "36.71666667000000217058186535723507404327392578125",
-                "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "38",
-                "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "40.6666666699999979073254507966339588165283203125",
-                "lng": "-0.66666667000000001674919758443138562142848968505859375",
-                "name": "provincia_de_teruel",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "41.75",
-                "lng": "-6",
-                "name": "provincia_de_zamora",
-                "synonyms": [
-                    "genera"
-                ]
-            },
-            {
-                "lat": "35.282499999999998863131622783839702606201171875",
-                "lng": "-2.9474999999999997868371792719699442386627197265625",
-                "name": "melilla",
-                "synonyms": [
-                    "genera"
+                    "género"
                 ]
             }
         ]
@@ -33123,8 +32882,8 @@
                 "lng": "-90.4033333299999952714642859064042568206787109375",
                 "name": "campeche",
                 "synonyms": [
-                    "guan\u00e1bana",
-                    "guan\u00e1bana"
+                    "guanábana",
+                    "guanábana"
                 ]
             },
             {
@@ -33132,8 +32891,8 @@
                 "lng": "-92.5888888900000068815643317066133022308349609375",
                 "name": "tabasco",
                 "synonyms": [
-                    "guan\u00e1bana",
-                    "guan\u00e1bana"
+                    "guanábana",
+                    "guanábana"
                 ]
             }
         ]
@@ -33247,7 +33006,7 @@
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
                     "habitat"
                 ]
@@ -34906,7 +34665,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "huerto"
                 ]
@@ -35071,9 +34830,9 @@
         "key": "inga edulis",
         "places": []
     },
-    "inga-cip\u00f3": {
+    "inga-cipó": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ing%C3%A1_Inga_edulis_2.JPG/220px-Ing%C3%A1_Inga_edulis_2.JPG",
-        "key": "inga-cip\u00f3",
+        "key": "inga-cipó",
         "places": []
     },
     "international standard book number": {
@@ -35083,7 +34842,7 @@
             {
                 "lat": "42.8333333300000020926745492033660411834716796875",
                 "lng": "-2.75",
-                "name": "\u00e1lava",
+                "name": "álava",
                 "synonyms": [
                     "isbn",
                     "isbn"
@@ -35092,7 +34851,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "isbn",
                     "isbn"
@@ -35101,7 +34860,7 @@
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
                     "isbn",
                     "isbn"
@@ -35137,7 +34896,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "isbn",
                     "isbn"
@@ -35155,7 +34914,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "isbn",
                     "isbn"
@@ -35164,7 +34923,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "isbn",
                     "isbn"
@@ -36467,7 +36226,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "enebros",
                     "sabinas"
@@ -36476,7 +36235,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "enebros"
                 ]
@@ -36491,16 +36250,16 @@
             }
         ]
     },
-    "j\u00edcama": {
+    "jícama": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pachyrhizus_erosus_Blanco2.249.png/220px-Pachyrhizus_erosus_Blanco2.249.png",
-        "key": "j\u00edcama",
+        "key": "jícama",
         "places": [
             {
                 "lat": "21.74388889000000091300535132177174091339111328125",
                 "lng": "-105.22833332999999811363522894680500030517578125",
                 "name": "nayarit",
                 "synonyms": [
-                    "j\u00edcama"
+                    "jícama"
                 ]
             }
         ]
@@ -36647,7 +36406,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "robo"
                 ]
@@ -36689,7 +36448,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "pito"
                 ]
@@ -37109,7 +36868,7 @@
                 "lng": "-0.5",
                 "name": "provincia_de_alicante",
                 "synonyms": [
-                    "n\u00edspero"
+                    "níspero"
                 ]
             }
         ]
@@ -37169,7 +36928,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "manolo"
                 ]
@@ -38965,7 +38724,7 @@
                 "lng": "-103.9608333299999998189377947710454463958740234375",
                 "name": "colima",
                 "synonyms": [
-                    "guam\u00fachil"
+                    "guamúchil"
                 ]
             },
             {
@@ -38973,7 +38732,7 @@
                 "lng": "-107.502777780000002394444891251623630523681640625",
                 "name": "sinaloa",
                 "synonyms": [
-                    "guam\u00fachil"
+                    "guamúchil"
                 ]
             }
         ]
@@ -40448,7 +40207,7 @@
             {
                 "lat": "42.8333333300000020926745492033660411834716796875",
                 "lng": "-2.75",
-                "name": "\u00e1lava",
+                "name": "álava",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40472,7 +40231,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40488,7 +40247,7 @@
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40512,7 +40271,7 @@
             {
                 "lat": "39.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_c\u00e1ceres",
+                "name": "provincia_de_cáceres",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40520,7 +40279,7 @@
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40536,7 +40295,7 @@
             {
                 "lat": "40.1666666699999979073254507966339588165283203125",
                 "lng": "-0.1666666699999999889936219688024721108376979827880859375",
-                "name": "provincia_de_castell\u00f3n",
+                "name": "provincia_de_castellón",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40552,7 +40311,7 @@
             {
                 "lat": "38",
                 "lng": "-4.8333333300000003163177098031155765056610107421875",
-                "name": "provincia_de_c\u00f3rdoba_(espa\u00f1a)",
+                "name": "provincia_de_córdoba_(españa)",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40560,7 +40319,7 @@
             {
                 "lat": "43.36999999999999744204615126363933086395263671875",
                 "lng": "-8.4000000000000003552713678800500929355621337890625",
-                "name": "provincia_de_la_coru\u00f1a",
+                "name": "provincia_de_la_coruña",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40592,7 +40351,7 @@
             {
                 "lat": "43.1666666699999979073254507966339588165283203125",
                 "lng": "-2.166666670000000127771500046947039663791656494140625",
-                "name": "guip\u00fazcoa",
+                "name": "guipúzcoa",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40617,7 +40376,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40625,7 +40384,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40633,7 +40392,7 @@
             {
                 "lat": "42",
                 "lng": "1.1666666699999999057268951219157315790653228759765625",
-                "name": "provincia_de_l\u00e9rida",
+                "name": "provincia_de_lérida",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40657,7 +40416,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40665,7 +40424,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "mayor"
                 ]
@@ -40713,7 +40472,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "mayor"
                 ]
@@ -41032,7 +40791,7 @@
                 "lng": "-2",
                 "name": "provincia_de_albacete",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41040,15 +40799,15 @@
                 "lng": "-0.5",
                 "name": "provincia_de_alicante",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41056,15 +40815,15 @@
                 "lng": "2.083333329999999872228499953052960336208343505859375",
                 "name": "provincia_de_barcelona",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41072,15 +40831,15 @@
                 "lng": "-4",
                 "name": "cantabria",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
                 "lat": "40.1666666699999979073254507966339588165283203125",
                 "lng": "-0.1666666699999999889936219688024721108376979827880859375",
-                "name": "provincia_de_castell\u00f3n",
+                "name": "provincia_de_castellón",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41088,7 +40847,7 @@
                 "lng": "2.666666670000000127771500046947039663791656494140625",
                 "name": "provincia_de_gerona",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41096,7 +40855,7 @@
                 "lng": "-3.25",
                 "name": "provincia_de_granada",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41104,31 +40863,31 @@
                 "lng": "3",
                 "name": "islas_baleares",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41136,7 +40895,7 @@
                 "lng": "-1.649999999999999911182158029987476766109466552734375",
                 "name": "navarra",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41144,7 +40903,7 @@
                 "lng": "1",
                 "name": "provincia_de_tarragona",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41152,7 +40911,7 @@
                 "lng": "-0.66666667000000001674919758443138562142848968505859375",
                 "name": "provincia_de_teruel",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41160,7 +40919,7 @@
                 "lng": "-0.83333332999999998325080241556861437857151031494140625",
                 "name": "provincia_de_valencia",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41168,7 +40927,7 @@
                 "lng": "-5.29999999999999982236431605997495353221893310546875",
                 "name": "ceuta",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             },
             {
@@ -41176,7 +40935,7 @@
                 "lng": "-2.9474999999999997868371792719699442386627197265625",
                 "name": "melilla",
                 "synonyms": [
-                    "mar mediterr\u00e1neo"
+                    "mar mediterráneo"
                 ]
             }
         ]
@@ -41211,7 +40970,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "merino"
                 ]
@@ -41219,7 +40978,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "merino"
                 ]
@@ -41227,7 +40986,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "merino"
                 ]
@@ -41266,7 +41025,7 @@
                 "lng": "-90.4033333299999952714642859064042568206787109375",
                 "name": "campeche",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41274,7 +41033,7 @@
                 "lng": "-103.9608333299999998189377947710454463958740234375",
                 "name": "colima",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41282,7 +41041,7 @@
                 "lng": "-103.67638888999999835505150258541107177734375",
                 "name": "jalisco",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41290,7 +41049,7 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41298,7 +41057,7 @@
                 "lng": "-96.4141666700000001810622052289545536041259765625",
                 "name": "oaxaca",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41306,7 +41065,7 @@
                 "lng": "-97.888333329999994703030097298324108123779296875",
                 "name": "puebla",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41314,7 +41073,7 @@
                 "lng": "-107.502777780000002394444891251623630523681640625",
                 "name": "sinaloa",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41322,7 +41081,7 @@
                 "lng": "-110.8688888899999938075779937207698822021484375",
                 "name": "sonora",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41330,7 +41089,7 @@
                 "lng": "-92.5888888900000068815643317066133022308349609375",
                 "name": "tabasco",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             },
             {
@@ -41338,7 +41097,7 @@
                 "lng": "-98.563333330000006071713869459927082061767578125",
                 "name": "tamaulipas",
                 "synonyms": [
-                    "mesoam\u00e9rica"
+                    "mesoamérica"
                 ]
             }
         ]
@@ -41360,7 +41119,7 @@
                 "lng": "-0.5",
                 "name": "provincia_de_alicante",
                 "synonyms": [
-                    "n\u00edspero"
+                    "níspero"
                 ]
             }
         ]
@@ -41401,7 +41160,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "cal"
                 ]
@@ -41417,7 +41176,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "cal"
                 ]
@@ -42022,9 +41781,9 @@
         "key": "moringaceae",
         "places": []
     },
-    "morti\u00f1o": {
+    "mortiño": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vaccinium_floribundum_3.jpg/220px-Vaccinium_floribundum_3.jpg",
-        "key": "morti\u00f1o",
+        "key": "mortiño",
         "places": []
     },
     "morus alba": {
@@ -42073,7 +41832,7 @@
             {
                 "lat": "42",
                 "lng": "1.1666666699999999057268951219157315790653228759765625",
-                "name": "provincia_de_l\u00e9rida",
+                "name": "provincia_de_lérida",
                 "synonyms": [
                     "pica"
                 ]
@@ -42092,7 +41851,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "rata"
                 ]
@@ -42691,23 +42450,23 @@
                 "lng": "-2",
                 "name": "provincia_de_albacete",
                 "synonyms": [
-                    "neol\u00edtico"
+                    "neolítico"
                 ]
             },
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
-                    "neol\u00edtico"
+                    "neolítico"
                 ]
             },
             {
                 "lat": "39.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_c\u00e1ceres",
+                "name": "provincia_de_cáceres",
                 "synonyms": [
-                    "neol\u00edtico"
+                    "neolítico"
                 ]
             },
             {
@@ -42715,15 +42474,15 @@
                 "lng": "-7",
                 "name": "provincia_de_huelva",
                 "synonyms": [
-                    "neol\u00edtico"
+                    "neolítico"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
-                    "neol\u00edtico"
+                    "neolítico"
                 ]
             }
         ]
@@ -42976,7 +42735,7 @@
                 "lng": "-4.6666666699999996836822901968844234943389892578125",
                 "name": "provincia_de_valladolid",
                 "synonyms": [
-                    "ocean\u00eda"
+                    "oceanía"
                 ]
             },
             {
@@ -42984,7 +42743,7 @@
                 "lng": "-99.1455555600000053573239711113274097442626953125",
                 "name": "mexico_city",
                 "synonyms": [
-                    "ocean\u00eda"
+                    "oceanía"
                 ]
             }
         ]
@@ -43511,7 +43270,7 @@
                 "lng": "-99.070277779999997846971382386982440948486328125",
                 "name": "morelos",
                 "synonyms": [
-                    "orqu\u00eddeas"
+                    "orquídeas"
                 ]
             },
             {
@@ -43519,7 +43278,7 @@
                 "lng": "-96.4141666700000001810622052289545536041259765625",
                 "name": "oaxaca",
                 "synonyms": [
-                    "orqu\u00eddeas"
+                    "orquídeas"
                 ]
             }
         ]
@@ -43591,8 +43350,8 @@
                 "lng": "-115.116666670000000749496393837034702301025390625",
                 "name": "baja_california",
                 "synonyms": [
-                    "card\u00f3n",
-                    "card\u00f3n"
+                    "cardón",
+                    "cardón"
                 ]
             }
         ]
@@ -43783,7 +43542,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "granada"
                 ]
@@ -43791,7 +43550,7 @@
             {
                 "lat": "39.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_c\u00e1ceres",
+                "name": "provincia_de_cáceres",
                 "synonyms": [
                     "granadilla",
                     "granada"
@@ -43800,7 +43559,7 @@
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
                     "granada"
                 ]
@@ -43808,7 +43567,7 @@
             {
                 "lat": "38",
                 "lng": "-4.8333333300000003163177098031155765056610107421875",
-                "name": "provincia_de_c\u00f3rdoba_(espa\u00f1a)",
+                "name": "provincia_de_córdoba_(españa)",
                 "synonyms": [
                     "granada"
                 ]
@@ -43840,7 +43599,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "granada"
                 ]
@@ -43848,7 +43607,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "granada"
                 ]
@@ -43856,7 +43615,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "granada"
                 ]
@@ -44050,15 +43809,15 @@
                 "lng": "-6",
                 "name": "principado_de_asturias",
                 "synonyms": [
-                    "poblaci\u00f3n activa"
+                    "población activa"
                 ]
             },
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
-                    "poblaci\u00f3n activa"
+                    "población activa"
                 ]
             },
             {
@@ -44066,7 +43825,7 @@
                 "lng": "-4",
                 "name": "cantabria",
                 "synonyms": [
-                    "poblaci\u00f3n activa"
+                    "población activa"
                 ]
             },
             {
@@ -44074,15 +43833,15 @@
                 "lng": "-3.666666670000000127771500046947039663791656494140625",
                 "name": "comunidad_de_madrid",
                 "synonyms": [
-                    "poblaci\u00f3n activa"
+                    "población activa"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
-                    "poblaci\u00f3n activa"
+                    "población activa"
                 ]
             },
             {
@@ -44090,7 +43849,7 @@
                 "lng": "-2.9474999999999997868371792719699442386627197265625",
                 "name": "melilla",
                 "synonyms": [
-                    "poblaci\u00f3n activa"
+                    "población activa"
                 ]
             },
             {
@@ -44921,7 +44680,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "falsa"
                 ]
@@ -44942,7 +44701,7 @@
                 "lng": "-6",
                 "name": "principado_de_asturias",
                 "synonyms": [
-                    "jud\u00eda",
+                    "judía",
                     "alubia"
                 ]
             },
@@ -44957,15 +44716,15 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
-                    "jud\u00eda"
+                    "judía"
                 ]
             },
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "alubia"
                 ]
@@ -44973,9 +44732,9 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
-                    "jud\u00eda"
+                    "judía"
                 ]
             },
             {
@@ -44983,7 +44742,7 @@
                 "lng": "-2.9474999999999997868371792719699442386627197265625",
                 "name": "melilla",
                 "synonyms": [
-                    "jud\u00eda"
+                    "judía"
                 ]
             },
             {
@@ -45902,13 +45661,13 @@
                 "name": "cantabria",
                 "synonyms": [
                     "palma",
-                    "f\u00e9nix"
+                    "fénix"
                 ]
             },
             {
                 "lat": "38",
                 "lng": "-4.8333333300000003163177098031155765056610107421875",
-                "name": "provincia_de_c\u00f3rdoba_(espa\u00f1a)",
+                "name": "provincia_de_córdoba_(españa)",
                 "synonyms": [
                     "palma",
                     "palmera"
@@ -45917,9 +45676,9 @@
             {
                 "lat": "43.1666666699999979073254507966339588165283203125",
                 "lng": "-2.166666670000000127771500046947039663791656494140625",
-                "name": "guip\u00fazcoa",
+                "name": "guipúzcoa",
                 "synonyms": [
-                    "t\u00e1mara"
+                    "támara"
                 ]
             },
             {
@@ -45941,7 +45700,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "palmera"
                 ]
@@ -46356,7 +46115,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "plantas"
                 ]
@@ -46372,7 +46131,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "plantas"
                 ]
@@ -46727,7 +46486,7 @@
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
                     "plato"
                 ]
@@ -46743,7 +46502,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "plato"
                 ]
@@ -46751,7 +46510,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "plato"
                 ]
@@ -46759,7 +46518,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "plato"
                 ]
@@ -46847,9 +46606,9 @@
             }
         ]
     },
-    "pommecyth\u00e8re": {
+    "pommecythère": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Starr_980529-4218_Spondias_dulcis.jpg/220px-Starr_980529-4218_Spondias_dulcis.jpg",
-        "key": "pommecyth\u00e8re",
+        "key": "pommecythère",
         "places": []
     },
     "pommerac": {
@@ -47127,7 +46886,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "damasco"
                 ]
@@ -47488,7 +47247,7 @@
                 "lng": "-101.262777779999993299497873522341251373291015625",
                 "name": "guanajuato",
                 "synonyms": [
-                    "capul\u00edn"
+                    "capulín"
                 ]
             },
             {
@@ -47496,7 +47255,7 @@
                 "lng": "-98.16083333000000266110873781144618988037109375",
                 "name": "tlaxcala",
                 "synonyms": [
-                    "capul\u00edn"
+                    "capulín"
                 ]
             }
         ]
@@ -47665,7 +47424,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "granada"
                 ]
@@ -47673,7 +47432,7 @@
             {
                 "lat": "39.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_c\u00e1ceres",
+                "name": "provincia_de_cáceres",
                 "synonyms": [
                     "granada"
                 ]
@@ -47681,7 +47440,7 @@
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
                     "granada"
                 ]
@@ -47689,7 +47448,7 @@
             {
                 "lat": "38",
                 "lng": "-4.8333333300000003163177098031155765056610107421875",
-                "name": "provincia_de_c\u00f3rdoba_(espa\u00f1a)",
+                "name": "provincia_de_córdoba_(españa)",
                 "synonyms": [
                     "granada"
                 ]
@@ -47722,7 +47481,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "granada"
                 ]
@@ -47730,7 +47489,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "granada"
                 ]
@@ -47738,7 +47497,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "granada"
                 ]
@@ -48184,7 +47943,7 @@
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
                     "quince",
                     "quince"
@@ -48760,7 +48519,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "grosellero",
                     "parrilla"
@@ -50030,7 +49789,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "rosa"
                 ]
@@ -72013,7 +71772,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "salas"
                 ]
@@ -75303,7 +75062,7 @@
                 "lng": "-90.4033333299999952714642859064042568206787109375",
                 "name": "campeche",
                 "synonyms": [
-                    "guan\u00e1bana"
+                    "guanábana"
                 ]
             },
             {
@@ -75311,7 +75070,7 @@
                 "lng": "-92.5888888900000068815643317066133022308349609375",
                 "name": "tabasco",
                 "synonyms": [
-                    "guan\u00e1bana"
+                    "guanábana"
                 ]
             }
         ]
@@ -77280,7 +77039,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "tomate"
                 ]
@@ -78254,7 +78013,7 @@
             {
                 "lat": "42.8333333300000020926745492033660411834716796875",
                 "lng": "-2.75",
-                "name": "\u00e1lava",
+                "name": "álava",
                 "synonyms": [
                     "tres"
                 ]
@@ -78278,7 +78037,7 @@
             {
                 "lat": "37.1666666699999979073254507966339588165283203125",
                 "lng": "-2.333333329999999872228499953052960336208343505859375",
-                "name": "provincia_de_almer\u00eda",
+                "name": "provincia_de_almería",
                 "synonyms": [
                     "tres"
                 ]
@@ -78294,7 +78053,7 @@
             {
                 "lat": "40.61609167000000297775841318070888519287109375",
                 "lng": "-4.92903056000000017178308553411625325679779052734375",
-                "name": "provincia_de_\u00e1vila",
+                "name": "provincia_de_ávila",
                 "synonyms": [
                     "tres"
                 ]
@@ -78326,7 +78085,7 @@
             {
                 "lat": "39.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_c\u00e1ceres",
+                "name": "provincia_de_cáceres",
                 "synonyms": [
                     "tres"
                 ]
@@ -78334,7 +78093,7 @@
             {
                 "lat": "36.5",
                 "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
+                "name": "provincia_de_cádiz",
                 "synonyms": [
                     "tres"
                 ]
@@ -78350,7 +78109,7 @@
             {
                 "lat": "40.1666666699999979073254507966339588165283203125",
                 "lng": "-0.1666666699999999889936219688024721108376979827880859375",
-                "name": "provincia_de_castell\u00f3n",
+                "name": "provincia_de_castellón",
                 "synonyms": [
                     "tres"
                 ]
@@ -78366,7 +78125,7 @@
             {
                 "lat": "38",
                 "lng": "-4.8333333300000003163177098031155765056610107421875",
-                "name": "provincia_de_c\u00f3rdoba_(espa\u00f1a)",
+                "name": "provincia_de_córdoba_(españa)",
                 "synonyms": [
                     "tres"
                 ]
@@ -78374,7 +78133,7 @@
             {
                 "lat": "43.36999999999999744204615126363933086395263671875",
                 "lng": "-8.4000000000000003552713678800500929355621337890625",
-                "name": "provincia_de_la_coru\u00f1a",
+                "name": "provincia_de_la_coruña",
                 "synonyms": [
                     "tres"
                 ]
@@ -78398,7 +78157,7 @@
             {
                 "lat": "43.1666666699999979073254507966339588165283203125",
                 "lng": "-2.166666670000000127771500046947039663791656494140625",
-                "name": "guip\u00fazcoa",
+                "name": "guipúzcoa",
                 "synonyms": [
                     "tres"
                 ]
@@ -78430,7 +78189,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "tres"
                 ]
@@ -78438,7 +78197,7 @@
             {
                 "lat": "42.6666666699999979073254507966339588165283203125",
                 "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
+                "name": "provincia_de_león",
                 "synonyms": [
                     "tres"
                 ]
@@ -78446,7 +78205,7 @@
             {
                 "lat": "42",
                 "lng": "1.1666666699999999057268951219157315790653228759765625",
-                "name": "provincia_de_l\u00e9rida",
+                "name": "provincia_de_lérida",
                 "synonyms": [
                     "tres"
                 ]
@@ -78462,7 +78221,7 @@
             {
                 "lat": "36.71666667000000217058186535723507404327392578125",
                 "lng": "-4.4166666699999996836822901968844234943389892578125",
-                "name": "provincia_de_m\u00e1laga",
+                "name": "provincia_de_málaga",
                 "synonyms": [
                     "tres"
                 ]
@@ -78470,7 +78229,7 @@
             {
                 "lat": "38",
                 "lng": "-1.8333333300000000942731048780842684209346771240234375",
-                "name": "regi\u00f3n_de_murcia",
+                "name": "región_de_murcia",
                 "synonyms": [
                     "tres"
                 ]
@@ -78510,7 +78269,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "tres"
                 ]
@@ -78894,9 +78653,9 @@
             }
         ]
     },
-    "t\u014dtara": {
+    "tōtara": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/PodocarpusTotara2.jpg/220px-PodocarpusTotara2.jpg",
-        "key": "t\u014dtara",
+        "key": "tōtara",
         "places": []
     },
     "uapaca kirkiana": {
@@ -79187,64 +78946,7 @@
     "united states": {
         "image": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
         "key": "united states",
-        "places": [
-            {
-                "lat": "38.5",
-                "lng": "-0.5",
-                "name": "provincia_de_alicante",
-                "synonyms": [
-                    "usa"
-                ]
-            },
-            {
-                "lat": "36.5",
-                "lng": "-5.75",
-                "name": "provincia_de_c\u00e1diz",
-                "synonyms": [
-                    "estados unidos"
-                ]
-            },
-            {
-                "lat": "37.6666666699999979073254507966339588165283203125",
-                "lng": "-7",
-                "name": "provincia_de_huelva",
-                "synonyms": [
-                    "estados unidos"
-                ]
-            },
-            {
-                "lat": "42.6666666699999979073254507966339588165283203125",
-                "lng": "-6",
-                "name": "provincia_de_le\u00f3n",
-                "synonyms": [
-                    "usa"
-                ]
-            },
-            {
-                "lat": "41.5833333300000020926745492033660411834716796875",
-                "lng": "-4.6666666699999996836822901968844234943389892578125",
-                "name": "provincia_de_valladolid",
-                "synonyms": [
-                    "usa"
-                ]
-            },
-            {
-                "lat": "35.8866670000000027584974304772913455963134765625",
-                "lng": "-5.29999999999999982236431605997495353221893310546875",
-                "name": "ceuta",
-                "synonyms": [
-                    "usa"
-                ]
-            },
-            {
-                "lat": "35.282499999999998863131622783839702606201171875",
-                "lng": "-2.9474999999999997868371792719699442386627197265625",
-                "name": "melilla",
-                "synonyms": [
-                    "usa"
-                ]
-            }
-        ]
+        "places": []
     },
     "university of hyderabad": {
         "image": "http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Hyderabad_Logo.png/180px-University_of_Hyderabad_Logo.png",
@@ -79475,7 +79177,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "vid"
                 ]
@@ -79491,7 +79193,7 @@
             {
                 "lat": "42.25",
                 "lng": "-2.5",
-                "name": "la_rioja_(espa\u00f1a)",
+                "name": "la_rioja_(españa)",
                 "synonyms": [
                     "vid"
                 ]
@@ -89466,7 +89168,7 @@
             {
                 "lat": "38",
                 "lng": "-3.5",
-                "name": "provincia_de_ja\u00e9n_(espa\u00f1a)",
+                "name": "provincia_de_jaén_(españa)",
                 "synonyms": [
                     "rock"
                 ]
@@ -90059,9 +89761,9 @@
         "key": "ximenia americana",
         "places": []
     },
-    "yac\u00f3n": {
+    "yacón": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Yacon.jpg/220px-Yacon.jpg",
-        "key": "yac\u00f3n",
+        "key": "yacón",
         "places": []
     },
     "yam vegetable": {
@@ -90149,9 +89851,9 @@
         "key": "zwetschge",
         "places": []
     },
-    "\u00d7 sorbopyrus auricularis": {
+    "× sorbopyrus auricularis": {
         "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shipova_fruit.jpg/220px-Shipova_fruit.jpg",
-        "key": "\u00d7 sorbopyrus auricularis",
+        "key": "× sorbopyrus auricularis",
         "places": []
     }
 }

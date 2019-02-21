@@ -81,7 +81,8 @@ clean_file_list([
 	'Latin America',
 	'India',
 	'Eating',
-	'Subarctic'
+	'Subarctic',
+    'Central America',
 	])
 
 
