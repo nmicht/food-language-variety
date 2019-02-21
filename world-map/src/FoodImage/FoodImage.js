@@ -4,7 +4,7 @@ import './FoodImage.css';
 export default function FoodImage(props) {
   const isSelected = props.selected === props.alt;
   return (
-    <li className={'FoodImage' + isSelected ? 'selected' : ''}>
+    <li className={isSelected ? 'selected' : ''}>
       <img
         src={props.link}
         alt={props.alt}

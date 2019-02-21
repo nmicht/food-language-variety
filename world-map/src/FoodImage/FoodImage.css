@@ -1,13 +1,13 @@
-/* .FoodImage li {
+li {
   list-style-type: none;
   display: inline-block;
   margin: 1em;
 }
 
-.FoodImage .selected {
+.selected {
   border: 1px solid red;
 }
 
-.FoodImage img {
+img {
   width: 100px;
-} */
+}

@@ -19,7 +19,7 @@ class App extends Component {
       all: {}
     };
     this.state = {
-      selectedFood: 'ALMOND',
+      selectedFood: 'almond',
       places: [],
       loading: true,
     };
