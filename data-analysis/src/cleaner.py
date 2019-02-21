@@ -1,16 +1,13 @@
 
 
-
-
 def clean_file_list(filenames, keys_to_remove):
-
 	for filename in filenames:
 		with open(filename, 'r+') as f:
 			lines = f.readlines()
 			lines_to_keep = lines
 
 			print(len(lines_to_keep))
-			
+
 			for key in keys_to_remove:
 				lines_to_keep = [line for line in lines_to_keep if no_listed_key_at_line_start(keys_to_remove, line)]
 
@@ -19,7 +16,7 @@ def clean_file_list(filenames, keys_to_remove):
 			f.seek(0)
 			f.write("".join(lines_to_keep))
 			f.truncate()
-	
+
 
 def no_listed_key_at_line_start(list_of_keys, line):
 	for key in list_of_keys:
@@ -29,7 +26,6 @@ def no_listed_key_at_line_start(list_of_keys, line):
 
 
 def remove_single_synonyms_from_file(filename):
-
 	with open(filename, 'r+') as f:
 		lines = f.readlines()
 
@@ -46,8 +42,7 @@ def remove_single_synonyms_from_file(filename):
 			else:
 				# print('about to keep ' + "".join(lines_to_keep[i:i+5]))
 				i += 5
-			
-		
+
 		f.seek(0)
 		f.write("".join(lines_to_keep))
 		f.truncate()
@@ -59,15 +54,15 @@ clean_file_list([
 	'./data/veggies_in_es_counties.txt',
 	'./data/veggies_in_uk_counties.txt',
 	'./data/veggies_in_mx_counties.txt'
-	], 
+	],
 	[
 	'asia',
 	'United States',
 	'Santa Barbara County',
 	'Genus',
 	'africa',
-	'cuisine', 
-	'americas', 
+	'cuisine',
+	'americas',
 	'family (biology)',
 	'Mediterranean',
 	'Neolithic',

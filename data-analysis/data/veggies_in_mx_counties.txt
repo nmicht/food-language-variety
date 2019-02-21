@@ -1,5 +1,3 @@
-
-
 AGUASCALIENTES
 22.021666669999998333651092252694070339202880859375, -102.35638889000000517626176588237285614013671875
 Nopal	["Nopal"]
@@ -8,95 +6,68 @@ Avocado	["aguacate", "aguacate"]
 Azuki bean	["frijol"]
 Nopal	["nopal"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
 
 
 BAJA_CALIFORNIA
 29.949999999999999289457264239899814128875732421875, -115.116666670000000749496393837034702301025390625
-Santa Barbara County	["California"]
-United States	["Estados Unidos"]
 
 
 BAJA_CALIFORNIA_SUR
 25.846111109999998944886101526208221912384033203125, -111.9727777800000012575765140354633331298828125
-Santa Barbara County	["California"]
-United States	["Estados Unidos"]
 
 
 CAMPECHE
 18.836388889999998497160049737431108951568603515625, -90.4033333299999952714642859064042568206787109375
-Botanical	["s"]
 Chaya plant	["chaya"]
 Fruit	["fruit"]
 Pea	["pea"]
-Santa Barbara County	["California"]
-United States	["USA"]
 Avocado	["aguacate", "aguacate"]
 Fruit	["Fruit"]
-Genus	["género"]
 Momordica charantia	["ku"]
 Ulluco	["lisa"]
-United States	["Estados Unidos"]
 
 
 CHIAPAS
 16.410000000000000142108547152020037174224853515625, -92.4086111099999953921724227257072925567626953125
-Botanical	["s"]
 Chayote	["Chayote"]
-Genus	["genera"]
 Avocado	["aguacate", "aguacate"]
 Azuki bean	["frijol"]
 Chayote	["chayote"]
 Phaseolus vulgaris	["frijol"]
 Ulluco	["lisa"]
-United States	["Estados Unidos"]
 
 
 MEXICO_CITY
 19.41944443999999947436663205735385417938232421875, -99.1455555600000053573239711113274097442626953125
-Botanical	["s"]
 Carrot	["carrot"]
-United States	["USA", "U.S."]
-Genus	["género"]
-United States	["Estados Unidos"]
 Vicia faba	["haba"]
 
 
 COAHUILA
 27.302222220000000874051693244837224483489990234375, -102.0447222199999970371209201402962207794189453125
-Santa Barbara County	["California"]
 Avocado	["aguacate", "aguacate"]
 Chenopodium album	["cenizo"]
-United States	["Estados Unidos", "Estados Unidos de América"]
 
 
 COLIMA
 19.096666670000001175822035293094813823699951171875, -103.9608333299999998189377947710454463958740234375
-Botanical	["s"]
 Azuki bean	["frijol"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
 
 
 DURANGO
 24.934722220000001158268787548877298831939697265625, -104.9119444399999991901495377533137798309326171875
-Genus	["genera"]
-Santa Barbara County	["California"]
-United States	["Estados Unidos"]
 
 
 GUANAJUATO
 21.018888889999999491919879801571369171142578125, -101.262777779999993299497873522341251373291015625
-Botanical	["s"]
 Chickpea	["garbanzo"]
 Nopal	["Nopal"]
 Avocado	["aguacate", "aguacate"]
 Azuki bean	["frijol"]
 Broccoli	["brócoli"]
-Genus	["género"]
 Nopal	["nopal"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
 
 
 GUERRERO
@@ -105,140 +76,101 @@ None
 
 JALISCO
 20.566666670000000038953658076934516429901123046875, -103.67638888999999835505150258541107177734375
-Botanical	["s"]
 Chickpea	["garbanzo"]
-Santa Barbara County	["California"]
 Avocado	["aguacate", "aguacate"]
 Azuki bean	["frijol"]
 Cereal	["cereales"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos", "Estados Unidos de América"]
 Vicia faba	["haba"]
 
 
 MORELOS
 18.747499999999998721023075631819665431976318359375, -99.070277779999997846971382386982440948486328125
-Botanical	["s"]
 Nopal	["Nopal"]
 Avocado	["aguacate", "aguacate"]
 Azuki bean	["frijol"]
 Nopal	["nopal"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
-Vegetable	["Venerable"]
 
 
 NAYARIT
 21.74388889000000091300535132177174091339111328125, -105.22833332999999811363522894680500030517578125
-Botanical	["s"]
 Nopal	["Nopal"]
-Santa Barbara County	["California"]
 Avocado	["aguacate", "aguacate"]
 Azuki bean	["frijol"]
-Genus	["género"]
 Jícama	["jícama"]
 Nopal	["nopal"]
 Phaseolus vulgaris	["frijol"]
 Ulluco	["lisa"]
-United States	["Estados Unidos"]
 
 
 OAXACA
 16.898055559999999530873537878505885601043701171875, -96.4141666700000001810622052289545536041259765625
-Botanical	["s"]
 Nopal	["Nopal"]
-Santa Barbara County	["California"]
-United States	["USA"]
 Avocado	["aguacate", "aguacate"]
 Celosia argentea	["penacho"]
 Cereal	["cereales"]
 Nopal	["nopal"]
-United States	["Estados Unidos"]
 
 
 PUEBLA
 19.00361111000000136073140311054885387420654296875, -97.888333329999994703030097298324108123779296875
 Cereal	["cereal"]
-Genus	["genera"]
 Nopal	["Nopal"]
-Santa Barbara County	["California"]
-United States	["USA"]
 Azuki bean	["frijol"]
 Cereal	["cereales"]
 Nopal	["nopal"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
 
 
 QUINTANA_ROO
 19.60000000000000142108547152020037174224853515625, -87.9166666699999979073254507966339588165283203125
-Santa Barbara County	["California"]
 Ulluco	["lisa"]
-United States	["Estados Unidos"]
 
 
 SINALOA
 25.002777779999998841731212451122701168060302734375, -107.502777780000002394444891251623630523681640625
-Botanical	["s"]
 Chickpea	["garbanzo"]
-Santa Barbara County	["California"]
 Azuki bean	["frijol"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
 
 
 SONORA
 29.64611110999999965542883728630840778350830078125, -110.8688888899999938075779937207698822021484375
-Santa Barbara County	["California"]
-Genus	["género"]
-United States	["Estados Unidos", "Estados Unidos de América"]
 
 
 TABASCO
 17.97222221999999902664058026857674121856689453125, -92.5888888900000068815643317066133022308349609375
-Botanical	["s"]
 Chaya plant	["chaya"]
 Azuki bean	["frijol"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
 
 
 TAMAULIPAS
 24.287222220000000305617504636757075786590576171875, -98.563333330000006071713869459927082061767578125
-United States	["USA"]
-Genus	["género"]
 Ulluco	["lisa"]
-United States	["Estados Unidos", "Estados Unidos de América"]
 
 
 TLAXCALA
 19.428888889999999634028426953591406345367431640625, -98.16083333000000266110873781144618988037109375
-Genus	["genera"]
-Santa Barbara County	["California"]
 Azuki bean	["frijol"]
 Cereal	["cereales"]
 Okra	["candia"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]
 Vicia faba	["haba"]
 
 
 VERACRUZ
 19.190277779999998841731212451122701168060302734375, -96.1533333299999952714642859064042568206787109375
 Ulluco	["lisa"]
-United States	["Estados Unidos"]
 
 
 ZACATECAS
 23.29277778000000154179360833950340747833251953125, -102.7005555599999979676795192062854766845703125
-Botanical	["s"]
 Nopal	["Nopal"]
 Pea	["pea"]
-United States	["USA"]
 Azuki bean	["frijol"]
 Cardoon	["Cardona"]
 Cereal	["cereales"]
-Genus	["género"]
 Nopal	["nopal", "tuna"]
 Phaseolus vulgaris	["frijol"]
-United States	["Estados Unidos"]

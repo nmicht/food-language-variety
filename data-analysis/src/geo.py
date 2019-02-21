@@ -11,12 +11,13 @@ def get_geo_articles(location_page_link, limit=100):
     return neighbors
 
 
-def get_places_from_file(filepath):
-    with open(filepath, 'r') as f:
+def list_places_from_file(filepath):
+    with open(filepath, 'r', encoding="utf-8") as f:
         lines = [line.strip() for line in f.readlines()]
     return lines
 
-def get_list_of_places(page, savepath = None):
+
+def save_list_of_places(page, savepath = None):
     if not savepath:
         savepath = './data/' + page.replace(' ', '_') + '.txt'
     outfile = open(savepath, 'w')
@@ -39,4 +40,7 @@ def get_list_of_places(page, savepath = None):
 
 
 if __name__ == '__main__':
-    print(get_list_of_places("Provinces of Spain"))
+    save_list_of_places("Provinces of Spain")
+    save_list_of_places("List of counties of the united kingdom")
+    save_list_of_places("List of states of mexico")
+    save_list_of_places("List of united states counties and county equivalents")

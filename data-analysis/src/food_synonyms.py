@@ -2,8 +2,7 @@ import wikipedia
 from bs4 import BeautifulSoup
 
 
-def get_food_synonyms(page_name, savepath):
-
+def save_food_synonyms(page_name, savepath):
     f = open(savepath, 'w')
 
     foods = wikipedia.page(page_name)
@@ -63,7 +62,6 @@ def get_image(article):
 
 
 def get_synonyms(article):
-
     soup = BeautifulSoup(article, 'html.parser')
     all_p = soup.find_all('p')
 
@@ -75,14 +73,6 @@ def get_synonyms(article):
             break
 
     return synonyms
-
-
-def get_spanish_page(article):
-    print('looking for spanish')
-    soup = BeautifulSoup(article, 'html.parser')
-    all_a = soup.find_all('a')
-    # if "espanol" in all_a.get_text():
-        # print('we found it')
 
 
 def list_from_file_old(filepath):
@@ -105,7 +95,7 @@ def list_from_file_old(filepath):
     return to_return
 
 
-def list_from_file(filepath):
+def list_synonyms_from_file(filepath):
     with open(filepath, 'r') as f:
         lines = f.readlines()
 
@@ -122,7 +112,23 @@ def list_from_file(filepath):
     return entries
 
 
+
+def get_synonyms_keys(filenames):
+	distribution = {}
+	for filename in filenames:
+
+		with open(filename, 'r') as f:
+			lines = f.readlines()
+
+		i = 0
+		while i < len(lines):
+			key = lines[i].strip().lower()
+			distribution[key] = lines[i+3].strip()
+			i += 5
+
+	return distribution
+
+
 if __name__ == '__main__':
-    #food_synonyms_en = get_food_synonyms("List of vegetables", "./data/all_vegetables_synonyms.txt")
-    food_synonyms_en = get_food_synonyms("List of culinary fruits", "./data/all_fruit_synonyms.txt")
-    # food_synonyms_es = get_food_synonyms("Lista de comidas")
+    veggies_synonyms_en = save_food_synonyms("List of vegetables", "./data/all_vegetables_synonyms.txt")
+    fruits_synonyms_en = save_food_synonyms("List of culinary fruits", "./data/all_fruit_synonyms.txt")
