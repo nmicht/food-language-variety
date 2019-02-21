@@ -6,10 +6,13 @@ def build_distribution_dict(foods, places_objs):
 
     for place in places_objs:
         for key, synonyms in place.foods.items():
+            synonyms = list(set(synonyms))
             key = key.lower()
             if key in distribution:
                 if len(place.coords.split(', ')) < 2:
                     place.coords = 'None, None'
+                    continue
+                place.name = " ".join([w.capitalize() for w in place.name.split('_')])
                 distribution[key]['places'].append({'name': place.name, 'lat': place.coords.split(', ')[0],
                     'lng': place.coords.split(', ')[1], 'synonyms': synonyms})
 
