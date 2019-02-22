@@ -17,7 +17,7 @@ class App extends Component {
       places: [],
       loading: true,
     };
-    this.jsonPath = '../distribution.json';
+    this.jsonPath = 'distribution.json';
   };
 
   componentDidMount = () => {
@@ -26,7 +26,8 @@ class App extends Component {
       .then((data) => {
         this.data.all = data
         console.log('original data', this.data.all);
-        this.data.all.sort(this.compareSynonymFrequency);
+        this.data.all.sort(this.comparePlaceFrequency);
+        // this.data.all.sort(this.compareSynonymFrequency);
         console.log('after sort', this.data.all);
         this.data.images = data.map((o) => {
           const n = {
@@ -86,7 +87,7 @@ class App extends Component {
          return response.json();
      })
      .catch(function () {
-         this.dataError = true;
+         throw new Error("File not available");
      })
   }
 
@@ -99,7 +100,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <header>
-          <h1>Food distribution</h1>
+          <h1>Food language variety visualization</h1>
         </header>
         <main>
           <aside>
@@ -111,6 +112,9 @@ class App extends Component {
           </aside>
           <WorldMap places={this.state.places} />
         </main>
+        <footer>
+          Made with 💖 by <a href="https://github.com/nmicht/">@nmicht</a> and <a href="https://github.com/jbrew/">@jbrew</a> at NYC
+        </footer>
       </React.Fragment>
     );
   }

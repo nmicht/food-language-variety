@@ -6,3 +6,9 @@ aside {
   flex: 1;
   height: 550px;
 }
+
+footer {
+  margin-top: 2em;
+  text-align: center;
+  font-style: italic;
+}

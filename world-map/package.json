@@ -1,8 +1,9 @@
 {
-  "name": "food-map",
+  "name": "food-language-variety",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "leaflet": "^1.4.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
@@ -14,7 +15,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "generate": "rc-autocomplete"
+    "generate": "rc-autocomplete",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +30,6 @@
   ],
   "devDependencies": {
     "react-autocomplete-cli": "0.0.3"
-  }
+  },
+  "homepage": "https://nmicht.github.io/food-language-variety/"
 }
