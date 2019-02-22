@@ -10,7 +10,7 @@ li {
   border: 2px solid red;
 }
 
-img {
+li img {
   width: 100px;
   height: 100px;
   object-fit: cover;
@@ -22,7 +22,7 @@ li:hover {
   transform: scale(1.5);
 }
 
-span {
+li span {
   display: block;
   font-size: 0.8em;
   font-style: italic;

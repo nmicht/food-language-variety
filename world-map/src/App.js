@@ -113,7 +113,9 @@ class App extends Component {
           <WorldMap places={this.state.places} />
         </main>
         <footer>
-          Made with 💖 by <a href="https://github.com/nmicht/">@nmicht</a> and <a href="https://github.com/jbrew/">@jbrew</a> at NYC
+          <p>Made with <span role="img" aria-label="love">💖</span> by <a href="https://github.com/nmicht/">@nmicht</a> and <a href="https://github.com/jbrew/">@jbrew</a> at NYC</p>
+          <p>Data obtained from Wikipedia. Project licensed under MIT.</p>
+          <p><a href="https://github.com/nmicht/food-language-variety">Fork from github</a></p>
         </footer>
       </React.Fragment>
     );
