@@ -1,0 +1,247 @@
+
+
+CITY_AND_DISTRICT_OF_ST_ALBANS
+('A', ['A'])
+('not', ['not'])
+('Western world', ['the West'])
+
+
+ST_ASAPH
+('Animals', ['Animals'])
+('Cattle', ['Cattle'])
+('International Standard Book Number', ['ISBN'])
+('Latin', ['Latin'])
+('A', ['A'])
+('not', ['not'])
+
+
+ST_DAVIDS
+('Culture', ['Culture'])
+('International Standard Book Number', ['ISBN'])
+('A', ['A'])
+('not', ['not'])
+('sea', ['sea'])
+('Water', ['Water'])
+
+
+CITY_OF_SALFORD
+('Agriculture', ['Agriculture'])
+('cell', ['cell'])
+('Culture', ['Culture'])
+('energy', ['energy'])
+('Food', ['Food'])
+('Latin', ['Latin'])
+('A', ['A'])
+('not', ['not'])
+('sea', ['sea'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+SALISBURY
+('Cattle', ['Cattle'])
+('Cheese', ['Cheese'])
+('Culture', ['Culture'])
+('Deer', ['Deer'])
+('Food', ['Food'])
+('Islam', ['Islam'])
+('A', ['A'])
+('Switzerland', ['cheese'])
+('not', ['not'])
+('Livestock', ['Livestock'])
+('Milk', ['Milk'])
+('Poultry', ['Poultry'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+CITY_OF_SHEFFIELD
+('cuisine', ['cuisine'])
+('Culture', ['Culture'])
+('Cuts', ['Cuts'])
+('Deer', ['Deer'])
+('energy', ['energy'])
+('Food', ['Food'])
+('A', ['A'])
+('list of cuisines', ['cuisine'])
+('not', ['not'])
+('Plants', ['Plants'])
+('restaurant', ['restaurant'])
+('sea', ['sea'])
+('spread', ['spread'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+SOUTHAMPTON
+('alcohol', ['alcohol'])
+('Culture', ['Culture'])
+('Dolphin', ['Dolphin'])
+('energy', ['energy'])
+('Food', ['Food'])
+('grain', ['grain'])
+('French', ['French'])
+('A', ['A'])
+('not', ['not'])
+('restaurant', ['restaurant'])
+('Salt', ['Salt'])
+('sea', ['sea', 'ocean'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+STIRLING
+('Agriculture', ['Agriculture'])
+('Animals', ['Animals'])
+('Cattle', ['Cattle', 'cows'])
+('Culture', ['Culture'])
+('Domestic sheep', ['sheep'])
+('International Standard Book Number', ['ISBN'])
+('Islam', ['Islam'])
+('Latin', ['Latin'])
+('A', ['A'])
+('not', ['not'])
+('Livestock', ['Livestock'])
+('sea', ['ocean'])
+('Thai salads', ['tam'])
+('Western world', ['the West'])
+
+
+STOKE-ON-TRENT
+('Bread', ['Bread'])
+('Candy', ['Candy'])
+('Capsicum', ['pepper'])
+('cat', ['cat'])
+('Culture', ['Culture'])
+('dairy', ['dairy'])
+('Duck', ['Duck'])
+('duck', ['duck'])
+('energy', ['energy'])
+('Food', ['Food'])
+('French', ['French'])
+('A', ['A'])
+('not', ['not'])
+('Monkey', ['Monkey'])
+('Pizza', ['Pizza'])
+('sea', ['sea'])
+('stew', ['stew'])
+('Stock', ['Stock'])
+('Sugar', ['Sugar'])
+('The Boston Globe', ['The Globe'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+CITY_OF_SUNDERLAND
+('Culture', ['Culture'])
+('A', ['A'])
+('not', ['not'])
+('sea', ['ocean'])
+
+
+SWANSEA
+('Culture', ['Culture'])
+('Fish', ['Fish'])
+('fish', ['fish'])
+('Food', ['Food'])
+('horse', ['horse'])
+('A', ['A'])
+('not', ['not'])
+('Lamb', ['Lamb'])
+('Plants', ['Plants'])
+('Reptiles', ['Reptiles'])
+('restaurant', ['restaurant'])
+('Salt', ['Salt'])
+('sea', ['sea'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+TRURO
+('Culture', ['Culture'])
+('Food', ['Food'])
+('lemon', ['lemon'])
+('A', ['A'])
+('not', ['not'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+CITY_OF_WAKEFIELD
+('A', ['A'])
+('Stock', ['Stock'])
+('Western world', ['the West'])
+
+
+WELLS_SOMERSET
+
+
+CITY_OF_WESTMINSTER
+('International Standard Book Number', ['ISBN'])
+('A', ['A'])
+('not', ['not'])
+('The Boston Globe', ['The Globe'])
+('Western world', ['the West'])
+
+
+CITY_OF_WINCHESTER
+('A', ['A'])
+
+
+WOLVERHAMPTON
+('Culture', ['Culture'])
+('Food', ['Food'])
+('horse', ['horse'])
+('Islam', ['Islam'])
+('lemon', ['lemon'])
+('A', ['A'])
+('not', ['not'])
+('potato', ['potato'])
+('restaurant', ['restaurant'])
+('sea', ['sea'])
+('staple food', ['staple'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+WORCESTER
+('Bread', ['Bread'])
+('Cattle', ['Cattle'])
+('Culture', ['Culture'])
+('French', ['French'])
+('horse', ['horse'])
+('International Standard Book Number', ['ISBN'])
+('Latin', ['Latin'])
+('A', ['A'])
+('not', ['not'])
+('Livestock', ['Livestock'])
+('sauce', ['sauce'])
+('Water', ['Water'])
+('Western world', ['the West'])
+
+
+CITY_OF_YORK
+('Agriculture', ['Agriculture'])
+('Barley', ['Barley'])
+('drink', ['drink'])
+('Bread', ['Bread'])
+('Candy', ['confectionery'])
+('Chocolate', ['Chocolate'])
+('Confectionery', ['Confectionery'])
+('Culture', ['Culture'])
+('Fish', ['Fish'])
+('fish', ['fish'])
+('Food', ['Food'])
+('grain', ['grain'])
+('French', ['French'])
+('horse', ['horse'])
+('Hungarian', ['Hungarian'])
+('A', ['A'])
+('not', ['not'])
+('Meat', ['Meat'])
+('Merriam-Webster', ['Inc.'])
+('orange', ['orange'])
+('root', ['root'])
+('sauce', ['sauce'])
+('Sugar', ['Sugar'])
+('Water', ['Water'])

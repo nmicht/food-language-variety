@@ -1,0 +1,582 @@
+AVON_(COUNTY)
+None
+
+
+BEDFORDSHIRE
+52.0833333300000020926745492033660411834716796875, -0.41666667000000001674919758443138562142848968505859375
+Dacryodes edulis	["African"]
+Date (fruit)	["date"]
+Honeydew melon	["winter"]
+Phoenix dactylifera	["date"]
+Rubiaceae	["coffee"]
+Safou	["African"]
+Vitis rupestris	["July"]
+
+
+BERKSHIRE
+51.4166666699999979073254507966339588165283203125, -1
+Black mulberry	["blackberry"]
+Blackberry	["blackberry"]
+Crowberry	["blackberry"]
+Manoao	["pine"]
+Orange (fruit)	["orange"]
+Sweet orange	["orange"]
+Vitis rupestris	["July"]
+Blackberry	["BlackBerry"]
+
+
+BRISTOL
+51.4500000000000028421709430404007434844970703125, -2.583333329999999872228499953052960336208343505859375
+Apple	["apple", "apple tree"]
+Apple (fruit)	["apple", "apple tree"]
+Dacryodes edulis	["African"]
+Date (fruit)	["date"]
+Elderberry	["elder"]
+Food	["Food"]
+Honeydew melon	["winter"]
+Malus	["Apple"]
+Mangifera caesia	["jack"]
+Phoenix dactylifera	["date"]
+Safou	["African"]
+Sambucus	["elder"]
+Tree	["tree"]
+Vitis rupestris	["July", "sugar", "beach", "rock"]
+Jackfruit	["jack"]
+
+
+BUCKINGHAMSHIRE
+51.8333333300000020926745492033660411834716796875, -0.83333332999999998325080241556861437857151031494140625
+Date (fruit)	["date"]
+Phoenix dactylifera	["date"]
+Tree	["tree"]
+Vitis rupestris	["sand"]
+
+
+CAMBRIDGESHIRE
+52.3333333300000020926745492033660411834716796875, 0
+Cherry	["cherry"]
+Honeydew melon	["winter"]
+
+
+CAMBRIDGESHIRE_AND_ISLE_OF_ELY
+52.21666667000000217058186535723507404327392578125, 0.1000000000000000055511151231257827021181583404541015625
+
+
+CHESHIRE
+53.1666666699999979073254507966339588165283203125, -2.583333329999999872228499953052960336208343505859375
+Elderberry	["elder"]
+Food	["Food"]
+Lime (fruit)	["lime"]
+Orange (fruit)	["orange"]
+Sambucus	["elder"]
+Sweet orange	["orange"]
+Vitis rupestris	["July"]
+
+
+CORNWALL
+50.39999999999999857891452847979962825775146484375, -4.9000000000000003552713678800500929355621337890625
+Apple	["apple"]
+Apple (fruit)	["apple"]
+Black mulberry	["blackberry"]
+Blackberry	["blackberry"]
+Crowberry	["blackberry"]
+Date (fruit)	["date"]
+Ericaceae	["heath"]
+Food	["Food"]
+Malus	["Apple"]
+Mangifera caesia	["jack"]
+Phoenix dactylifera	["date"]
+Sweet pepper	["pepper"]
+Vitis rupestris	["July", "sand", "beach", "rock"]
+Blackberry	["BlackBerry"]
+Jackfruit	["jack"]
+
+
+CUMBERLAND
+54.75, -3
+
+
+CUMBRIA
+54.5, -3.25
+Davidsonia	["Davidson"]
+Food	["Food"]
+Rose	["rose"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+DERBYSHIRE
+53.133333329999999250503606162965297698974609375, -1.600000000000000088817841970012523233890533447265625
+Crowberry	["Empetrum nigrum", "crowberry"]
+Date (fruit)	["date"]
+Empetrum	["Empetrum"]
+Ericaceae	["heather"]
+Lime (fruit)	["lime"]
+Phoenix dactylifera	["date"]
+Rose	["rose"]
+Rubus	["Rubus"]
+Vaccinium	["Vaccinium"]
+Vitis rupestris	["rock"]
+Empetrum	["Empetrum"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+DEVON
+50.71666667000000217058186535723507404327392578125, -3.716666669999999950135816106921993196010589599609375
+Berry	["berry"]
+Berry (botany)	["berry"]
+Food	["Food"]
+Honeydew melon	["winter"]
+Mangifera caesia	["jack"]
+Orange (fruit)	["orange"]
+Sweet orange	["orange"]
+Vitis rupestris	["rock"]
+Jackfruit	["jack"]
+
+
+DORSET
+50.7999999999999971578290569595992565155029296875, -2.29999999999999982236431605997495353221893310546875
+Elderberry	["elder"]
+Ericaceae	["heath"]
+Food	["Food"]
+Honeydew melon	["winter"]
+Sambucus	["elder"]
+Tree	["tree"]
+Vitis rupestris	["sand", "beach", "rock"]
+
+
+COUNTY_DURHAM
+54.6666666699999979073254507966339588165283203125, -1.8333333300000000942731048780842684209346771240234375
+Date (fruit)	["date"]
+Phoenix dactylifera	["date"]
+Vitis rupestris	["July", "rock"]
+
+
+EAST_SUFFOLK_(COUNTY)
+52.2000000000000028421709430404007434844970703125, 1.25
+
+
+EAST_SUSSEX
+50.9166666699999979073254507966339588165283203125, 0.33333332999999998325080241556861437857151031494140625
+Ericaceae	["heath"]
+Shrub	["shrub"]
+Vitis rupestris	["beach"]
+
+
+ESSEX
+51.75, 0.58333332999999998325080241556861437857151031494140625
+Date (fruit)	["date"]
+Phoenix dactylifera	["date"]
+Rose	["rose"]
+
+
+GLOUCESTERSHIRE
+51.8333333300000020926745492033660411834716796875, -2.166666670000000127771500046947039663791656494140625
+Vitis rupestris	["July"]
+
+
+GREATER_LONDON
+51.5, -0.08333332999999999712859022338307113386690616607666015625
+Dacryodes edulis	["African"]
+Date (fruit)	["date"]
+Phoenix dactylifera	["date"]
+Rose	["rose"]
+Safou	["African"]
+
+
+GREATER_MANCHESTER
+53.5, -2.316666670000000038953658076934516429901123046875
+Coconut	["coconut"]
+Cucurbita	["squash"]
+Ericaceae	["heather"]
+Food	["Food"]
+Raspberry	["raspberry"]
+Vitis rupestris	["July", "sugar", "rock"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+HAMPSHIRE
+51.0576999999999969759301166050136089324951171875, -1.308100000000000040500935938325710594654083251953125
+Rose	["rose"]
+Vitis rupestris	["July", "sand", "sugar", "rock"]
+
+
+HEREFORD_AND_WORCESTER
+None
+
+
+HEREFORDSHIRE
+52.0833333300000020926745492033660411834716796875, -2.75
+Apple	["apple"]
+Apple (fruit)	["apple"]
+Date (fruit)	["date"]
+Fruit	["fruit"]
+Malus	["Apple"]
+Pear	["pear"]
+Phoenix dactylifera	["date"]
+Pyrus	["pear"]
+Vitis rupestris	["July"]
+Fruit	["Fruit"]
+
+
+HERTFORDSHIRE
+51.81666666999999648623997927643358707427978515625, -0.216666670000000005646967338179820217192173004150390625
+Elderberry	["elder"]
+Ericaceae	["heath"]
+Lime (fruit)	["lime"]
+Mangifera caesia	["jack"]
+Rose	["rose"]
+Sambucus	["elder"]
+Vitis rupestris	["sand", "rock"]
+Jackfruit	["jack"]
+
+
+HUMBERSIDE
+None
+Vitis rupestris	["July"]
+
+
+HUNTINGDON_AND_PETERBOROUGH
+52.35000000000000142108547152020037174224853515625, -0.1832999999999999907185355141336913220584392547607421875
+Date (fruit)	["date"]
+Phoenix dactylifera	["date"]
+
+
+HUNTINGDONSHIRE
+52.4166666699999979073254507966339588165283203125, -0.25
+Vitis rupestris	["July"]
+
+
+ISLE_OF_ELY
+52.39999999999999857891452847979962825775146484375, 0.25833333000000002765972340057487599551677703857421875
+Food	["Food"]
+Vitis rupestris	["July"]
+
+
+ISLE_OF_WIGHT
+50.6666666699999979073254507966339588165283203125, -1.2666666699999999945447370919282548129558563232421875
+Date (fruit)	["date"]
+Honeydew melon	["winter"]
+Manoao	["Westland"]
+Phoenix dactylifera	["date"]
+Rose	["rose"]
+Tree	["tree"]
+Vitis rupestris	["July", "beach", "rock"]
+Vitis labrusca	["Isabella"]
+
+
+KENT
+51.2000000000000028421709430404007434844970703125, 0.6999999999999999555910790149937383830547332763671875
+Ericaceae	["heath"]
+Fruit	["fruit"]
+Mangifera caesia	["jack"]
+Fruit	["Fruit"]
+Jackfruit	["jack"]
+
+
+LANCASHIRE
+53.7999999999999971578290569595992565155029296875, -2.600000000000000088817841970012523233890533447265625
+Ficus	["figs"]
+Food	["Food"]
+Lemon	["lemon"]
+Rose	["rose"]
+Vitis rupestris	["sugar", "rock"]
+
+
+LEICESTERSHIRE
+52.71666667000000217058186535723507404327392578125, -1.183333329999999961046341923065483570098876953125
+Food	["Food"]
+Fruit	["fruit"]
+Prunus spinosa	["sloe"]
+Vitis rupestris	["sand", "rock"]
+Fruit	["Fruit"]
+
+
+LINCOLNSHIRE
+53.06666666999999648623997927643358707427978515625, -0.1833333299999999888019175386943970806896686553955078125
+Dacryodes edulis	["plum"]
+Ericaceae	["heath"]
+Food	["Food"]
+Fruit	["fruit"]
+Plum	["plum"]
+Safou	["plum"]
+Sweet pepper	["pepper"]
+Vitis rupestris	["July", "sugar"]
+Fruit	["Fruit"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+KESTEVEN
+52.91669999999999873807610129006206989288330078125, -0.6332999999999999740651901447563432157039642333984375
+Tree	["tree"]
+
+
+PARTS_OF_LINDSEY
+53.433300000000002683009370230138301849365234375, -0.25
+
+
+COUNTY_OF_LONDON
+51.515500000000002955857780762016773223876953125, -0.092200000000000004174438572590588591992855072021484375
+Ericaceae	["heath"]
+
+
+CITY_OF_LONDON
+None
+Date (fruit)	["date"]
+Ericaceae	["heath"]
+Food	["Food"]
+Lime (fruit)	["lime"]
+Phoenix dactylifera	["date"]
+Rubiaceae	["coffee"]
+Vitis rupestris	["July"]
+
+
+MERSEYSIDE
+53.4166666699999979073254507966339588165283203125, -3
+
+
+MIDDLESEX
+51.5, -0.41666667000000001674919758443138562142848968505859375
+Ericaceae	["heath"]
+Vitis rupestris	["July"]
+
+
+NORFOLK
+52.6666666699999979073254507966339588165283203125, 1
+Davidsonia	["Davidson"]
+Food	["Food"]
+Vitis rupestris	["sugar", "beach", "rock"]
+
+
+NORTHAMPTONSHIRE
+52.28333332999999782941813464276492595672607421875, -0.83333332999999998325080241556861437857151031494140625
+Elderberry	["elder"]
+Mangifera caesia	["jack"]
+Rose	["rose"]
+Sambucus	["elder"]
+Vitis rupestris	["July", "rock"]
+Jackfruit	["jack"]
+
+
+NORTHUMBERLAND
+55.1666666699999979073254507966339588165283203125, -2
+Mangifera caesia	["jack"]
+Vitis rupestris	["rock"]
+Jackfruit	["jack"]
+
+
+NORTH_HUMBERSIDE
+53.92699999999999960209606797434389591217041015625, -0.47099999999999997424282582869636826217174530029296875
+Vitis rupestris	["July"]
+
+
+NORTH_YORKSHIRE
+54.1666666699999979073254507966339588165283203125, -1.3333333300000000942731048780842684209346771240234375
+Honeydew melon	["winter"]
+Vitis rupestris	["July", "rock"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+NOTTINGHAMSHIRE
+53.1666666699999979073254507966339588165283203125, -1
+
+
+OXFORDSHIRE
+51.75, -1.2800000000000000266453525910037569701671600341796875
+
+
+SOKE_OF_PETERBOROUGH
+52.58330000000000126192389870993793010711669921875, -0.25
+
+
+RUTLAND
+52.64999999999999857891452847979962825775146484375, -0.63333333000000002765972340057487599551677703857421875
+Vitis rupestris	["July", "sand", "rock"]
+Vitis labrusca	["Isabella"]
+
+
+SHROPSHIRE
+52.616666670000000749496393837034702301025390625, -2.716666669999999950135816106921993196010589599609375
+Date (fruit)	["date"]
+Honeydew melon	["winter"]
+Mangifera caesia	["jack"]
+Manoao	["pine"]
+Orange (fruit)	["orange"]
+Phoenix dactylifera	["date"]
+Sweet orange	["orange"]
+Vitis rupestris	["July", "sand"]
+Jackfruit	["jack"]
+
+
+SOMERSET
+51.10000000000000142108547152020037174224853515625, -2.899999999999999911182158029987476766109466552734375
+Apple	["apple"]
+Apple (fruit)	["apple"]
+Food	["Food"]
+Fruit	["fruit"]
+Honeydew melon	["winter"]
+Lime (fruit)	["lime"]
+Malus	["Apple"]
+Manoao	["Westland"]
+Prunus spinosa	["blackthorn"]
+Tree	["tree"]
+Vitis rupestris	["July", "sand", "rock"]
+Fruit	["Fruit"]
+
+
+SOUTH_HUMBERSIDE
+53.60000000000000142108547152020037174224853515625, -0.5
+Vitis rupestris	["July"]
+
+
+SOUTH_YORKSHIRE
+53.5, -1.3333333300000000942731048780842684209346771240234375
+Honeydew melon	["winter"]
+Vitis rupestris	["rock"]
+
+
+STAFFORDSHIRE
+52.8333333300000020926745492033660411834716796875, -2
+Vitis rupestris	["July", "rock"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+SUFFOLK
+52.1666666699999979073254507966339588165283203125, 1
+Ericaceae	["heath"]
+Honeydew melon	["winter"]
+Vitis rupestris	["sand", "sugar"]
+
+
+SURREY
+51.25, -0.41666667000000001674919758443138562142848968505859375
+Cherry	["cherry"]
+Date (fruit)	["date"]
+Elderberry	["elder"]
+Ericaceae	["heath"]
+Phoenix dactylifera	["date"]
+Rose	["rose"]
+Sambucus	["elder"]
+Vitis rupestris	["July", "rock"]
+
+
+SUSSEX
+51, 0
+Dacryodes edulis	["plum"]
+Date (fruit)	["date"]
+Ericaceae	["heath"]
+Honeydew melon	["winter"]
+Mangifera caesia	["jack"]
+Phoenix dactylifera	["date"]
+Plum	["plum"]
+Rose	["rose"]
+Safou	["plum"]
+Vitis rupestris	["beach"]
+Jackfruit	["jack"]
+
+
+TYNE_AND_WEAR
+54.97399999999999664623828721232712268829345703125, -1.61319999999999996731503415503539144992828369140625
+Honeydew melon	["winter"]
+Vitis rupestris	["beach", "rock"]
+
+
+WARWICKSHIRE
+None
+Ericaceae	["heath"]
+
+
+WEST_MIDLANDS_(COUNTY)
+52.5, -1.8333333300000000942731048780842684209346771240234375
+Vitis rupestris	["July"]
+
+
+WESTMORLAND
+54.5, -2.583333329999999872228499953052960336208343505859375
+Apple	["apple", "apple tree"]
+Apple (fruit)	["apple", "apple tree"]
+Malus	["Apple"]
+Tree	["tree"]
+
+
+WEST_SUFFOLK_(COUNTY)
+52.25, 0.71670000000000000373034936274052597582340240478515625
+Ericaceae	["heath"]
+
+
+WEST_SUSSEX
+50.9166666699999979073254507966339588165283203125, -0.5
+Ericaceae	["heath"]
+Honeydew melon	["winter"]
+Vitis rupestris	["July", "sand", "rock"]
+
+
+WEST_YORKSHIRE
+53.75, -1.6666666699999999057268951219157315790653228759765625
+Cherry	["cherry"]
+Date (fruit)	["date"]
+Food	["Food"]
+Lime (fruit)	["lime"]
+Phoenix dactylifera	["date"]
+Rhubarb	["Rhubarb"]
+Rose	["rose"]
+Vitis rupestris	["July"]
+
+
+WILTSHIRE
+51.3333333300000020926745492033660411834716796875, -1.9166666699999999057268951219157315790653228759765625
+Food	["Food"]
+Honeydew melon	["winter"]
+Vitis rupestris	["July", "rock"]
+
+
+WORCESTERSHIRE
+52.2000000000000028421709430404007434844970703125, -2.166666670000000127771500046947039663791656494140625
+Apple	["apple"]
+Apple (fruit)	["apple"]
+Dacryodes edulis	["plum"]
+Date (fruit)	["date"]
+Ericaceae	["heath"]
+Fruit	["fruit"]
+Malus	["Apple"]
+Pear	["pear"]
+Phoenix dactylifera	["date"]
+Plum	["plum"]
+Pyrus	["pear"]
+Safou	["plum"]
+Tree	["tree"]
+Fruit	["Fruit"]
+
+
+YORKSHIRE
+54, -2
+Date (fruit)	["date"]
+Ericaceae	["heather"]
+Food	["Food"]
+Honeydew melon	["winter"]
+Phoenix dactylifera	["date"]
+Rhubarb	["Rhubarb"]
+Rose	["rose"]
+Vitis rupestris	["July", "sand", "sugar", "beach", "rock"]
+
+
+EAST_RIDING_OF_YORKSHIRE
+53.9166666699999979073254507966339588165283203125, -0.5
+Date (fruit)	["date"]
+Food	["Food"]
+Honeydew melon	["winter"]
+Phoenix dactylifera	["date"]
+Rose	["rose"]
+
+
+NORTH_RIDING_OF_YORKSHIRE
+54.33777778000000324709617416374385356903076171875, -1.4286111100000000728726945453672669827938079833984375
+
+
+WEST_RIDING_OF_YORKSHIRE
+None

@@ -1,0 +1,425 @@
+ÁLAVA
+42.8333333300000020926745492033660411834716796875, -2.75
+Tree	["tres"]
+
+
+PROVINCIA_DE_ALBACETE
+38.8333333300000020926745492033660411834716796875, -2
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_ALICANTE
+38.5, -0.5
+Tamarillo	["berenjena"]
+Tangelo	["elo"]
+Armeniaca vulgaris	["albaricoque"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Loquat	["níspero"]
+Mabolo	["Manolo"]
+Mespilus germanica	["níspero"]
+Pepino	["pepino"]
+Phoenix dactylifera	["palma"]
+Prunus armeniaca	["albaricoque"]
+Pyrus	["perales"]
+Tamarillo	["berenjena"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ALMERÍA
+37.1666666699999979073254507966339588165283203125, -2.333333329999999872228499953052960336208343505859375
+Chayote	["erizo"]
+Mock strawberry	["Cal"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+PRINCIPADO_DE_ASTURIAS
+43.3333333300000020926745492033660411834716796875, -6
+Quince	["quince"]
+Vitis rupestris	["rock"]
+Brosimum alicastrum	["ramón"]
+Phoenix dactylifera	["palma"]
+Pluot	["Plato"]
+Quince	["quince"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ÁVILA
+40.61609167000000297775841318070888519287109375, -4.92903056000000017178308553411625325679779052734375
+Arecaceae	["palmeras"]
+Brosimum alicastrum	["ramón"]
+Pluot	["Plato"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_BADAJOZ
+38.6666666699999979073254507966339588165283203125, -6.1666666699999996836822901968844234943389892578125
+Quince	["quince"]
+Quince	["quince"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_BARCELONA
+41.4500000000000028421709430404007434844970703125, 2.083333329999999872228499953052960336208343505859375
+Tree	["tres"]
+
+
+PROVINCIA_DE_BURGOS
+42.383333329999999250503606162965297698974609375, -3.666666670000000127771500046947039663791656494140625
+Pluot	["Plato"]
+Salal	["Salas"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_CÁCERES
+39.6666666699999979073254507966339588165283203125, -6
+Passiflora ligularis	["granadilla", "granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_CÁDIZ
+36.5, -5.75
+Quince	["quince"]
+Brosimum alicastrum	["ramón"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Quince	["quince"]
+Tree	["tres"]
+
+
+CANTABRIA
+43.3333333300000020926745492033660411834716796875, -4
+Vitis rupestris	["rock"]
+Charichuelo	["Madroño"]
+Garcinia madruno	["madroño"]
+Melinjo	["merino"]
+Phoenix dactylifera	["palma", "fénix"]
+Ribes rubrum	["parrilla"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_CASTELLÓN
+40.1666666699999979073254507966339588165283203125, -0.1666666699999999889936219688024721108376979827880859375
+Arecaceae	["palmas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_CIUDAD_REAL
+39, -4
+Tree	["tres"]
+
+
+PROVINCIA_DE_CÓRDOBA_(ESPAÑA)
+38, -4.8333333300000003163177098031155765056610107421875
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma", "palmera"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_LA_CORUÑA
+43.36999999999999744204615126363933086395263671875, -8.4000000000000003552713678800500929355621337890625
+Tree	["tres"]
+
+
+PROVINCIA_DE_CUENCA
+40, -2
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_GERONA
+42.1666666699999979073254507966339588165283203125, 2.666666670000000127771500046947039663791656494140625
+
+
+PROVINCIA_DE_GRANADA
+37.25, -3.25
+Cherimoya	["chirimoya"]
+Avocado	["aguacate", "aguacate"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+
+
+PROVINCIA_DE_GUADALAJARA
+40.8333333300000020926745492033660411834716796875, -2.5
+Vitis rupestris	["rock"]
+Brosimum alicastrum	["ramón"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Sorbus	["serbales"]
+Tree	["tres"]
+
+
+GUIPÚZCOA
+43.1666666699999979073254507966339588165283203125, -2.166666670000000127771500046947039663791656494140625
+Phoenix dactylifera	["támara"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_HUELVA
+37.6666666699999979073254507966339588165283203125, -7
+Phalsa	["falsa"]
+Brosimum alicastrum	["ramón"]
+Citrus paradisi	["toronjo"]
+Guinep	["Guinea"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma"]
+Pomelo	["toronjo"]
+Punica granatum	["granado", "granada"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_HUESCA
+42.1666666699999979073254507966339588165283203125, -0.1666666699999999889936219688024721108376979827880859375
+Tree	["tres"]
+
+
+ISLAS_BALEARES
+39.5, 3
+Mock strawberry	["Cal"]
+Phoenix dactylifera	["palma"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_JAÉN_(ESPAÑA)
+38, -3.5
+Rose	["Rosa"]
+Vitis rupestris	["rock"]
+Mabolo	["Manolo"]
+Melinjo	["merino"]
+Passiflora ligularis	["granada"]
+Pluot	["Plato"]
+Punica granatum	["granada"]
+Salal	["Salas"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_LEÓN
+42.6666666699999979073254507966339588165283203125, -6
+Armeniaca vulgaris	["damasco"]
+Juniperus	["enebros", "sabinas"]
+Melinjo	["merino"]
+Mock strawberry	["Cal"]
+Prunus armeniaca	["damasco"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_LÉRIDA
+42, 1.1666666699999999057268951219157315790653228759765625
+Tree	["tres"]
+
+
+PROVINCIA_DE_LUGO
+43, -7.5
+
+
+COMUNIDAD_DE_MADRID
+40.5, -3.666666670000000127771500046947039663791656494140625
+Rose	["Rosa"]
+Arecaceae	["palmas"]
+Pyrus	["perales"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_MÁLAGA
+36.71666667000000217058186535723507404327392578125, -4.4166666699999996836822901968844234943389892578125
+Garcinia dulcis	["rata"]
+Mundu plant	["rata"]
+Charichuelo	["Madroño"]
+Chayote	["erizo"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Garcinia madruno	["madroño"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tree	["tres"]
+
+
+REGIÓN_DE_MURCIA
+38, -1.8333333300000000942731048780842684209346771240234375
+Arecaceae	["palmas"]
+Brosimum alicastrum	["ramón"]
+Charichuelo	["Madroño"]
+Garcinia madruno	["madroño"]
+Huito	["huerto"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palmera"]
+Pluot	["Plato"]
+Punica granatum	["granada"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+NAVARRA
+42.81666666999999648623997927643358707427978515625, -1.649999999999999911182158029987476766109466552734375
+Guinep	["Guinea"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ORENSE
+42.1666666699999979073254507966339588165283203125, -7.5
+Riberry	["Ribeiro"]
+Salal	["Salas"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_PALENCIA
+42.432127780000001848748070187866687774658203125, -4.52064721999999985513341016485355794429779052734375
+Tree	["tres"]
+
+
+PROVINCIA_DE_LAS_PALMAS
+28.333333329999998539960870402865111827850341796875, -14.3333333300000003163177098031155765056610107421875
+Arecaceae	["palmas"]
+
+
+PROVINCIA_DE_PONTEVEDRA
+42.5, -8.5
+Brosimum alicastrum	["ramón"]
+Mock strawberry	["Cal"]
+Tree	["tres"]
+
+
+LA_RIOJA_(ESPAÑA)
+42.25, -2.5
+Phalsa	["falsa"]
+Brosimum alicastrum	["ramón"]
+Juniperus	["enebros"]
+Lanzones	["robo"]
+Melinjo	["merino"]
+Pluot	["Plato"]
+Ribes rubrum	["grosellero", "parrilla"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+PROVINCIA_DE_SALAMANCA
+40.8333333300000020926745492033660411834716796875, -6
+Rose	["Rosa"]
+Phoenix dactylifera	["palma"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_SEGOVIA
+41.1666666699999979073254507966339588165283203125, -4
+Quince	["quince"]
+Quince	["quince"]
+
+
+PROVINCIA_DE_SEVILLA
+37.5, -5.5
+Quince	["quince"]
+Arecaceae	["palmas"]
+Citrus sinensis	["naranjo"]
+Mabolo	["Manolo"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Quince	["quince"]
+
+
+PROVINCIA_DE_SORIA
+41.6666666699999979073254507966339588165283203125, -2.666666670000000127771500046947039663791656494140625
+
+
+PROVINCIA_DE_TARRAGONA
+41.1666666699999979073254507966339588165283203125, 1
+
+
+PROVINCIA_DE_SANTA_CRUZ_DE_TENERIFE
+28.166666670000001460039129597134888172149658203125, -17.333333329999998539960870402865111827850341796875
+Arecaceae	["palmas"]
+Phoenix dactylifera	["palma"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_TERUEL
+40.6666666699999979073254507966339588165283203125, -0.66666667000000001674919758443138562142848968505859375
+Pyrus	["perales"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_TOLEDO
+39.8333333300000020926745492033660411834716796875, -4
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_VALENCIA
+39.3333333300000020926745492033660411834716796875, -0.83333332999999998325080241556861437857151031494140625
+Citrus sinensis	["naranjero"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_VALLADOLID
+41.5833333300000020926745492033660411834716796875, -4.6666666699999996836822901968844234943389892578125
+Rose	["Rosa"]
+Chayote	["erizo"]
+Fabaceae	["leguminosas"]
+Leguminosae	["leguminosas"]
+Oceania	["Oceanía"]
+Phoenix dactylifera	["palma"]
+Pluot	["Plato"]
+Sawo	["sapos"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+VIZCAYA
+43.25, -2.98333332999999978341065798304043710231781005859375
+Tree	["tres"]
+
+
+PROVINCIA_DE_ZAMORA
+41.75, -6
+Rose	["Rosa"]
+Tree	["tres"]
+
+
+PROVINCIA_DE_ZARAGOZA
+41.5833333300000020926745492033660411834716796875, -1
+Tree	["tres"]
+
+
+CEUTA
+35.8866670000000027584974304772913455963134765625, -5.29999999999999982236431605997495353221893310546875
+Ficus	["Ficus"]
+Arecaceae	["palmeras"]
+Brosimum alicastrum	["ramón"]
+Passiflora ligularis	["granada"]
+Punica granatum	["granada"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
+MELILLA
+35.282499999999998863131622783839702606201171875, -2.9474999999999997868371792719699442386627197265625
+Arecaceae	["palmeras"]
+Mabolo	["Manolo"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma"]
+Pluot	["Plato"]
+Punica granatum	["granada"]
+Salal	["Salas"]
+Tree	["tres"]
+
+

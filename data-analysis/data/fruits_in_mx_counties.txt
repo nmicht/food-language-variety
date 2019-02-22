@@ -1,0 +1,433 @@
+AGUASCALIENTES
+22.021666669999998333651092252694070339202880859375, -102.35638889000000517626176588237285614013671875
+Avocado	["aguacate", "aguacate"]
+Brosimum alicastrum	["ramón"]
+Mock strawberry	["Cal"]
+Psidium guajava	["guayaba"]
+Salal	["Salas"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+BAJA_CALIFORNIA
+29.949999999999999289457264239899814128875732421875, -115.116666670000000749496393837034702301025390625
+Garcinia dulcis	["rata"]
+Mundu plant	["rata"]
+Pachycereus pringlei	["cardón"]
+Saguaro	["saguaro"]
+Arecaceae	["palmas"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Guinep	["Guinea"]
+Pachycereus pringlei	["cardón"]
+Saguaro	["saguaro"]
+Soncoya	["Sonora"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+BAJA_CALIFORNIA_SUR
+25.846111109999998944886101526208221912384033203125, -111.9727777800000012575765140354633331298828125
+Cactaceae	["cactus"]
+Cactus	["cactus"]
+Tamarillo	["berenjena"]
+Cactaceae	["cactus"]
+Cactus	["cactus"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Guinep	["Guinea"]
+Peanut butter fruit	["calabaza"]
+Snake fruit	["calabaza"]
+Soncoya	["Sonora"]
+Tamarillo	["berenjena"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+CAMPECHE
+18.836388889999998497160049737431108951568603515625, -90.4033333299999952714642859064042568206787109375
+Fabaceae	["pea"]
+Fruit	["fruit"]
+Guanabana	["guanábana"]
+Leguminosae	["pea"]
+Papaya	["papaya"]
+Rose	["Rosa"]
+Soursop	["guanábana"]
+Vitis rupestris	["rock"]
+Apple fruit	["Fruit"]
+Avocado	["aguacate", "aguacate"]
+Banana	["plátano", "plátano"]
+Bitter melon	["ku"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Fruit	["Fruit"]
+Guanabana	["guanábana"]
+Mamey sapote	["zapote"]
+Mangifera	["mango"]
+Mock strawberry	["Cal"]
+Papaya	["papaya"]
+Peanut butter fruit	["calabaza"]
+Quararibea cordata	["zapote"]
+Snake fruit	["calabaza"]
+Tree	["tres"]
+
+
+CHIAPAS
+16.410000000000000142108547152020037174224853515625, -92.4086111099999953921724227257072925567626953125
+Ceiba pentandra	["ceiba"]
+Chayote	["Chayote"]
+Nance	["nanche"]
+Papaya	["papaya"]
+Avocado	["aguacate", "aguacate"]
+Banana	["plátano", "plátano"]
+Ceiba pentandra	["ceiba"]
+Chayote	["chayote"]
+Mangifera	["mango"]
+Mock strawberry	["Cal"]
+Papaya	["papaya"]
+Salal	["Salas"]
+Tree	["tres"]
+
+
+MEXICO_CITY
+19.41944443999999947436663205735385417938232421875, -99.1455555600000053573239711113274097442626953125
+Quince	["quince"]
+Vitis rupestris	["rock"]
+Oceania	["Oceanía"]
+Peanut butter fruit	["calabaza"]
+Quince	["quince"]
+Salal	["Salas"]
+Snake fruit	["calabaza"]
+Soncoya	["Sonora"]
+Tree	["tres"]
+
+
+COAHUILA
+27.302222220000000874051693244837224483489990234375, -102.0447222199999970371209201402962207794189453125
+Cactaceae	["cactus"]
+Cactus	["cactus"]
+Garcinia dulcis	["rata"]
+Jujube	["jujube"]
+Mundu plant	["rata"]
+Ziziphus mauritiana	["jujube"]
+Ziziphus zizyphus	["jujube"]
+Avocado	["aguacate", "aguacate"]
+Brosimum alicastrum	["ramón"]
+Cactaceae	["cactus"]
+Cactus	["cactus"]
+Juniperus	["sabinas"]
+Prunus persica	["durazno"]
+Punica granatum	["granado"]
+Soncoya	["Sonora"]
+Tree	["tres"]
+
+
+COLIMA
+19.096666670000001175822035293094813823699951171875, -103.9608333299999998189377947710454463958740234375
+Papaya	["papaya"]
+Arecaceae	["palmeras", "palmas"]
+Banana	["plátano", "plátano"]
+Brosimum alicastrum	["ramón"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Guinep	["Guinea"]
+Mangifera	["mango"]
+Manila tamarind	["guamúchil"]
+Papaya	["papaya"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma", "palmera"]
+Psidium guajava	["guayaba"]
+Punica granatum	["granada"]
+Tomato	["jitomate"]
+Tree	["tres"]
+
+
+DURANGO
+24.934722220000001158268787548877298831939697265625, -104.9119444399999991901495377533137798309326171875
+Brosimum alicastrum	["ramón"]
+Phoenix dactylifera	["palma"]
+Soncoya	["Sonora"]
+
+
+GUANAJUATO
+21.018888889999999491919879801571369171142578125, -101.262777779999993299497873522341251373291015625
+Rose	["Rosa"]
+Avocado	["aguacate", "aguacate"]
+Brosimum alicastrum	["ramón"]
+Cactaceae	["cactáceas"]
+Cactus	["cactáceas"]
+Ceiba pentandra	["pochote"]
+Charichuelo	["Madroño"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Garcinia madruno	["madroño"]
+Mamey sapote	["zapote"]
+Phoenix dactylifera	["palma"]
+Prunus persica	["durazno"]
+Prunus virginiana	["capulín"]
+Psidium guajava	["guayaba"]
+Quararibea cordata	["zapote"]
+Salal	["Salas"]
+Sawo	["ranas"]
+Tree	["tres"]
+
+
+GUERRERO
+None
+
+
+JALISCO
+20.566666670000000038953658076934516429901123046875, -103.67638888999999835505150258541107177734375
+Papaya	["papaya"]
+Avocado	["aguacate", "aguacate"]
+Banana	["plátano", "plátano"]
+Brosimum alicastrum	["ramón"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Mangifera	["mango"]
+Papaya	["papaya"]
+Peanut butter fruit	["calabaza"]
+Phoenix dactylifera	["palma"]
+Psidium guajava	["guayaba"]
+Snake fruit	["calabaza"]
+Soncoya	["Sonora"]
+Tomato	["jitomate"]
+Tree	["tres"]
+
+
+MORELOS
+18.747499999999998721023075631819665431976318359375, -99.070277779999997846971382386982440948486328125
+Cactaceae	["cactus"]
+Cactus	["cactus"]
+Papaya	["papaya"]
+Rose	["Rosa"]
+Avocado	["aguacate", "aguacate"]
+Banana	["plátano", "plátano"]
+Cactaceae	["cactus"]
+Cactus	["cactus"]
+Ceiba pentandra	["pochote"]
+Charichuelo	["Madroño"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Garcinia madruno	["madroño"]
+Jocote	["ciruela"]
+Mangifera	["mango"]
+Mock strawberry	["Cal"]
+Orchidaceae	["orquídeas"]
+Papaya	["papaya"]
+Peanut butter fruit	["calabaza"]
+Prunus persica	["durazno"]
+Snake fruit	["calabaza"]
+Tomato	["jitomate"]
+Tree	["tres"]
+Vitis	["vid"]
+
+
+NAYARIT
+21.74388889000000091300535132177174091339111328125, -105.22833332999999811363522894680500030517578125
+Avocado	["aguacate", "aguacate"]
+Banana	["plátano", "plátano"]
+Brosimum alicastrum	["ramón"]
+Mangifera	["mango"]
+Peanut butter fruit	["calabaza"]
+Pepino	["pepino"]
+Snake fruit	["calabaza"]
+Soncoya	["Sonora"]
+Tomato	["jitomate"]
+Tree	["tres"]
+
+
+OAXACA
+16.898055559999999530873537878505885601043701171875, -96.4141666700000001810622052289545536041259765625
+Cudrang	["che"]
+Cudrania tricuspidata	["che"]
+Honeydew melon	["winter"]
+Maclura tricuspidata	["che"]
+Mandarin melon berry	["che"]
+Quince	["quince"]
+Silkworm thorn	["che"]
+Avocado	["aguacate", "aguacate"]
+Cucumis melo	["melón"]
+Cudrang	["che"]
+Cudrania tricuspidata	["che"]
+Galia melon	["melón"]
+Maclura tricuspidata	["che"]
+Mamoncillo	["maco"]
+Mandarin melon berry	["che"]
+Orchidaceae	["orquídeas"]
+Peanut butter fruit	["calabaza"]
+Phoenix dactylifera	["palma"]
+Quenepa	["maco"]
+Quince	["quince"]
+Sawo	["sapos"]
+Silkworm thorn	["che"]
+Snake fruit	["calabaza"]
+Soncoya	["Sonora"]
+Tree	["tres"]
+
+
+PUEBLA
+19.00361111000000136073140311054885387420654296875, -97.888333329999994703030097298324108123779296875
+Cherimoya	["chirimoya"]
+Garcinia dulcis	["rata"]
+Mundu plant	["rata"]
+Neem	["Azadirachta indica", "neem"]
+Pitaya	["pitaya", "Pitaya"]
+Rose	["Rosa"]
+Strawberry pear	["pitaya", "Pitaya"]
+Armeniaca vulgaris	["chabacano"]
+Cactaceae	["cactáceas"]
+Cactus	["cactáceas"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Citrus sinensis	["naranjo"]
+Diospyros digyna	["zapote negro"]
+Mamey sapote	["zapote"]
+Neem	["Azadirachta indica", "neem"]
+Passiflora ligularis	["granada"]
+Phoenix dactylifera	["palma"]
+Pitaya	["pitaya"]
+Pluot	["Plato"]
+Prunus armeniaca	["chabacano"]
+Prunus persica	["durazno"]
+Psidium guajava	["guayaba"]
+Punica granatum	["granada"]
+Quararibea cordata	["zapote"]
+Tomato	["tomate"]
+Tree	["tres"]
+
+
+QUINTANA_ROO
+19.60000000000000142108547152020037174224853515625, -87.9166666699999979073254507966339588165283203125
+Garcinia dulcis	["rata"]
+Mundu plant	["rata"]
+Rose	["Rosa"]
+Brosimum alicastrum	["ramón"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Melinjo	["merino"]
+Soncoya	["Sonora"]
+Tree	["tres"]
+
+
+SINALOA
+25.002777779999998841731212451122701168060302734375, -107.502777780000002394444891251623630523681640625
+Pitaya	["pitahaya", "pitahaya"]
+Strawberry pear	["pitahaya", "pitahaya"]
+Brosimum alicastrum	["ramón"]
+Charichuelo	["Madroño"]
+Cucumis melo	["melón"]
+Galia melon	["melón"]
+Garcinia madruno	["madroño"]
+Manila tamarind	["guamúchil"]
+Ribes rubrum	["parrilla"]
+Soncoya	["Sonora"]
+Tomato	["jitomate"]
+Tree	["tres"]
+
+
+SONORA
+29.64611110999999965542883728630840778350830078125, -110.8688888899999938075779937207698822021484375
+Garcinia dulcis	["rata"]
+Mundu plant	["rata"]
+Pitaya	["pitahaya", "pitahaya"]
+Quince	["quince"]
+Strawberry pear	["pitahaya", "pitahaya"]
+Cherry of the Rio Grande	["Colorado"]
+Chokecherry	["Colorado"]
+Guava	["plantas medicinales"]
+Peanut butter fruit	["calabaza"]
+Quince	["quince"]
+Ribes rubrum	["parrilla"]
+Salal	["Salas"]
+Snake fruit	["calabaza"]
+Soncoya	["Sonora"]
+Tree	["tres"]
+
+
+TABASCO
+17.97222221999999902664058026857674121856689453125, -92.5888888900000068815643317066133022308349609375
+Ceiba pentandra	["ceiba"]
+Coco plum	["icaco"]
+Cocoplum	["icaco"]
+Guanabana	["guanábana"]
+Nance	["nance"]
+Pitaya	["pitahaya", "pitahaya"]
+Rose	["Rosa"]
+Shrub	["bush"]
+Soursop	["guanábana"]
+Strawberry pear	["pitahaya", "pitahaya"]
+Vitis rupestris	["bush"]
+Banana	["plátano", "plátano"]
+Ceiba pentandra	["ceiba", "ceibo"]
+Coccoloba uvifera	["uva de playa", "icaco"]
+Guanabana	["guanábana"]
+Jocote	["jobo"]
+Oil palm	["aceite de palma"]
+Phoenix dactylifera	["palma"]
+Salal	["Salas"]
+Tree	["tres"]
+Yellow mombin	["Jobo"]
+
+
+TAMAULIPAS
+24.287222220000000305617504636757075786590576171875, -98.563333330000006071713869459927082061767578125
+Brosimum alicastrum	["ramón"]
+Lanzones	["robo"]
+Tree	["tres"]
+
+
+TLAXCALA
+19.428888889999999634028426953591406345367431640625, -98.16083333000000266110873781144618988037109375
+Cherimoya	["chirimoya"]
+Garcinia dulcis	["rata"]
+Mundu plant	["rata"]
+Armeniaca vulgaris	["chabacano"]
+Citrus sinensis	["naranjo"]
+Peanut butter fruit	["calabaza"]
+Phoenix dactylifera	["palma"]
+Prunus armeniaca	["chabacano"]
+Prunus persica	["durazno"]
+Prunus virginiana	["capulín"]
+Psidium guajava	["guayaba"]
+Snake fruit	["calabaza"]
+Soncoya	["Sonora"]
+Tree	["tres"]
+
+
+VERACRUZ
+19.190277779999998841731212451122701168060302734375, -96.1533333299999952714642859064042568206787109375
+Mammea americana	["mamey"]
+Nance	["nanche"]
+Papaya	["papaya"]
+Brosimum alicastrum	["ramón"]
+Mamey sapote	["mamey"]
+Mammea americana	["mamey"]
+Mangifera	["mango"]
+Mock strawberry	["Cal"]
+Papaya	["papaya"]
+Peanut butter fruit	["calabaza"]
+Pluot	["Plato"]
+Snake fruit	["calabaza"]
+Tomato	["jitomate"]
+Tree	["tres"]
+
+
+ZACATECAS
+23.29277778000000154179360833950340747833251953125, -102.7005555599999979676795192062854766845703125
+Fabaceae	["pea"]
+Garcinia dulcis	["rata"]
+Leguminosae	["pea"]
+Mundu plant	["rata"]
+Brosimum alicastrum	["ramón"]
+Cactaceae	["cactáceas"]
+Cactus	["cactáceas"]
+Passiflora ligularis	["granada"]
+Peanut butter fruit	["calabaza"]
+Prunus persica	["durazno"]
+Psidium guajava	["guayaba"]
+Punica granatum	["granada"]
+Salal	["Salas"]
+Snake fruit	["calabaza"]
+Tomato	["jitomate"]
+Tree	["tres"]

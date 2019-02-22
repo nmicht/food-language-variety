@@ -13,3 +13,20 @@ Currently available for English and Spanish.
 ## Authors
 [@nmicht](https://github.com/nmicht/)
 [@jbrew](https://github.com/jbrew/)
+
+## To-Do
+
+- Clean up synonyms
+    - ~remove s, us, species, botany~
+    - ~regularize capitalization~
+    - ~remove single-synonym lists from synonyms~
+- ~Add key into the file of the found_words~
+- Run for counties/cities/farms in us, mx, es, and uk
+	- ~counties in uk~
+	- ~counties in us~
+	- ~states in mx~
+	- ~provinces in es~
+- Fix accented letters in file writing
+- Map coordinates with words in a map
+    - ~main_key --> [ (coord, names), (coord, names) ...]~
+    - Include image link in the distribution file
