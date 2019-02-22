@@ -1,32 +1,26 @@
 # Food names distribution
 
-A map to display distribution of food names using their synonyms in different regions.
+A map to display language variety of food names in United States, United Kingdom, Mexico and Spain.
 
-Currently available for English and Spanish.
+
+## How this works
+
+We took a bunch of data from Wikipedia and processed to find food names and their varieties according to regions classified by counties in US, MX and UK and provinces in ES.
+
+With this data, we plot the finding in a map.
+
+There is still a lot of cleaning pending on the data, but hey, that's what is about data processing, right?
+
 
 
 ## Technologies
 - Python
 - Wikipedia API
 - Beautiful Soup
+- React
+- Leaftlet
+
 
 ## Authors
-[@nmicht](https://github.com/nmicht/)
-[@jbrew](https://github.com/jbrew/)
-
-## To-Do
-
-- Clean up synonyms
-    - ~remove s, us, species, botany~
-    - ~regularize capitalization~
-    - ~remove single-synonym lists from synonyms~
-- ~Add key into the file of the found_words~
-- Run for counties/cities/farms in us, mx, es, and uk
-	- ~counties in uk~
-	- ~counties in us~
-	- ~states in mx~
-	- ~provinces in es~
-- Fix accented letters in file writing
-- Map coordinates with words in a map
-    - ~main_key --> [ (coord, names), (coord, names) ...]~
-    - Include image link in the distribution file
+- [@nmicht](https://github.com/nmicht/)  
+- [@jbrew](https://github.com/jbrew/)
