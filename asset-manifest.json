@@ -1,13 +1,22 @@
 {
-  "main.css": "/food-language-variety/static/css/main.ef0930da.chunk.css",
-  "main.js": "/food-language-variety/static/js/main.fbcb40c4.chunk.js",
-  "main.js.map": "/food-language-variety/static/js/main.fbcb40c4.chunk.js.map",
-  "runtime~main.js": "/food-language-variety/static/js/runtime~main.bf46237e.js",
-  "runtime~main.js.map": "/food-language-variety/static/js/runtime~main.bf46237e.js.map",
-  "static/js/2.f6159989.chunk.js": "/food-language-variety/static/js/2.f6159989.chunk.js",
-  "static/js/2.f6159989.chunk.js.map": "/food-language-variety/static/js/2.f6159989.chunk.js.map",
-  "index.html": "/food-language-variety/index.html",
-  "precache-manifest.576bcdfe15e6dd14ca9e686c8199a0b9.js": "/food-language-variety/precache-manifest.576bcdfe15e6dd14ca9e686c8199a0b9.js",
-  "service-worker.js": "/food-language-variety/service-worker.js",
-  "static/css/main.ef0930da.chunk.css.map": "/food-language-variety/static/css/main.ef0930da.chunk.css.map"
+  "files": {
+    "main.css": "/food-language-variety/static/css/main.9f39ccd6.chunk.css",
+    "main.js": "/food-language-variety/static/js/main.04b71b6f.chunk.js",
+    "main.js.map": "/food-language-variety/static/js/main.04b71b6f.chunk.js.map",
+    "runtime-main.js": "/food-language-variety/static/js/runtime-main.bac07ec0.js",
+    "runtime-main.js.map": "/food-language-variety/static/js/runtime-main.bac07ec0.js.map",
+    "static/js/2.35f3dac6.chunk.js": "/food-language-variety/static/js/2.35f3dac6.chunk.js",
+    "static/js/2.35f3dac6.chunk.js.map": "/food-language-variety/static/js/2.35f3dac6.chunk.js.map",
+    "index.html": "/food-language-variety/index.html",
+    "precache-manifest.5789fa66cc5ba70b4133e43d3c2adf4c.js": "/food-language-variety/precache-manifest.5789fa66cc5ba70b4133e43d3c2adf4c.js",
+    "service-worker.js": "/food-language-variety/service-worker.js",
+    "static/css/main.9f39ccd6.chunk.css.map": "/food-language-variety/static/css/main.9f39ccd6.chunk.css.map",
+    "static/js/2.35f3dac6.chunk.js.LICENSE.txt": "/food-language-variety/static/js/2.35f3dac6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bac07ec0.js",
+    "static/js/2.35f3dac6.chunk.js",
+    "static/css/main.9f39ccd6.chunk.css",
+    "static/js/main.04b71b6f.chunk.js"
+  ]
 }
